@@ -1,0 +1,4590 @@
+{
+    "date": [
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "bqy8-r3up",
+            "name": "Naturalization - Edmonton Insight Community"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "bqy8-r3up",
+            "name": "Naturalization - Edmonton Insight Community"
+        },
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "4hht-iw97",
+            "name": "Medically Supervised Injection Services - Edmonton Insight Community"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "4hht-iw97",
+            "name": "Medically Supervised Injection Services - Edmonton Insight Community"
+        },
+        {
+            "id": "meeting date",
+            "type": "calendar_date",
+            "desc": "Date of meeting",
+            "category": "date",
+            "concept": "time",
+            "dataset": "y29c-39y9",
+            "name": "2011-2013 Council and Committee Meetings - Meeting Details"
+        },
+        {
+            "id": "create date",
+            "type": "calendar_date",
+            "desc": "Date that the Purchase Order was created.",
+            "category": "date",
+            "concept": "time",
+            "dataset": "y9rm-5xha",
+            "name": "Purchase Orders Over $10,000"
+        },
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "49fy-4pc4",
+            "name": "Traffic Safety Culture - Edmonton Insight Community"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "49fy-4pc4",
+            "name": "Traffic Safety Culture - Edmonton Insight Community"
+        },
+        {
+            "id": "response date",
+            "type": "calendar_date",
+            "desc": "Date/Time the respondent first opened/started the survey.",
+            "category": "date",
+            "concept": "time",
+            "dataset": "mt3b-mcig",
+            "name": "City Communication - Edmonton Insight Community"
+        },
+        {
+            "id": "completion date",
+            "type": "calendar_date",
+            "desc": "Date/Time the respondent finished the survey.",
+            "category": "date",
+            "concept": "time",
+            "dataset": "mt3b-mcig",
+            "name": "City Communication - Edmonton Insight Community"
+        },
+        {
+            "id": "permit date",
+            "type": "calendar_date",
+            "desc": "The date when Building Permit has been issued.",
+            "category": "date",
+            "concept": "time",
+            "dataset": "24uj-dj8v",
+            "name": "General Building Permits"
+        },
+        {
+            "id": "report permit date",
+            "type": "calendar_date",
+            "desc": "Report label",
+            "category": "date",
+            "concept": "time",
+            "dataset": "24uj-dj8v",
+            "name": "General Building Permits"
+        },
+        {
+            "id": "issue date",
+            "type": "calendar_date",
+            "desc": "Date Business Licence Issued",
+            "category": "date",
+            "concept": "time",
+            "dataset": "qhi4-bdpu",
+            "name": "City of Edmonton - Business Licenses"
+        },
+        {
+            "id": "expiry date",
+            "type": "calendar_date",
+            "desc": "Date Business Licence Is to Expire",
+            "category": "date",
+            "concept": "time",
+            "dataset": "qhi4-bdpu",
+            "name": "City of Edmonton - Business Licenses"
+        },
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "7ph4-x5hn",
+            "name": "Speed Smart - Edmonton Insight Community"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "7ph4-x5hn",
+            "name": "Speed Smart - Edmonton Insight Community"
+        },
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": "\nDate/Time the respondent first opened/started the survey.\n",
+            "category": "date",
+            "concept": "time",
+            "dataset": "6m6z-ybit",
+            "name": "New Years Eve Downtown - Edmonton Insight Community"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": "\nDate/Time the respondent finished the survey.\n",
+            "category": "date",
+            "concept": "time",
+            "dataset": "6m6z-ybit",
+            "name": "New Years Eve Downtown - Edmonton Insight Community"
+        },
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "9kdx-y5ve",
+            "name": "Food Council 2017 - Edmonton Insight Community"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "9kdx-y5ve",
+            "name": "Food Council 2017 - Edmonton Insight Community"
+        },
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "5iq2-kd7q",
+            "name": "Parking - Edmonton Insight Community"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "5iq2-kd7q",
+            "name": "Parking - Edmonton Insight Community"
+        },
+        {
+            "id": "trap date",
+            "type": "calendar_date",
+            "desc": "Date when the mosquito traps are collected. An empty mosquito traps are replaced for the next collection at the same time.",
+            "category": "date",
+            "concept": "time",
+            "dataset": "5zeu-wkpv",
+            "name": "Mosquitoes Trap Data"
+        },
+        {
+            "id": "since time stamp",
+            "type": "calendar_date",
+            "desc": "The date and time of when the Device went Out of Service",
+            "category": "date",
+            "concept": "time",
+            "dataset": "snws-u3zx",
+            "name": "LRT Elevator/Escalator Outages"
+        },
+        {
+            "id": "polled time stamp",
+            "type": "calendar_date",
+            "desc": "The date and time that the Op Status for the Device was last updated.",
+            "category": "date",
+            "concept": "time",
+            "dataset": "snws-u3zx",
+            "name": "LRT Elevator/Escalator Outages"
+        },
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "ebg5-nbub",
+            "name": "Imagine Jasper Avenue - Edmonton Insight Community"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "ebg5-nbub",
+            "name": "Imagine Jasper Avenue - Edmonton Insight Community"
+        },
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "k8gt-z8tr",
+            "name": "Fire Rescue Public Education - Edmonton Insight Community"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "k8gt-z8tr",
+            "name": "Fire Rescue Public Education - Edmonton Insight Community"
+        },
+        {
+            "id": "date",
+            "type": "text",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "4e5k-hg84",
+            "name": "Mayor's Meeting Expenses (2014 - 2016)"
+        },
+        {
+            "id": "date entered",
+            "type": "calendar_date",
+            "desc": "Date when Caution or closure is identified",
+            "category": "date",
+            "concept": "time",
+            "dataset": "k4mi-dkvi",
+            "name": "River Valley - Trail Cautions and Closures"
+        },
+        {
+            "id": "date updated",
+            "type": "calendar_date",
+            "desc": "Date when last change is made",
+            "category": "date",
+            "concept": "time",
+            "dataset": "k4mi-dkvi",
+            "name": "River Valley - Trail Cautions and Closures"
+        },
+        {
+            "id": "start date",
+            "type": "text",
+            "desc": "Reported start date of caution or closure",
+            "category": "date",
+            "concept": "time",
+            "dataset": "k4mi-dkvi",
+            "name": "River Valley - Trail Cautions and Closures"
+        },
+        {
+            "id": "end date",
+            "type": "text",
+            "desc": "Reported finish date of caution or closure.",
+            "category": "date",
+            "concept": "time",
+            "dataset": "k4mi-dkvi",
+            "name": "River Valley - Trail Cautions and Closures"
+        },
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "augn-hcya",
+            "name": "Downtown Pedways - Edmonton Insight Community"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "augn-hcya",
+            "name": "Downtown Pedways - Edmonton Insight Community"
+        },
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "nyfn-ekkx",
+            "name": "Buddy Benches - Edmonton Insight Community"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "nyfn-ekkx",
+            "name": "Buddy Benches - Edmonton Insight Community"
+        },
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "rzdi-zv3f",
+            "name": "Insight Community Experience - Edmonton Insight Community"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "rzdi-zv3f",
+            "name": "Insight Community Experience - Edmonton Insight Community"
+        },
+        {
+            "id": "response date",
+            "type": "calendar_date",
+            "desc": "Date/Time the respondent first opened/started the survey.",
+            "category": "date",
+            "concept": "time",
+            "dataset": "gywn-ipg9",
+            "name": "Canada 150 - Edmonton Insight Community"
+        },
+        {
+            "id": "completion date",
+            "type": "calendar_date",
+            "desc": "Date/Time the respondent finished the survey.",
+            "category": "date",
+            "concept": "time",
+            "dataset": "gywn-ipg9",
+            "name": "Canada 150 - Edmonton Insight Community"
+        },
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "veph-fadt",
+            "name": "Secondary Suites - Edmonton Insight Community"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "veph-fadt",
+            "name": "Secondary Suites - Edmonton Insight Community"
+        },
+        {
+            "id": "construction date",
+            "type": "text",
+            "desc": "Approximate date when building or structure was built",
+            "category": "date",
+            "concept": "time",
+            "dataset": "prfy-5m97",
+            "name": "Historical Buildings"
+        },
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "ifn7-uij5",
+            "name": "Smart City Focus Groups - Edmonton Insight Community"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "ifn7-uij5",
+            "name": "Smart City Focus Groups - Edmonton Insight Community"
+        },
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": "\nDate/Time the respondent first opened/started the survey.\n",
+            "category": "date",
+            "concept": "time",
+            "dataset": "cjcn-85t7",
+            "name": "Measuring Progress Questionnaire - Safety In The City"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": "\nDate/Time the respondent finished the survey.\n",
+            "category": "date",
+            "concept": "time",
+            "dataset": "cjcn-85t7",
+            "name": "Measuring Progress Questionnaire - Safety In The City"
+        },
+        {
+            "id": "proclamation date",
+            "type": "calendar_date",
+            "desc": "Date Proclamation made",
+            "category": "date",
+            "concept": "time",
+            "dataset": "avu6-pknu",
+            "name": "City Proclamations List"
+        },
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "mtj3-59sb",
+            "name": "River Crossing Heritage Interpretive Plan - Edmonton Insight Community"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "mtj3-59sb",
+            "name": "River Crossing Heritage Interpretive Plan - Edmonton Insight Community"
+        },
+        {
+            "id": "the week of:",
+            "type": "calendar_date",
+            "desc": "The week when street cleaning activity is scheduled in the Neighbourhood",
+            "category": "date",
+            "concept": "time",
+            "dataset": "h9sn-ds8j",
+            "name": "Residential Street Cleaning Schedule"
+        },
+        {
+            "id": "earliest scheduled start date",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "h9sn-ds8j",
+            "name": "Residential Street Cleaning Schedule"
+        },
+        {
+            "id": "latest scheduled start date",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "h9sn-ds8j",
+            "name": "Residential Street Cleaning Schedule"
+        },
+        {
+            "id": "planned start date",
+            "type": "text",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "h9sn-ds8j",
+            "name": "Residential Street Cleaning Schedule"
+        },
+        {
+            "id": "data update",
+            "type": "calendar_date",
+            "desc": "Details of when the dataset was updated",
+            "category": "date",
+            "concept": "time",
+            "dataset": "h9sn-ds8j",
+            "name": "Residential Street Cleaning Schedule"
+        },
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "25yk-jmjh",
+            "name": "Public Engagement - Edmonton Insight Community"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "25yk-jmjh",
+            "name": "Public Engagement - Edmonton Insight Community"
+        },
+        {
+            "id": "date",
+            "type": "text",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "igga-nzee",
+            "name": "Councillors' Common Travel And Training (2014 - 2016)"
+        },
+        {
+            "id": "date created",
+            "type": "calendar_date",
+            "desc": "The date the service request was submitted.",
+            "category": "date",
+            "concept": "time",
+            "dataset": "ukww-xkmj",
+            "name": "311 Explorer"
+        },
+        {
+            "id": "date closed",
+            "type": "calendar_date",
+            "desc": "The date the service request was acted upon. The appropriate City department has investigated the concern and identified steps to resolve your request. Action for resolving the issue may be deferred as work may be dependent on priority and weather conditions or your issue has been closed due to lack of information including contact details. (311 Explorer version)",
+            "category": "date",
+            "concept": "time",
+            "dataset": "ukww-xkmj",
+            "name": "311 Explorer"
+        },
+        {
+            "id": "approx. start",
+            "type": "text",
+            "desc": "Approximate start date of the project ",
+            "category": "date",
+            "concept": "time",
+            "dataset": "zxf6-rv9a",
+            "name": "2016 Street Construction Projects"
+        },
+        {
+            "id": "approx. finish",
+            "type": "text",
+            "desc": "Approximate end date of the project ",
+            "category": "date",
+            "concept": "time",
+            "dataset": "zxf6-rv9a",
+            "name": "2016 Street Construction Projects"
+        },
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "2wiz-k5z2",
+            "name": "Your View of Edmonton - Edmonton Insight Community"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "2wiz-k5z2",
+            "name": "Your View of Edmonton - Edmonton Insight Community"
+        },
+        {
+            "id": "booking date",
+            "type": "text",
+            "desc": "Calendar Date for Activity",
+            "category": "date",
+            "concept": "time",
+            "dataset": "tm8z-k466",
+            "name": "Recreational Facilities - Drop In Swim"
+        },
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "wphc-nrc2",
+            "name": "Transportation Safety - Edmonton Insight Community"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "wphc-nrc2",
+            "name": "Transportation Safety - Edmonton Insight Community"
+        },
+        {
+            "id": "period",
+            "type": "text",
+            "desc": "Year/Month",
+            "category": "date",
+            "concept": "time",
+            "dataset": "bvgz-epnk",
+            "name": "2012 Monthly KM's Driven By Asset Class And Department"
+        },
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "8r47-e8yy",
+            "name": "Pawn Shops - Edmonton Insight Community"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "8r47-e8yy",
+            "name": "Pawn Shops - Edmonton Insight Community"
+        },
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "tbsz-v2rj",
+            "name": "Cannabis - Edmonton Insight Community"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "tbsz-v2rj",
+            "name": "Cannabis - Edmonton Insight Community"
+        },
+        {
+            "id": "period",
+            "type": "text",
+            "desc": "Year/Month",
+            "category": "date",
+            "concept": "time",
+            "dataset": "nmyd-hbqs",
+            "name": "2014 Monthly KM's Driven By Asset Class And Department"
+        },
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "dnii-845h",
+            "name": "City Pools - Edmonton Insight Community"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "dnii-845h",
+            "name": "City Pools - Edmonton Insight Community"
+        },
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "vdes-kthy",
+            "name": "City Council Procedures - Edmonton Insight Community"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "vdes-kthy",
+            "name": "City Council Procedures - Edmonton Insight Community"
+        },
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "9352-imp8",
+            "name": "Exhibition Lands - Edmonton Insight Community"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "9352-imp8",
+            "name": "Exhibition Lands - Edmonton Insight Community"
+        },
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "69f4-nnng",
+            "name": "Food Council 2016 - Edmonton Insight Community"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "69f4-nnng",
+            "name": "Food Council 2016 - Edmonton Insight Community"
+        },
+        {
+            "id": "planted date",
+            "type": "text",
+            "desc": "The date a tree was planted, if known.",
+            "category": "date",
+            "concept": "time",
+            "dataset": "eecg-fc54",
+            "name": "Trees"
+        },
+        {
+            "id": "time",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "4fc3-4cxh",
+            "name": "Twitter Analytics Around Open Data Day 2017"
+        },
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "pwej-zwwc",
+            "name": "Spray Parks - Insight Community"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": NaN,
+            "category": "date",
+            "concept": "time",
+            "dataset": "pwej-zwwc",
+            "name": "Spray Parks - Insight Community"
+        },
+        {
+            "id": "responsedate",
+            "type": "calendar_date",
+            "desc": "\nDate/Time the respondent first opened/started the survey.",
+            "category": "date",
+            "concept": "time",
+            "dataset": "e6mn-r36x",
+            "name": "Bike Safety - Edmonton Insight Community"
+        },
+        {
+            "id": "completiondate",
+            "type": "calendar_date",
+            "desc": "Date/Time the respondent finished the survey.",
+            "category": "date",
+            "concept": "time",
+            "dataset": "e6mn-r36x",
+            "name": "Bike Safety - Edmonton Insight Community"
+        },
+        {
+            "id": "request creation date",
+            "type": "calendar_date",
+            "desc": "Request Creation Date",
+            "category": "date",
+            "concept": "time",
+            "dataset": "i4kt-z6xs",
+            "name": "Requests for Data"
+        },
+        {
+            "id": "status date",
+            "type": "calendar_date",
+            "desc": "Date/time when the current status was set",
+            "category": "date",
+            "concept": "time",
+            "dataset": "i4kt-z6xs",
+            "name": "Requests for Data"
+        },
+        {
+            "id": "dataset published date",
+            "type": "calendar_date",
+            "desc": "What date the dataset went public",
+            "category": "date",
+            "concept": "time",
+            "dataset": "i4kt-z6xs",
+            "name": "Requests for Data"
+        },
+        {
+            "id": "date and time",
+            "type": "calendar_date",
+            "desc": "The date and time of the levels and flows reading.",
+            "category": "date",
+            "concept": "time",
+            "dataset": "cnsu-iagr",
+            "name": "Water Levels and Flows"
+        },
+        {
+            "id": "date closed",
+            "type": "calendar_date",
+            "desc": "The date the appropriate City department has investigated the concern and identified steps to resolve your request. Action for resolving the issue may be dependent on priority and weather conditions or your issue has been closed due to lack of information including contact details.",
+            "category": "date",
+            "concept": "time",
+            "dataset": "vvnz-h46c",
+            "name": "311 Requests (2014)"
+        },
+        {
+            "id": "date created",
+            "type": "calendar_date",
+            "desc": "The date the service request ticket was created ",
+            "category": "date",
+            "concept": "time",
+            "dataset": "vvnz-h46c",
+            "name": "311 Requests (2014)"
+        },
+        {
+            "id": "start date",
+            "type": "calendar_date",
+            "desc": "Development Permit start date.",
+            "category": "date",
+            "concept": "time",
+            "dataset": "2976-zu3f",
+            "name": "Temporary Sign Locations"
+        },
+        {
+            "id": "expiry date",
+            "type": "calendar_date",
+            "desc": "Development Permit expiry date. After this date, the Development Permit is no longer valid.",
+            "category": "date",
+            "concept": "time",
+            "dataset": "2976-zu3f",
+            "name": "Temporary Sign Locations"
+        },
+        {
+            "id": "scheduled from date",
+            "type": "calendar_date",
+            "desc": "The start date for the week of enforcement at the specified enforcement site.",
+            "category": "date",
+            "concept": "time",
+            "dataset": "mbyc-ffgt",
+            "name": "Scheduled Photo Enforcement Zones - History"
+        },
+        {
+            "id": "scheduled to date",
+            "type": "calendar_date",
+            "desc": "The end date for the week of enforcement at the specified enforcement site.",
+            "category": "date",
+            "concept": "time",
+            "dataset": "mbyc-ffgt",
+            "name": "Scheduled Photo Enforcement Zones - History"
+        }
+    ],
+    "year": [
+        {
+            "id": "budget year",
+            "type": "number",
+            "desc": "Calendar year for budget.",
+            "category": "year",
+            "concept": "time",
+            "dataset": "da9s-v9j8",
+            "name": "Approved Operating Budget - Expenses"
+        },
+        {
+            "id": "year",
+            "type": "number",
+            "desc": "Year the Purchase Order was created",
+            "category": "year",
+            "concept": "time",
+            "dataset": "y9rm-5xha",
+            "name": "Purchase Orders Over $10,000"
+        },
+        {
+            "id": "year",
+            "type": "number",
+            "desc": "Year when permit was issued.",
+            "category": "year",
+            "concept": "time",
+            "dataset": "24uj-dj8v",
+            "name": "General Building Permits"
+        },
+        {
+            "id": "year constructed",
+            "type": "number",
+            "desc": "Year in which the Inlet-Outlet was built",
+            "category": "year",
+            "concept": "time",
+            "dataset": "eu53-j7sn",
+            "name": "Drainage - Inlets/Outlets"
+        },
+        {
+            "id": "year constructed",
+            "type": "number",
+            "desc": "Year in which the Pump Station was built",
+            "category": "year",
+            "concept": "time",
+            "dataset": "ryeb-sgt7",
+            "name": "Drainage - Pump Stations"
+        },
+        {
+            "id": "year",
+            "type": "number",
+            "desc": NaN,
+            "category": "year",
+            "concept": "time",
+            "dataset": "4e5k-hg84",
+            "name": "Mayor's Meeting Expenses (2014 - 2016)"
+        },
+        {
+            "id": "year",
+            "type": "number",
+            "desc": NaN,
+            "category": "year",
+            "concept": "time",
+            "dataset": "igga-nzee",
+            "name": "Councillors' Common Travel And Training (2014 - 2016)"
+        },
+        {
+            "id": "year",
+            "type": "number",
+            "desc": "The year that the place feature was named.",
+            "category": "year",
+            "concept": "time",
+            "dataset": "59sa-iw7i",
+            "name": "Indigenous Place Names of Edmonton"
+        },
+        {
+            "id": "year",
+            "type": "number",
+            "desc": "Calendar Year",
+            "category": "year",
+            "concept": "time",
+            "dataset": "25sf-z8zd",
+            "name": "Residential Building Permits 2009-2014"
+        },
+        {
+            "id": "calendar year",
+            "type": "number",
+            "desc": "Year when Service Ticket was created.",
+            "category": "year",
+            "concept": "time",
+            "dataset": "ukww-xkmj",
+            "name": "311 Explorer"
+        },
+        {
+            "id": "start year",
+            "type": "text",
+            "desc": "Proposed Implementation Year",
+            "category": "year",
+            "concept": "time",
+            "dataset": "zxf6-rv9a",
+            "name": "2016 Street Construction Projects"
+        },
+        {
+            "id": "year",
+            "type": "number",
+            "desc": "Calendar Year number",
+            "category": "year",
+            "concept": "time",
+            "dataset": "xgwu-c37w",
+            "name": "Bylaw Infractions"
+        },
+        {
+            "id": "year",
+            "type": "number",
+            "desc": "Year of incident.",
+            "category": "year",
+            "concept": "time",
+            "dataset": "2gxp-ymsd",
+            "name": "2015-2016 Graffiti Audit"
+        },
+        {
+            "id": "year",
+            "type": "number",
+            "desc": NaN,
+            "category": "year",
+            "concept": "time",
+            "dataset": "qprk-qd35",
+            "name": "Councillors' Ward Expenses (2014 - 2016)"
+        },
+        {
+            "id": "year",
+            "type": "number",
+            "desc": "Year of Collision",
+            "category": "year",
+            "concept": "time",
+            "dataset": "b8xx-awif",
+            "name": "Top 100 Intersection Collision Locations (2012-2013)"
+        },
+        {
+            "id": "year",
+            "type": "number",
+            "desc": "Calendar year for budget",
+            "category": "year",
+            "concept": "time",
+            "dataset": "eazf-zhey",
+            "name": "City of Edmonton - Financial Budget (Full Time Equivalence)"
+        },
+        {
+            "id": "year",
+            "type": "number",
+            "desc": "Calendar year for budget",
+            "category": "year",
+            "concept": "time",
+            "dataset": "qycq-4ckj",
+            "name": "City of Edmonton - Financial Budget"
+        },
+        {
+            "id": "year",
+            "type": "number",
+            "desc": "The year the traffic volumes pertain to.",
+            "category": "year",
+            "concept": "time",
+            "dataset": "b58q-nxjr",
+            "name": "Average Annual Weekday Traffic Volumes (2009-2015)"
+        },
+        {
+            "id": "year",
+            "type": "number",
+            "desc": "Calendar Year",
+            "category": "year",
+            "concept": "time",
+            "dataset": "8t7s-6vwq",
+            "name": "Residential Building Permits 2015"
+        },
+        {
+            "id": "fiscal year",
+            "type": "number",
+            "desc": "Calendar year",
+            "category": "year",
+            "concept": "time",
+            "dataset": "pdmi-3qjb",
+            "name": "Open Data Budget - Capital (2015)"
+        },
+        {
+            "id": "year",
+            "type": "number",
+            "desc": "The Year in which the 311 ticket was created.",
+            "category": "year",
+            "concept": "time",
+            "dataset": "vvnz-h46c",
+            "name": "311 Requests (2014)"
+        }
+    ],
+    "type": [
+        {
+            "id": "fund type",
+            "type": "text",
+            "desc": "Fund Type of budget item.",
+            "category": "type",
+            "concept": "type",
+            "dataset": "da9s-v9j8",
+            "name": "Approved Operating Budget - Expenses"
+        },
+        {
+            "id": "category",
+            "type": "text",
+            "desc": "Budget item description.",
+            "category": "type",
+            "concept": "type",
+            "dataset": "da9s-v9j8",
+            "name": "Approved Operating Budget - Expenses"
+        }
+    ],
+    "NaN": [
+        {
+            "id": "name",
+            "type": "text",
+            "desc": "Name of senior centre",
+            "category": NaN,
+            "concept": "name",
+            "dataset": "zmac-3mxq",
+            "name": "Seniors Centres"
+        },
+        {
+            "id": "animal type",
+            "type": "text",
+            "desc": "Cat or dog",
+            "category": NaN,
+            "concept": "type",
+            "dataset": "bqmh-j34s",
+            "name": "Licensed Pets by Breed and Forward Sortation Area (FSA)"
+        },
+        {
+            "id": "zoning",
+            "type": "text",
+            "desc": "Land use zone",
+            "category": NaN,
+            "concept": "area",
+            "dataset": "24uj-dj8v",
+            "name": "General Building Permits"
+        },
+        {
+            "id": "location name",
+            "type": "text",
+            "desc": "General location where caution or closure is to happen.",
+            "category": NaN,
+            "concept": "location",
+            "dataset": "k4mi-dkvi",
+            "name": "River Valley - Trail Cautions and Closures"
+        },
+        {
+            "id": "name",
+            "type": "text",
+            "desc": "Name/location of project that has LID features",
+            "category": NaN,
+            "concept": "location",
+            "dataset": "3xir-jjpa",
+            "name": "Low Impact Development Inventory"
+        },
+        {
+            "id": "google coordinates",
+            "type": "text",
+            "desc": "The Google geo coordinates (since the source is a Google Map)",
+            "category": NaN,
+            "concept": "location",
+            "dataset": "6iyz-9q3c",
+            "name": "EPark Pay Machine Locations"
+        },
+        {
+            "id": "location name",
+            "type": "text",
+            "desc": "Name of the place where the WiFi antenna is located.",
+            "category": NaN,
+            "concept": "location",
+            "dataset": "vbxz-36ag",
+            "name": "Open City Wi-Fi Locations"
+        },
+        {
+            "id": "collision location name",
+            "type": "text",
+            "desc": "Intersection name where the collisions occurred",
+            "category": NaN,
+            "concept": "location",
+            "dataset": "rpc2-fbcm",
+            "name": "Top Ten Collision Locations (2016)"
+        },
+        {
+            "id": "maintenance area",
+            "type": "number",
+            "desc": "Unique identifier for a particular Maintenance Area",
+            "category": NaN,
+            "concept": "area",
+            "dataset": "h9sn-ds8j",
+            "name": "Residential Street Cleaning Schedule"
+        },
+        {
+            "id": "named place",
+            "type": "text",
+            "desc": "Place name used at a specific location within Edmonton.",
+            "category": NaN,
+            "concept": "location",
+            "dataset": "59sa-iw7i",
+            "name": "Indigenous Place Names of Edmonton"
+        },
+        {
+            "id": "city sector",
+            "type": "text",
+            "desc": "General Geographic Area of City",
+            "category": NaN,
+            "concept": "area",
+            "dataset": "25sf-z8zd",
+            "name": "Residential Building Permits 2009-2014"
+        },
+        {
+            "id": "traffic district",
+            "type": "number",
+            "desc": "Unique Transportation Management Area as identified by Transportation Services",
+            "category": NaN,
+            "concept": "area",
+            "dataset": "25sf-z8zd",
+            "name": "Residential Building Permits 2009-2014"
+        },
+        {
+            "id": "project location",
+            "type": "text",
+            "desc": "Project location and indicator number as found on the printed Construction On Your Streets map and Ward map section.",
+            "category": NaN,
+            "concept": "location",
+            "dataset": "zxf6-rv9a",
+            "name": "2016 Street Construction Projects"
+        },
+        {
+            "id": "5 years or more",
+            "type": "number",
+            "desc": "Number of Persons",
+            "category": NaN,
+            "concept": "population",
+            "dataset": "9k3k-n9pz",
+            "name": "2016 Census - Population by Structure Type and Length of Residence (Citywide)"
+        },
+        {
+            "id": "no response",
+            "type": "number",
+            "desc": "Number of Persons that did not provide a Response",
+            "category": NaN,
+            "concept": "population",
+            "dataset": "9k3k-n9pz",
+            "name": "2016 Census - Population by Structure Type and Length of Residence (Citywide)"
+        },
+        {
+            "id": "5 years or more",
+            "type": "number",
+            "desc": "Number of Persons",
+            "category": NaN,
+            "concept": "population",
+            "dataset": "fnz6-5t6a",
+            "name": "2016 Census - Population by Ownership and Length of Residence (Citywide)"
+        },
+        {
+            "id": "no response",
+            "type": "number",
+            "desc": "No Response",
+            "category": NaN,
+            "concept": "population",
+            "dataset": "fnz6-5t6a",
+            "name": "2016 Census - Population by Ownership and Length of Residence (Citywide)"
+        },
+        {
+            "id": "report period",
+            "type": "text",
+            "desc": "Month and Year when complaint was made",
+            "category": NaN,
+            "concept": "time",
+            "dataset": "xgwu-c37w",
+            "name": "Bylaw Infractions"
+        },
+        {
+            "id": "female",
+            "type": "number",
+            "desc": " ",
+            "category": NaN,
+            "concept": "sex",
+            "dataset": "gy8c-eq6u",
+            "name": "2009 Census - Population By Single Year Of Age And Gender (Citywide)"
+        },
+        {
+            "id": "male",
+            "type": "number",
+            "desc": " ",
+            "category": NaN,
+            "concept": "sex",
+            "dataset": "gy8c-eq6u",
+            "name": "2009 Census - Population By Single Year Of Age And Gender (Citywide)"
+        },
+        {
+            "id": "collision location - intersection",
+            "type": "text",
+            "desc": "Name of Intersection",
+            "category": NaN,
+            "concept": "location",
+            "dataset": "b8xx-awif",
+            "name": "Top 100 Intersection Collision Locations (2012-2013)"
+        },
+        {
+            "id": "public",
+            "type": "number",
+            "desc": "Number of Individuals Supporting School Board",
+            "category": NaN,
+            "concept": "population",
+            "dataset": "sqn3-6cp5",
+            "name": "2016 Census - Population by School Residency (Neighbourhood/Ward)"
+        },
+        {
+            "id": "catholic",
+            "type": "number",
+            "desc": "Number of Individuals Supporting School Board",
+            "category": NaN,
+            "concept": "population",
+            "dataset": "sqn3-6cp5",
+            "name": "2016 Census - Population by School Residency (Neighbourhood/Ward)"
+        },
+        {
+            "id": "francophone",
+            "type": "number",
+            "desc": "Number of Individuals Supporting School Board",
+            "category": NaN,
+            "concept": "population",
+            "dataset": "sqn3-6cp5",
+            "name": "2016 Census - Population by School Residency (Neighbourhood/Ward)"
+        },
+        {
+            "id": "no response",
+            "type": "number",
+            "desc": "Number of individuals that did not provide a response to this question",
+            "category": NaN,
+            "concept": "population",
+            "dataset": "sqn3-6cp5",
+            "name": "2016 Census - Population by School Residency (Neighbourhood/Ward)"
+        },
+        {
+            "id": "female",
+            "type": "number",
+            "desc": NaN,
+            "category": NaN,
+            "concept": "population",
+            "dataset": "33jk-s9st",
+            "name": "2012 Census - Population By Single Year Of Age And Gender (Ward)"
+        },
+        {
+            "id": "male",
+            "type": "number",
+            "desc": NaN,
+            "category": NaN,
+            "concept": "population",
+            "dataset": "33jk-s9st",
+            "name": "2012 Census - Population By Single Year Of Age And Gender (Ward)"
+        },
+        {
+            "id": "facility name",
+            "type": "text",
+            "desc": "Location of Voting Station",
+            "category": NaN,
+            "concept": "location",
+            "dataset": "h9v5-2eis",
+            "name": "2013 Edmonton Election - Results Details (by Voting Station)"
+        },
+        {
+            "id": "sexe",
+            "type": "text",
+            "desc": NaN,
+            "category": NaN,
+            "concept": "sex",
+            "dataset": "2g3q-ffpc",
+            "name": "Climate Perceptions Baseline Survey Data, Questionnaire and Final Report"
+        },
+        {
+            "id": "city sector",
+            "type": "text",
+            "desc": "General Geographic Area of City",
+            "category": NaN,
+            "concept": "area",
+            "dataset": "8t7s-6vwq",
+            "name": "Residential Building Permits 2015"
+        },
+        {
+            "id": "female",
+            "type": "number",
+            "desc": " ",
+            "category": NaN,
+            "concept": "population",
+            "dataset": "qzrg-q4nv",
+            "name": "2009 Census - Population By Single Year Of Age And Gender (Neighbourhood)"
+        },
+        {
+            "id": "male",
+            "type": "number",
+            "desc": " ",
+            "category": NaN,
+            "concept": "population",
+            "dataset": "qzrg-q4nv",
+            "name": "2009 Census - Population By Single Year Of Age And Gender (Neighbourhood)"
+        },
+        {
+            "id": "service area",
+            "type": "text",
+            "desc": "The business area that is responsible for the service. ",
+            "category": NaN,
+            "concept": "area",
+            "dataset": "vvnz-h46c",
+            "name": "311 Requests (2014)"
+        },
+        {
+            "id": "zone",
+            "type": "text",
+            "desc": "Zone means a specific group of listed Use Classes and Development Regulations which regulate the use and development of land within specific geographic areas of the City.",
+            "category": NaN,
+            "concept": "area",
+            "dataset": "2976-zu3f",
+            "name": "Temporary Sign Locations"
+        },
+        {
+            "id": "canadian citizen",
+            "type": "number",
+            "desc": "Number of Canadian Citizens",
+            "category": NaN,
+            "concept": "population",
+            "dataset": "2g4b-ti2n",
+            "name": "2016 Census - Population by Citizenship (Neighbourhood/Ward)"
+        },
+        {
+            "id": "permanent resident",
+            "type": "number",
+            "desc": "Number of Permanent Residents",
+            "category": NaN,
+            "concept": "population",
+            "dataset": "2g4b-ti2n",
+            "name": "2016 Census - Population by Citizenship (Neighbourhood/Ward)"
+        },
+        {
+            "id": "refugee",
+            "type": "number",
+            "desc": "Number of Refugees",
+            "category": NaN,
+            "concept": "population",
+            "dataset": "2g4b-ti2n",
+            "name": "2016 Census - Population by Citizenship (Neighbourhood/Ward)"
+        },
+        {
+            "id": "other",
+            "type": "number",
+            "desc": "Number of Other citizens",
+            "category": NaN,
+            "concept": "population",
+            "dataset": "2g4b-ti2n",
+            "name": "2016 Census - Population by Citizenship (Neighbourhood/Ward)"
+        },
+        {
+            "id": "no response",
+            "type": "number",
+            "desc": "Number of individuals that did not provide a response to this question",
+            "category": NaN,
+            "concept": "population",
+            "dataset": "2g4b-ti2n",
+            "name": "2016 Census - Population by Citizenship (Neighbourhood/Ward)"
+        },
+        {
+            "id": "location",
+            "type": "text",
+            "desc": "Name of Location where Activity is to take Place",
+            "category": NaN,
+            "concept": "location",
+            "dataset": "u6tw-de8t",
+            "name": "Recreational Facility - Drop In Fitness"
+        },
+        {
+            "id": "5 years or more",
+            "type": "number",
+            "desc": "Number of Persons",
+            "category": NaN,
+            "concept": "population",
+            "dataset": "hc9x-fhuk",
+            "name": "2016 Census - Population by Ownership and Length of Residence (Neighbourhood/Ward)"
+        },
+        {
+            "id": "no response",
+            "type": "number",
+            "desc": "Number of Persons that provided No Response",
+            "category": NaN,
+            "concept": "population",
+            "dataset": "hc9x-fhuk",
+            "name": "2016 Census - Population by Ownership and Length of Residence (Neighbourhood/Ward)"
+        }
+    ],
+    "address": [
+        {
+            "id": "address",
+            "type": "text",
+            "desc": "Street address for senior centre",
+            "category": "address",
+            "concept": "location",
+            "dataset": "zmac-3mxq",
+            "name": "Seniors Centres"
+        },
+        {
+            "id": "address",
+            "type": "text",
+            "desc": "Address that the Building Permit was issued for",
+            "category": "address",
+            "concept": "location",
+            "dataset": "24uj-dj8v",
+            "name": "General Building Permits"
+        },
+        {
+            "id": "street / avenue",
+            "type": "text",
+            "desc": "Name of Street / Avenue where Inlet-Outlet is located ",
+            "category": "address",
+            "concept": "location",
+            "dataset": "eu53-j7sn",
+            "name": "Drainage - Inlets/Outlets"
+        },
+        {
+            "id": "street / avenue",
+            "type": "text",
+            "desc": "Name of Street / Avenue where Pump Station is located ",
+            "category": "address",
+            "concept": "location",
+            "dataset": "ryeb-sgt7",
+            "name": "Drainage - Pump Stations"
+        },
+        {
+            "id": "address",
+            "type": "text",
+            "desc": "Street address where building or structure is located",
+            "category": "address",
+            "concept": "location",
+            "dataset": "prfy-5m97",
+            "name": "Historical Buildings"
+        },
+        {
+            "id": "street",
+            "type": "text",
+            "desc": "Street address for School",
+            "category": "address",
+            "concept": "location",
+            "dataset": "f6w2-hzex",
+            "name": "Edmonton Catholic Schools (2016 - 2017)"
+        },
+        {
+            "id": "address",
+            "type": "text",
+            "desc": "Physical Street address where the WiFi antenna is located.",
+            "category": "address",
+            "concept": "location",
+            "dataset": "vbxz-36ag",
+            "name": "Open City Wi-Fi Locations"
+        },
+        {
+            "id": "address",
+            "type": "text",
+            "desc": NaN,
+            "category": "address",
+            "concept": "location",
+            "dataset": "b4y7-zhnz",
+            "name": "Fire Stations"
+        },
+        {
+            "id": "address",
+            "type": "text",
+            "desc": "The location of the service request.",
+            "category": "address",
+            "concept": "location",
+            "dataset": "ukww-xkmj",
+            "name": "311 Explorer"
+        },
+        {
+            "id": "address",
+            "type": "text",
+            "desc": NaN,
+            "category": "address",
+            "concept": "location",
+            "dataset": "n2b5-3tn8",
+            "name": "2017 Edmonton Election - Voting Stations"
+        },
+        {
+            "id": "address",
+            "type": "text",
+            "desc": "Street address for police station",
+            "category": "address",
+            "concept": "location",
+            "dataset": "e7aq-scxv",
+            "name": "Police Stations"
+        },
+        {
+            "id": "street / avenue",
+            "type": "text",
+            "desc": NaN,
+            "category": "address",
+            "concept": "location",
+            "dataset": "k33x-azs5",
+            "name": "Drainage - Manholes"
+        },
+        {
+            "id": "address",
+            "type": "text",
+            "desc": "Address of park the drop-in program is offered in.",
+            "category": "address",
+            "concept": "location",
+            "dataset": "baei-id48",
+            "name": "Community Drop-in Program - Summer 2014"
+        },
+        {
+            "id": "address",
+            "type": "text",
+            "desc": "The address of the titled lot where the sign is located.",
+            "category": "address",
+            "concept": "location",
+            "dataset": "2976-zu3f",
+            "name": "Temporary Sign Locations"
+        },
+        {
+            "id": "address",
+            "type": "text",
+            "desc": "Street address of the Voting Station",
+            "category": "address",
+            "concept": "location",
+            "dataset": "dqag-kq5r",
+            "name": "2013 Edmonton Election - Voting Stations"
+        }
+    ],
+    "latitude": [
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": "Latitude coordinate for senior centre",
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "zmac-3mxq",
+            "name": "Seniors Centres"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": "Horizontal spatial coordinate",
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "24uj-dj8v",
+            "name": "General Building Permits"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": "Latitude coordinates for an Inlet-Outlet",
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "eu53-j7sn",
+            "name": "Drainage - Inlets/Outlets"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": "Latitude coordinates for a Pump Station",
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "ryeb-sgt7",
+            "name": "Drainage - Pump Stations"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": "Latitude coordinate of swimming pool",
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "bc4e-qgzb",
+            "name": "Indoor Swimming Pools"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": "Latitude Coordinate for caution or closure",
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "k4mi-dkvi",
+            "name": "River Valley - Trail Cautions and Closures"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": "Latitude coordinate for building or structure",
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "prfy-5m97",
+            "name": "Historical Buildings"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": "Latitude coordinates for School",
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "f6w2-hzex",
+            "name": "Edmonton Catholic Schools (2016 - 2017)"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": "Latitude portion of the Pay Machine Location",
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "6iyz-9q3c",
+            "name": "EPark Pay Machine Locations"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": "Horizontal Geographic coordinate of Location",
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "vbxz-36ag",
+            "name": "Open City Wi-Fi Locations"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": NaN,
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "b4y7-zhnz",
+            "name": "Fire Stations"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": "The latitude of named place location.",
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "59sa-iw7i",
+            "name": "Indigenous Place Names of Edmonton"
+        },
+        {
+            "id": "lat",
+            "type": "number",
+            "desc": "Horizontal Geographic Coordinate",
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "ukww-xkmj",
+            "name": "311 Explorer"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": NaN,
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "zxf6-rv9a",
+            "name": "2016 Street Construction Projects"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": "Latitude coordinate for the facility",
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "7yt8-7467",
+            "name": "Recreation Centres"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": "Latitude coordinate for ice arena",
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "mnwt-r49h",
+            "name": "Arenas"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": "Horizontal Geographic Coordinate for a Neighbourhood centroid location",
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "xgwu-c37w",
+            "name": "Bylaw Infractions"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": "The latitude of where the rack is located.",
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "sijk-j8x8",
+            "name": "Bike Racks and Bike Repair Stands"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": "Latitude coordinate for graffiti marking.",
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "2gxp-ymsd",
+            "name": "2015-2016 Graffiti Audit"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": NaN,
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "3b6m-fezs",
+            "name": "City of Edmonton - Neighbourhoods (Centroid Point)"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": "Horizontal Geographic Coordinate",
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "eecg-fc54",
+            "name": "Trees"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": "Latitude geographic coordinate of INTERSECTION",
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "b8xx-awif",
+            "name": "Top 100 Intersection Collision Locations (2012-2013)"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": NaN,
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "n2b5-3tn8",
+            "name": "2017 Edmonton Election - Voting Stations"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": "Latitude coordinate for police station",
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "e7aq-scxv",
+            "name": "Police Stations"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": "Horizontal spatial location of Site",
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "b58q-nxjr",
+            "name": "Average Annual Weekday Traffic Volumes (2009-2015)"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": "The latitude value for the monitoring station's location.",
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "cnsu-iagr",
+            "name": "Water Levels and Flows"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": NaN,
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "k33x-azs5",
+            "name": "Drainage - Manholes"
+        },
+        {
+            "id": "nbhd latitude",
+            "type": "number",
+            "desc": "The latitude value for the centroid of the Neighbourbhood",
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "vvnz-h46c",
+            "name": "311 Requests (2014)"
+        },
+        {
+            "id": "ward latitude",
+            "type": "number",
+            "desc": "The latitude value for the centroid of the Ward",
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "vvnz-h46c",
+            "name": "311 Requests (2014)"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": "Horizontal geographic coordinate of Park",
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "baei-id48",
+            "name": "Community Drop-in Program - Summer 2014"
+        },
+        {
+            "id": "sign latitude",
+            "type": "number",
+            "desc": "Latitude geographic coordinate of sign",
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "2976-zu3f",
+            "name": "Temporary Sign Locations"
+        },
+        {
+            "id": "latitude",
+            "type": "number",
+            "desc": NaN,
+            "category": "latitude",
+            "concept": "location",
+            "dataset": "dqag-kq5r",
+            "name": "2013 Edmonton Election - Voting Stations"
+        }
+    ],
+    "longitude": [
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": "Longitude coordinate for senior centre",
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "zmac-3mxq",
+            "name": "Seniors Centres"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": "Vertical spatial coordinate",
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "24uj-dj8v",
+            "name": "General Building Permits"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": "Longitude coordinates for a Inlet-Outlet",
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "eu53-j7sn",
+            "name": "Drainage - Inlets/Outlets"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": "Longitude coordinates for a Pump Station",
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "ryeb-sgt7",
+            "name": "Drainage - Pump Stations"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": "Longitude coordinate of swimming pool",
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "bc4e-qgzb",
+            "name": "Indoor Swimming Pools"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": "Longitude Coordinate for caution or closure",
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "k4mi-dkvi",
+            "name": "River Valley - Trail Cautions and Closures"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": "Longitude coordinate for building or structure",
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "prfy-5m97",
+            "name": "Historical Buildings"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": "Longitude coordinates for School",
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "f6w2-hzex",
+            "name": "Edmonton Catholic Schools (2016 - 2017)"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": "Longitude portion of the Pay Machine Location",
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "6iyz-9q3c",
+            "name": "EPark Pay Machine Locations"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": "Vertical Geographic coordinate of Location",
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "vbxz-36ag",
+            "name": "Open City Wi-Fi Locations"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": NaN,
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "b4y7-zhnz",
+            "name": "Fire Stations"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": "The longitude of named place location",
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "59sa-iw7i",
+            "name": "Indigenous Place Names of Edmonton"
+        },
+        {
+            "id": "long",
+            "type": "number",
+            "desc": "Vertical Geographic Coordinate",
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "ukww-xkmj",
+            "name": "311 Explorer"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": NaN,
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "zxf6-rv9a",
+            "name": "2016 Street Construction Projects"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": "Longitude coordinate for the facility",
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "7yt8-7467",
+            "name": "Recreation Centres"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": "Longitude coordinate for the ice arena",
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "mnwt-r49h",
+            "name": "Arenas"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": "Vertical Geographic Coordinate for a Neighbourhood centroid location",
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "xgwu-c37w",
+            "name": "Bylaw Infractions"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": "The Longitude of where the rack is located.",
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "sijk-j8x8",
+            "name": "Bike Racks and Bike Repair Stands"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": "Longitude coordinate for graffiti marking.",
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "2gxp-ymsd",
+            "name": "2015-2016 Graffiti Audit"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": NaN,
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "3b6m-fezs",
+            "name": "City of Edmonton - Neighbourhoods (Centroid Point)"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": "Vertical Geographic Coordinate",
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "eecg-fc54",
+            "name": "Trees"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": "Longitude geographic coordinate of INTERSECTION",
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "b8xx-awif",
+            "name": "Top 100 Intersection Collision Locations (2012-2013)"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": NaN,
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "n2b5-3tn8",
+            "name": "2017 Edmonton Election - Voting Stations"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": "Longitude coordinate for police station",
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "e7aq-scxv",
+            "name": "Police Stations"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": "Vertical spatial location of Site",
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "b58q-nxjr",
+            "name": "Average Annual Weekday Traffic Volumes (2009-2015)"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": "The longitude value for the monitoring station's location.",
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "cnsu-iagr",
+            "name": "Water Levels and Flows"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": NaN,
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "k33x-azs5",
+            "name": "Drainage - Manholes"
+        },
+        {
+            "id": "nbhd longitude",
+            "type": "number",
+            "desc": "The longitude value for the centroid of the Neighbourhood",
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "vvnz-h46c",
+            "name": "311 Requests (2014)"
+        },
+        {
+            "id": "ward longitude",
+            "type": "number",
+            "desc": "The longitude value for the centroid of the Ward",
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "vvnz-h46c",
+            "name": "311 Requests (2014)"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": "Vertical geographic coordinate of Park",
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "baei-id48",
+            "name": "Community Drop-in Program - Summer 2014"
+        },
+        {
+            "id": "sign longitude",
+            "type": "number",
+            "desc": "Longitude geographic coordinate of sign",
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "2976-zu3f",
+            "name": "Temporary Sign Locations"
+        },
+        {
+            "id": "longitude",
+            "type": "number",
+            "desc": NaN,
+            "category": "longitude",
+            "concept": "location",
+            "dataset": "dqag-kq5r",
+            "name": "2013 Edmonton Election - Voting Stations"
+        }
+    ],
+    "location": [
+        {
+            "id": "location",
+            "type": "location",
+            "desc": "Geographic location of senior centre",
+            "category": "location",
+            "concept": "location",
+            "dataset": "zmac-3mxq",
+            "name": "Seniors Centres"
+        },
+        {
+            "id": "meeting location",
+            "type": "text",
+            "desc": "Location of Meeting",
+            "category": "location",
+            "concept": "location",
+            "dataset": "y29c-39y9",
+            "name": "2011-2013 Council and Committee Meetings - Meeting Details"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": "Spatial coordinates for address",
+            "category": "location",
+            "concept": "location",
+            "dataset": "24uj-dj8v",
+            "name": "General Building Permits"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": "List of coordinates for a Inlet-Outlet Format (latitude, longitude)",
+            "category": "location",
+            "concept": "location",
+            "dataset": "eu53-j7sn",
+            "name": "Drainage - Inlets/Outlets"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": "List of coordinates for a Pump Station Format (latitude, longitude)",
+            "category": "location",
+            "concept": "location",
+            "dataset": "ryeb-sgt7",
+            "name": "Drainage - Pump Stations"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": "Geographic coordinates for swimming pool",
+            "category": "location",
+            "concept": "location",
+            "dataset": "bc4e-qgzb",
+            "name": "Indoor Swimming Pools"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": "General spatial point where this caution or closure is to occur.",
+            "category": "location",
+            "concept": "location",
+            "dataset": "k4mi-dkvi",
+            "name": "River Valley - Trail Cautions and Closures"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": "Geographic coordinates for building or structure",
+            "category": "location",
+            "concept": "location",
+            "dataset": "prfy-5m97",
+            "name": "Historical Buildings"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": "Geographic coordinates for school",
+            "category": "location",
+            "concept": "location",
+            "dataset": "f6w2-hzex",
+            "name": "Edmonton Catholic Schools (2016 - 2017)"
+        },
+        {
+            "id": "pay machine location",
+            "type": "location",
+            "desc": "The combination of the Latitude and Longitude used for mapping purposes.",
+            "category": "location",
+            "concept": "location",
+            "dataset": "6iyz-9q3c",
+            "name": "EPark Pay Machine Locations"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": "Spatial coordinates of Location",
+            "category": "location",
+            "concept": "location",
+            "dataset": "vbxz-36ag",
+            "name": "Open City Wi-Fi Locations"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": NaN,
+            "category": "location",
+            "concept": "location",
+            "dataset": "b4y7-zhnz",
+            "name": "Fire Stations"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": "Latitude and longitude of the location",
+            "category": "location",
+            "concept": "location",
+            "dataset": "rpc2-fbcm",
+            "name": "Top Ten Collision Locations (2016)"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": "(latitude, longitude)",
+            "category": "location",
+            "concept": "location",
+            "dataset": "h9sn-ds8j",
+            "name": "Residential Street Cleaning Schedule"
+        },
+        {
+            "id": "location",
+            "type": "text",
+            "desc": NaN,
+            "category": "location",
+            "concept": "location",
+            "dataset": "igga-nzee",
+            "name": "Councillors' Common Travel And Training (2014 - 2016)"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": NaN,
+            "category": "location",
+            "concept": "location",
+            "dataset": "59sa-iw7i",
+            "name": "Indigenous Place Names of Edmonton"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": "Spatial coordinates for the location of the issue that has been identified.",
+            "category": "location",
+            "concept": "location",
+            "dataset": "ukww-xkmj",
+            "name": "311 Explorer"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": NaN,
+            "category": "location",
+            "concept": "location",
+            "dataset": "zxf6-rv9a",
+            "name": "2016 Street Construction Projects"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": NaN,
+            "category": "location",
+            "concept": "location",
+            "dataset": "7yt8-7467",
+            "name": "Recreation Centres"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": "Geographic coordinates for ice arena",
+            "category": "location",
+            "concept": "location",
+            "dataset": "mnwt-r49h",
+            "name": "Arenas"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": "Spatial Centroid of a Neighbourhood where a by-law complaint has been reported.",
+            "category": "location",
+            "concept": "location",
+            "dataset": "xgwu-c37w",
+            "name": "Bylaw Infractions"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": "The combination of latitude and longitude, used for mapping purposes.",
+            "category": "location",
+            "concept": "location",
+            "dataset": "sijk-j8x8",
+            "name": "Bike Racks and Bike Repair Stands"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": "Spatial location of graffiti markings.",
+            "category": "location",
+            "concept": "location",
+            "dataset": "2gxp-ymsd",
+            "name": "2015-2016 Graffiti Audit"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": NaN,
+            "category": "location",
+            "concept": "location",
+            "dataset": "3b6m-fezs",
+            "name": "City of Edmonton - Neighbourhoods (Centroid Point)"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": NaN,
+            "category": "location",
+            "concept": "location",
+            "dataset": "eecg-fc54",
+            "name": "Trees"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": "Spatial geographic coordinates of INTERSECTION",
+            "category": "location",
+            "concept": "location",
+            "dataset": "b8xx-awif",
+            "name": "Top 100 Intersection Collision Locations (2012-2013)"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": NaN,
+            "category": "location",
+            "concept": "location",
+            "dataset": "n2b5-3tn8",
+            "name": "2017 Edmonton Election - Voting Stations"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": NaN,
+            "category": "location",
+            "concept": "location",
+            "dataset": "tsq5-xp73",
+            "name": "Parkade And Surface Lots"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": "Geographic coordinates for police station",
+            "category": "location",
+            "concept": "location",
+            "dataset": "e7aq-scxv",
+            "name": "Police Stations"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": "Spatial Location of Site",
+            "category": "location",
+            "concept": "location",
+            "dataset": "b58q-nxjr",
+            "name": "Average Annual Weekday Traffic Volumes (2009-2015)"
+        },
+        {
+            "id": "station location",
+            "type": "location",
+            "desc": "The latitude/longitude values for the monitoring station's location (used for mapping purposes).",
+            "category": "location",
+            "concept": "location",
+            "dataset": "cnsu-iagr",
+            "name": "Water Levels and Flows"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": NaN,
+            "category": "location",
+            "concept": "location",
+            "dataset": "k33x-azs5",
+            "name": "Drainage - Manholes"
+        },
+        {
+            "id": "nbhd location",
+            "type": "location",
+            "desc": "The combination of latitude/longitude for the centroid of the Neighbourhood used for mapping purposes.",
+            "category": "location",
+            "concept": "location",
+            "dataset": "vvnz-h46c",
+            "name": "311 Requests (2014)"
+        },
+        {
+            "id": "ward location",
+            "type": "location",
+            "desc": "The combination of latitude/longitude for the centroid of the Ward used for mapping purposes.",
+            "category": "location",
+            "concept": "location",
+            "dataset": "vvnz-h46c",
+            "name": "311 Requests (2014)"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": "Spatial coordinates of Park",
+            "category": "location",
+            "concept": "location",
+            "dataset": "baei-id48",
+            "name": "Community Drop-in Program - Summer 2014"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": "Geographic coordinates of sign",
+            "category": "location",
+            "concept": "location",
+            "dataset": "2976-zu3f",
+            "name": "Temporary Sign Locations"
+        },
+        {
+            "id": "location",
+            "type": "location",
+            "desc": NaN,
+            "category": "location",
+            "concept": "location",
+            "dataset": "dqag-kq5r",
+            "name": "2013 Edmonton Election - Voting Stations"
+        }
+    ],
+    "postal_code": [
+        {
+            "id": "forward sortation area",
+            "type": "text",
+            "desc": "A forward sortation area (FSA) is a geographical region in which all postal codes start with the same three characters",
+            "category": "postal_code",
+            "concept": "area",
+            "dataset": "bqmh-j34s",
+            "name": "Licensed Pets by Breed and Forward Sortation Area (FSA)"
+        },
+        {
+            "id": "fsa",
+            "type": "text",
+            "desc": NaN,
+            "category": "postal_code",
+            "concept": "location",
+            "dataset": "9kdx-y5ve",
+            "name": "Food Council 2017 - Edmonton Insight Community"
+        },
+        {
+            "id": "fsa",
+            "type": "text",
+            "desc": "\nForward Sortation Area (first 3 characters of postal code)\n",
+            "category": "postal_code",
+            "concept": "area",
+            "dataset": "cjcn-85t7",
+            "name": "Measuring Progress Questionnaire - Safety In The City"
+        },
+        {
+            "id": "postal code",
+            "type": "text",
+            "desc": "Postal Code for School",
+            "category": "postal_code",
+            "concept": "area",
+            "dataset": "f6w2-hzex",
+            "name": "Edmonton Catholic Schools (2016 - 2017)"
+        },
+        {
+            "id": "fsa",
+            "type": "text",
+            "desc": NaN,
+            "category": "postal_code",
+            "concept": "area",
+            "dataset": "69f4-nnng",
+            "name": "Food Council 2016 - Edmonton Insight Community"
+        },
+        {
+            "id": "postal",
+            "type": "text",
+            "desc": NaN,
+            "category": "postal_code",
+            "concept": "area",
+            "dataset": "6asu-htha",
+            "name": "311 Call Centre Satisfaction Survey 2014"
+        }
+    ],
+    "ward_name": [
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "City Ward Number to which a Neighbourhood belongs to.",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "bms6-cuv9",
+            "name": "2012 Census - Population By Marital Status (Neighbourhood)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "City Ward Number",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "dzvs-e3up",
+            "name": "2016 Census - Population by Length of Residence (Ward)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "City Ward Number",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "i88k-yen7",
+            "name": "2016 Census - Population by Employment Status (Neighbourhood/Ward)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "City Ward Number",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "i8na-b4eb",
+            "name": "2014 Census - Previous Residence If Less Than One Year (Neighbourhood)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "City Ward Number",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "qd5f-vy6n",
+            "name": "2014 Census - Population By School Residency (Neighbourhood)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "City Ward Number",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "ec9y-ni5n",
+            "name": "2014 Census - Population By Ownership And Length Of Residence (Neighbourhood)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "Name of Ward Inlet-Outlet s located",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "eu53-j7sn",
+            "name": "Drainage - Inlets/Outlets"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "City Ward Number",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "hda9-ip2g",
+            "name": "2016 Census - Previous Residence If Less Than One Year (Neighbourhood/Ward)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "City Ward Number",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "7ds8-hpvz",
+            "name": "2016 Census - Population by Employment Sector ( Neighbourhood/Ward)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "Name of Ward where a Pump Station is located",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "ryeb-sgt7",
+            "name": "Drainage - Pump Stations"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "City Ward Number",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "aaar-q4e3",
+            "name": "2014 Census - Population By Employment Status (Neighbourhood)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": NaN,
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "24yu-behb",
+            "name": "2012 Census - Population By Mode Of Transportation (Neighbourhood)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": NaN,
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "7tzq-etnt",
+            "name": "2012 Census - Population By Structure Type (Ward)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "Ward Reports are based on the 6-Ward system, which existed in the City of Edmonton until October, 2010.",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "tizy-3vkk",
+            "name": "2009 Census - Dwelling Unit By Structure Type And Occupancy (Ward)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": NaN,
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "nzvx-6q5z",
+            "name": "2012 Census - Dwelling Units By Structure Type And Length Of Residence (Neighbourhood)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "City Ward Number",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "y2a7-7aha",
+            "name": "2016 Census - Dwelling Unit Status (Neighbourhood/Ward)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "City Ward Number",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "siae-h3wc",
+            "name": "2016 Census - Population by Length of Residence (Neighbourhood/Ward)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "City Ward Number",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "etyh-hnr8",
+            "name": "2014 Census - Dwelling Unit By Language (Neighbourhood)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "The City Ward associated with the location.",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "ukww-xkmj",
+            "name": "311 Explorer"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "City Ward Number",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "aaki-fhf8",
+            "name": "2016 Census - Dwelling Unit by Structure Type and Ownership (Ward)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "City Ward Number",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "zxf6-rv9a",
+            "name": "2016 Street Construction Projects"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "City Ward Number",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "23zz-47uu",
+            "name": "2014 Census - Dwelling Unit Status (Ward)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "City Ward Number",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "rffx-a53i",
+            "name": "2014 Census - Population By Employment Status (Ward)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "City Ward Number",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "hd78-7y4x",
+            "name": "2014 Census - Population By Ownership And Length Of Residence (Ward)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "City Ward Number",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "h8fx-xnfi",
+            "name": "2014 Census - Population By Structure Type And Length Of Residence (Neighbourhood)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "City Ward Number",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "78ux-3dz7",
+            "name": "2014 Census - Previous Residence If Less Than One Year (Ward)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "City Ward Number",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "5pun-d7xy",
+            "name": "2014 Census - Dwelling Unit Status (Neighbourhood)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "City Ward Number",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "rutt-y5cv",
+            "name": "2016 Census - Dwelling Unit by Structure Type and Ownership (Neighbourhood/Ward)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "City Ward Number",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "vu9d-aerh",
+            "name": "2016 Census - Dwelling Unit by Structure Type and Occupancy (Neighbourhood/Ward)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "City Ward Number",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "daq3-i6ze",
+            "name": "2016 Census - Dwelling Unit by Ownership (Ward)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "City Ward Number",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "jqkz-za8y",
+            "name": "2016 Census - Dwelling Unit by City Resource Access (Neighbourhood/Ward)"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": NaN,
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "y354-d5xg",
+            "name": "2012 Census - Population By Employment Status (Ward)"
+        },
+        {
+            "id": "ward name",
+            "type": "text",
+            "desc": "Name of Ward",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "h9v5-2eis",
+            "name": "2013 Edmonton Election - Results Details (by Voting Station)"
+        },
+        {
+            "id": "wardname",
+            "type": "text",
+            "desc": NaN,
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "yznh-9n2u",
+            "name": "2010 Edmonton Election - Official Results"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": NaN,
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "k33x-azs5",
+            "name": "Drainage - Manholes"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "The civic ward where the Temporary Sign is located.",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "2976-zu3f",
+            "name": "Temporary Sign Locations"
+        },
+        {
+            "id": "ward name",
+            "type": "text",
+            "desc": "Name of Ward",
+            "category": "ward_name",
+            "concept": "area",
+            "dataset": "hcz8-v3q4",
+            "name": "2017 Official Election Results (by Voting Station)"
+        }
+    ],
+    "neighbourbood_id": [
+        {
+            "id": "neighbourhood number",
+            "type": "number",
+            "desc": "Unique number identifier",
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "bms6-cuv9",
+            "name": "2012 Census - Population By Marital Status (Neighbourhood)"
+        },
+        {
+            "id": "neighbourhood number",
+            "type": "number",
+            "desc": "Unique Neighbourhood Identifier",
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "i88k-yen7",
+            "name": "2016 Census - Population by Employment Status (Neighbourhood/Ward)"
+        },
+        {
+            "id": "neighbourhood number",
+            "type": "number",
+            "desc": "Unique Neighbourhood Identifier",
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "i8na-b4eb",
+            "name": "2014 Census - Previous Residence If Less Than One Year (Neighbourhood)"
+        },
+        {
+            "id": "neighbourhood number",
+            "type": "text",
+            "desc": NaN,
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "24uj-dj8v",
+            "name": "General Building Permits"
+        },
+        {
+            "id": "neighbourhood number",
+            "type": "number",
+            "desc": "Unique Neighbourhood Identifier",
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "qd5f-vy6n",
+            "name": "2014 Census - Population By School Residency (Neighbourhood)"
+        },
+        {
+            "id": "neighbourhood id",
+            "type": "number",
+            "desc": "Unique number identifier for the Neighbourhood",
+            "category": "neighbourbood_id",
+            "concept": "location",
+            "dataset": "qhi4-bdpu",
+            "name": "City of Edmonton - Business Licenses"
+        },
+        {
+            "id": "neighbourhood number",
+            "type": "number",
+            "desc": "Unique Neighbourhood Number",
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "ec9y-ni5n",
+            "name": "2014 Census - Population By Ownership And Length Of Residence (Neighbourhood)"
+        },
+        {
+            "id": "neighbourhood id",
+            "type": "number",
+            "desc": "Unique Neighbourhood Identification Number",
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "eu53-j7sn",
+            "name": "Drainage - Inlets/Outlets"
+        },
+        {
+            "id": "neighbourhood number",
+            "type": "number",
+            "desc": "Unique Neighbourhood Identifier",
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "hda9-ip2g",
+            "name": "2016 Census - Previous Residence If Less Than One Year (Neighbourhood/Ward)"
+        },
+        {
+            "id": "neighbourhood number",
+            "type": "number",
+            "desc": "Unique Neighbourhood Identifier",
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "7ds8-hpvz",
+            "name": "2016 Census - Population by Employment Sector ( Neighbourhood/Ward)"
+        },
+        {
+            "id": "neighbourhood id",
+            "type": "text",
+            "desc": "Unique Neighbourhood Identification Number",
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "ryeb-sgt7",
+            "name": "Drainage - Pump Stations"
+        },
+        {
+            "id": "neighbourhood number",
+            "type": "number",
+            "desc": "Unique Neighbourhood Identifier",
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "aaar-q4e3",
+            "name": "2014 Census - Population By Employment Status (Neighbourhood)"
+        },
+        {
+            "id": "neighbourhood number",
+            "type": "number",
+            "desc": NaN,
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "24yu-behb",
+            "name": "2012 Census - Population By Mode Of Transportation (Neighbourhood)"
+        },
+        {
+            "id": "neighbourhood number",
+            "type": "number",
+            "desc": NaN,
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "nzvx-6q5z",
+            "name": "2012 Census - Dwelling Units By Structure Type And Length Of Residence (Neighbourhood)"
+        },
+        {
+            "id": "neighbourhood number",
+            "type": "number",
+            "desc": "Unique Neighbourhood Identifier",
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "y2a7-7aha",
+            "name": "2016 Census - Dwelling Unit Status (Neighbourhood/Ward)"
+        },
+        {
+            "id": "neighbourhood number",
+            "type": "number",
+            "desc": "Unique Neighbourhood Identifier",
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "siae-h3wc",
+            "name": "2016 Census - Population by Length of Residence (Neighbourhood/Ward)"
+        },
+        {
+            "id": "neighbourhood number",
+            "type": "number",
+            "desc": "Unique Neighbourhood Identifier",
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "etyh-hnr8",
+            "name": "2014 Census - Dwelling Unit By Language (Neighbourhood)"
+        },
+        {
+            "id": "neighbourhood number",
+            "type": "number",
+            "desc": "Unique Neighbourhood Identifier",
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "25sf-z8zd",
+            "name": "Residential Building Permits 2009-2014"
+        },
+        {
+            "id": "neighbourhood id",
+            "type": "text",
+            "desc": "Unique Identifier for Neighbourhood where infraction occured",
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "xgwu-c37w",
+            "name": "Bylaw Infractions"
+        },
+        {
+            "id": "neighbourhood number",
+            "type": "number",
+            "desc": "Unique Neighbourhood Number",
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "h8fx-xnfi",
+            "name": "2014 Census - Population By Structure Type And Length Of Residence (Neighbourhood)"
+        },
+        {
+            "id": "neighbourhood number",
+            "type": "number",
+            "desc": "Unique Neighbourhood Identifier",
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "5pun-d7xy",
+            "name": "2014 Census - Dwelling Unit Status (Neighbourhood)"
+        },
+        {
+            "id": "neighbourhood number",
+            "type": "number",
+            "desc": "Unique Neighbourhood Identifier",
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "rutt-y5cv",
+            "name": "2016 Census - Dwelling Unit by Structure Type and Ownership (Neighbourhood/Ward)"
+        },
+        {
+            "id": "neighbourhood number",
+            "type": "number",
+            "desc": NaN,
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "3b6m-fezs",
+            "name": "City of Edmonton - Neighbourhoods (Centroid Point)"
+        },
+        {
+            "id": "neighbourhood number",
+            "type": "number",
+            "desc": "Unique Neighbourhood identifier",
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "vu9d-aerh",
+            "name": "2016 Census - Dwelling Unit by Structure Type and Occupancy (Neighbourhood/Ward)"
+        },
+        {
+            "id": "neighbourhood number",
+            "type": "number",
+            "desc": "Unique Neighbourhood Identifier",
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "sqn3-6cp5",
+            "name": "2016 Census - Population by School Residency (Neighbourhood/Ward)"
+        },
+        {
+            "id": "neighbourhood number",
+            "type": "number",
+            "desc": "Unique Neighbourhood Identifier",
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "8t7s-6vwq",
+            "name": "Residential Building Permits 2015"
+        },
+        {
+            "id": "neighbourhood id",
+            "type": "number",
+            "desc": NaN,
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "k33x-azs5",
+            "name": "Drainage - Manholes"
+        },
+        {
+            "id": "neighbourhood id",
+            "type": "number",
+            "desc": "Unique number identifier given to Neighourhoods throughout Edmonton",
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "vvnz-h46c",
+            "name": "311 Requests (2014)"
+        },
+        {
+            "id": "neighbourhood id",
+            "type": "number",
+            "desc": NaN,
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "2976-zu3f",
+            "name": "Temporary Sign Locations"
+        },
+        {
+            "id": "neighbourhood number",
+            "type": "number",
+            "desc": "Unique Neighbourhood Number",
+            "category": "neighbourbood_id",
+            "concept": "area",
+            "dataset": "hc9x-fhuk",
+            "name": "2016 Census - Population by Ownership and Length of Residence (Neighbourhood/Ward)"
+        }
+    ],
+    "neighbourbood_name": [
+        {
+            "id": "neighbourhood name",
+            "type": "text",
+            "desc": "To protect the privacy of individuals, neighbourhood data is not reported for neighbourhoods with populations between 1 and 49 residents.",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "bms6-cuv9",
+            "name": "2012 Census - Population By Marital Status (Neighbourhood)"
+        },
+        {
+            "id": "neighbourhood name",
+            "type": "text",
+            "desc": "Neighbourhood name",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "i88k-yen7",
+            "name": "2016 Census - Population by Employment Status (Neighbourhood/Ward)"
+        },
+        {
+            "id": "neighbourhood name",
+            "type": "text",
+            "desc": "Neighbourhood Name",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "i8na-b4eb",
+            "name": "2014 Census - Previous Residence If Less Than One Year (Neighbourhood)"
+        },
+        {
+            "id": "neighbourhood",
+            "type": "text",
+            "desc": "City Neighbourhood name.",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "24uj-dj8v",
+            "name": "General Building Permits"
+        },
+        {
+            "id": "neighbourhood name",
+            "type": "text",
+            "desc": "Neighbourhood Name",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "qd5f-vy6n",
+            "name": "2014 Census - Population By School Residency (Neighbourhood)"
+        },
+        {
+            "id": "neighbourhood",
+            "type": "text",
+            "desc": "The name of the Neighbourhood",
+            "category": "neighbourbood_name",
+            "concept": "location",
+            "dataset": "qhi4-bdpu",
+            "name": "City of Edmonton - Business Licenses"
+        },
+        {
+            "id": "neighbourhood name",
+            "type": "text",
+            "desc": "Neighbourhood Name",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "ec9y-ni5n",
+            "name": "2014 Census - Population By Ownership And Length Of Residence (Neighbourhood)"
+        },
+        {
+            "id": "neighbourhood name",
+            "type": "text",
+            "desc": "Name of Neighbourhood Inlet-Outlet is located",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "eu53-j7sn",
+            "name": "Drainage - Inlets/Outlets"
+        },
+        {
+            "id": "neighbourhood name",
+            "type": "text",
+            "desc": "Neighbourhood Name",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "hda9-ip2g",
+            "name": "2016 Census - Previous Residence If Less Than One Year (Neighbourhood/Ward)"
+        },
+        {
+            "id": "neighbourhood name",
+            "type": "text",
+            "desc": "Neighbourhood Name",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "7ds8-hpvz",
+            "name": "2016 Census - Population by Employment Sector ( Neighbourhood/Ward)"
+        },
+        {
+            "id": "neighbourhood name",
+            "type": "text",
+            "desc": "Name of Neighbourhood Pump Station is located",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "ryeb-sgt7",
+            "name": "Drainage - Pump Stations"
+        },
+        {
+            "id": "neighbourhood name",
+            "type": "text",
+            "desc": "Neighbourhood name",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "aaar-q4e3",
+            "name": "2014 Census - Population By Employment Status (Neighbourhood)"
+        },
+        {
+            "id": "neighbourhood name",
+            "type": "text",
+            "desc": NaN,
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "24yu-behb",
+            "name": "2012 Census - Population By Mode Of Transportation (Neighbourhood)"
+        },
+        {
+            "id": "neighbourhood name",
+            "type": "text",
+            "desc": NaN,
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "nzvx-6q5z",
+            "name": "2012 Census - Dwelling Units By Structure Type And Length Of Residence (Neighbourhood)"
+        },
+        {
+            "id": "neighbourhood name",
+            "type": "text",
+            "desc": "Neighbourhood Name",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "y2a7-7aha",
+            "name": "2016 Census - Dwelling Unit Status (Neighbourhood/Ward)"
+        },
+        {
+            "id": "neighbourhood",
+            "type": "text",
+            "desc": "Name of neighbourhood building or structure is located",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "prfy-5m97",
+            "name": "Historical Buildings"
+        },
+        {
+            "id": "neighbourhood name",
+            "type": "text",
+            "desc": "Neighbourhood Name",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "siae-h3wc",
+            "name": "2016 Census - Population by Length of Residence (Neighbourhood/Ward)"
+        },
+        {
+            "id": "neighbourhood name",
+            "type": "text",
+            "desc": "Name of Neighbourhood where street cleaning activity is going to occur",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "h9sn-ds8j",
+            "name": "Residential Street Cleaning Schedule"
+        },
+        {
+            "id": "neighbourhood name",
+            "type": "text",
+            "desc": "Neighbourhood Name",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "etyh-hnr8",
+            "name": "2014 Census - Dwelling Unit By Language (Neighbourhood)"
+        },
+        {
+            "id": "neighbourhood",
+            "type": "text",
+            "desc": "City of Edmonton Neighbourhood",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "25sf-z8zd",
+            "name": "Residential Building Permits 2009-2014"
+        },
+        {
+            "id": "neighbourhood",
+            "type": "text",
+            "desc": "The City neighbourhood where the service request is located.",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "ukww-xkmj",
+            "name": "311 Explorer"
+        },
+        {
+            "id": "neighbourhood",
+            "type": "text",
+            "desc": "Neighbourhood Name where infraction occured",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "xgwu-c37w",
+            "name": "Bylaw Infractions"
+        },
+        {
+            "id": "neighbourhood name",
+            "type": "text",
+            "desc": "Neighbourhood Name",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "h8fx-xnfi",
+            "name": "2014 Census - Population By Structure Type And Length Of Residence (Neighbourhood)"
+        },
+        {
+            "id": "neighbourhood",
+            "type": "text",
+            "desc": "The neighbourhoods within Edmonton where the audit was conducted.",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "2gxp-ymsd",
+            "name": "2015-2016 Graffiti Audit"
+        },
+        {
+            "id": "neighbourhood name",
+            "type": "text",
+            "desc": "Neighbourhood Name",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "5pun-d7xy",
+            "name": "2014 Census - Dwelling Unit Status (Neighbourhood)"
+        },
+        {
+            "id": "neighbourhood name",
+            "type": "text",
+            "desc": "Neighbourhood Name",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "rutt-y5cv",
+            "name": "2016 Census - Dwelling Unit by Structure Type and Ownership (Neighbourhood/Ward)"
+        },
+        {
+            "id": "neighbourhood name",
+            "type": "text",
+            "desc": NaN,
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "3b6m-fezs",
+            "name": "City of Edmonton - Neighbourhoods (Centroid Point)"
+        },
+        {
+            "id": "neighbourhood name",
+            "type": "text",
+            "desc": "Neighbourhood name where tree resides.",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "eecg-fc54",
+            "name": "Trees"
+        },
+        {
+            "id": "neighbourhood name",
+            "type": "text",
+            "desc": "Neighbourhood Name",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "vu9d-aerh",
+            "name": "2016 Census - Dwelling Unit by Structure Type and Occupancy (Neighbourhood/Ward)"
+        },
+        {
+            "id": "neighbourhood name",
+            "type": "text",
+            "desc": "Neighbourhood Name",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "sqn3-6cp5",
+            "name": "2016 Census - Population by School Residency (Neighbourhood/Ward)"
+        },
+        {
+            "id": "neighbourhood",
+            "type": "text",
+            "desc": "City of Edmonton Neighbourhood",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "8t7s-6vwq",
+            "name": "Residential Building Permits 2015"
+        },
+        {
+            "id": "neighbourhood name",
+            "type": "text",
+            "desc": NaN,
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "k33x-azs5",
+            "name": "Drainage - Manholes"
+        },
+        {
+            "id": "neighbourhood",
+            "type": "text",
+            "desc": "In order to protect the privacy of individuals, neighbourhood data is not reported for neighbourhoods with populations between 1 and 49 residents.",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "qzrg-q4nv",
+            "name": "2009 Census - Population By Single Year Of Age And Gender (Neighbourhood)"
+        },
+        {
+            "id": "neighbourhood",
+            "type": "text",
+            "desc": "The name given to a Neighbourhood",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "vvnz-h46c",
+            "name": "311 Requests (2014)"
+        },
+        {
+            "id": "neighbourhood name",
+            "type": "text",
+            "desc": "The municipal neighbourhood name where the sign is located.",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "2976-zu3f",
+            "name": "Temporary Sign Locations"
+        },
+        {
+            "id": "neighbourhood name",
+            "type": "text",
+            "desc": "Neighbourhood Name",
+            "category": "neighbourbood_name",
+            "concept": "area",
+            "dataset": "hc9x-fhuk",
+            "name": "2016 Census - Population by Ownership and Length of Residence (Neighbourhood/Ward)"
+        }
+    ],
+    "population": [
+        {
+            "id": "population",
+            "type": "number",
+            "desc": "Number of respondents for a particular residency length",
+            "category": "population",
+            "concept": "population",
+            "dataset": "dzvs-e3up",
+            "name": "2016 Census - Population by Length of Residence (Ward)"
+        },
+        {
+            "id": "population",
+            "type": "number",
+            "desc": NaN,
+            "category": "population",
+            "concept": "population",
+            "dataset": "6w5t-p7n9",
+            "name": "2012 Census - Population By Mode Of Transportation (Citywide)"
+        },
+        {
+            "id": "elsewhere in edmonton",
+            "type": "number",
+            "desc": "Number of Individuals for a Particular Location Type",
+            "category": "population",
+            "concept": "population",
+            "dataset": "i8na-b4eb",
+            "name": "2014 Census - Previous Residence If Less Than One Year (Neighbourhood)"
+        },
+        {
+            "id": "elsewhere in alberta",
+            "type": "number",
+            "desc": "Number of Individuals for a Particular Location Type",
+            "category": "population",
+            "concept": "population",
+            "dataset": "i8na-b4eb",
+            "name": "2014 Census - Previous Residence If Less Than One Year (Neighbourhood)"
+        },
+        {
+            "id": "atlantic canada",
+            "type": "number",
+            "desc": "Number of Individuals for a Particular Location Type",
+            "category": "population",
+            "concept": "population",
+            "dataset": "i8na-b4eb",
+            "name": "2014 Census - Previous Residence If Less Than One Year (Neighbourhood)"
+        },
+        {
+            "id": "ontario/quebec",
+            "type": "number",
+            "desc": "Number of Individuals for a Particular Location Type",
+            "category": "population",
+            "concept": "population",
+            "dataset": "i8na-b4eb",
+            "name": "2014 Census - Previous Residence If Less Than One Year (Neighbourhood)"
+        },
+        {
+            "id": "territories/manitoba/saskatchewan",
+            "type": "number",
+            "desc": "Number of Individuals for a Particular Location Type",
+            "category": "population",
+            "concept": "population",
+            "dataset": "i8na-b4eb",
+            "name": "2014 Census - Previous Residence If Less Than One Year (Neighbourhood)"
+        },
+        {
+            "id": "british columbia",
+            "type": "number",
+            "desc": "Number of Individuals for a Particular Location Type",
+            "category": "population",
+            "concept": "population",
+            "dataset": "i8na-b4eb",
+            "name": "2014 Census - Previous Residence If Less Than One Year (Neighbourhood)"
+        },
+        {
+            "id": "outside canada",
+            "type": "number",
+            "desc": "Number of Individuals for a Particular Location Type",
+            "category": "population",
+            "concept": "population",
+            "dataset": "i8na-b4eb",
+            "name": "2014 Census - Previous Residence If Less Than One Year (Neighbourhood)"
+        },
+        {
+            "id": "no response",
+            "type": "number",
+            "desc": "Number of Individuals that did not respond",
+            "category": "population",
+            "concept": "population",
+            "dataset": "i8na-b4eb",
+            "name": "2014 Census - Previous Residence If Less Than One Year (Neighbourhood)"
+        },
+        {
+            "id": "public",
+            "type": "number",
+            "desc": "Number of Individuals Supporting School Board",
+            "category": "population",
+            "concept": "population",
+            "dataset": "qd5f-vy6n",
+            "name": "2014 Census - Population By School Residency (Neighbourhood)"
+        },
+        {
+            "id": "catholic",
+            "type": "number",
+            "desc": "Number of Individuals Supporting School Board",
+            "category": "population",
+            "concept": "population",
+            "dataset": "qd5f-vy6n",
+            "name": "2014 Census - Population By School Residency (Neighbourhood)"
+        },
+        {
+            "id": "no response",
+            "type": "number",
+            "desc": "Number of Individuals that did not Respond",
+            "category": "population",
+            "concept": "population",
+            "dataset": "qd5f-vy6n",
+            "name": "2014 Census - Population By School Residency (Neighbourhood)"
+        },
+        {
+            "id": "elsewhere in edmonton",
+            "type": "number",
+            "desc": "Number of Individuals for a Particular Location Type",
+            "category": "population",
+            "concept": "population",
+            "dataset": "hda9-ip2g",
+            "name": "2016 Census - Previous Residence If Less Than One Year (Neighbourhood/Ward)"
+        },
+        {
+            "id": "elsewhere in alberta",
+            "type": "number",
+            "desc": "Number of Individuals for a Particular Location Type",
+            "category": "population",
+            "concept": "population",
+            "dataset": "hda9-ip2g",
+            "name": "2016 Census - Previous Residence If Less Than One Year (Neighbourhood/Ward)"
+        },
+        {
+            "id": "atlantic canada",
+            "type": "number",
+            "desc": "Number of Individuals for a Particular Location Type",
+            "category": "population",
+            "concept": "population",
+            "dataset": "hda9-ip2g",
+            "name": "2016 Census - Previous Residence If Less Than One Year (Neighbourhood/Ward)"
+        },
+        {
+            "id": "ontario/quebec",
+            "type": "number",
+            "desc": "Number of Individuals for a Particular Location Type",
+            "category": "population",
+            "concept": "population",
+            "dataset": "hda9-ip2g",
+            "name": "2016 Census - Previous Residence If Less Than One Year (Neighbourhood/Ward)"
+        },
+        {
+            "id": "territories/manitoba/saskatchewan",
+            "type": "number",
+            "desc": "Number of Individuals for a Particular Location Type",
+            "category": "population",
+            "concept": "population",
+            "dataset": "hda9-ip2g",
+            "name": "2016 Census - Previous Residence If Less Than One Year (Neighbourhood/Ward)"
+        },
+        {
+            "id": "british columbia",
+            "type": "number",
+            "desc": "Number of Individuals for a Particular Location Type",
+            "category": "population",
+            "concept": "population",
+            "dataset": "hda9-ip2g",
+            "name": "2016 Census - Previous Residence If Less Than One Year (Neighbourhood/Ward)"
+        },
+        {
+            "id": "outside canada",
+            "type": "number",
+            "desc": "Number of Individuals for a Particular Location Type",
+            "category": "population",
+            "concept": "population",
+            "dataset": "hda9-ip2g",
+            "name": "2016 Census - Previous Residence If Less Than One Year (Neighbourhood/Ward)"
+        },
+        {
+            "id": "no response",
+            "type": "number",
+            "desc": "Number of Individuals that did not respond",
+            "category": "population",
+            "concept": "population",
+            "dataset": "hda9-ip2g",
+            "name": "2016 Census - Previous Residence If Less Than One Year (Neighbourhood/Ward)"
+        },
+        {
+            "id": "accommodation and food services",
+            "type": "number",
+            "desc": "Number of Persons for particular Employment Sector",
+            "category": "population",
+            "concept": "population",
+            "dataset": "7ds8-hpvz",
+            "name": "2016 Census - Population by Employment Sector ( Neighbourhood/Ward)"
+        },
+        {
+            "id": "administration, waste and remediation",
+            "type": "number",
+            "desc": "Number of Persons for particular Employment Sector",
+            "category": "population",
+            "concept": "population",
+            "dataset": "7ds8-hpvz",
+            "name": "2016 Census - Population by Employment Sector ( Neighbourhood/Ward)"
+        },
+        {
+            "id": "construction",
+            "type": "number",
+            "desc": "Number of Persons for particular Employment Sector",
+            "category": "population",
+            "concept": "population",
+            "dataset": "7ds8-hpvz",
+            "name": "2016 Census - Population by Employment Sector ( Neighbourhood/Ward)"
+        },
+        {
+            "id": "educational services",
+            "type": "number",
+            "desc": "Number of Persons for particular Employment Sector",
+            "category": "population",
+            "concept": "population",
+            "dataset": "7ds8-hpvz",
+            "name": "2016 Census - Population by Employment Sector ( Neighbourhood/Ward)"
+        },
+        {
+            "id": "manufacturing",
+            "type": "number",
+            "desc": "Number of Persons for particular Employment Sector",
+            "category": "population",
+            "concept": "population",
+            "dataset": "7ds8-hpvz",
+            "name": "2016 Census - Population by Employment Sector ( Neighbourhood/Ward)"
+        },
+        {
+            "id": "public administration",
+            "type": "number",
+            "desc": "Number of Persons for particular Employment Sector",
+            "category": "population",
+            "concept": "population",
+            "dataset": "7ds8-hpvz",
+            "name": "2016 Census - Population by Employment Sector ( Neighbourhood/Ward)"
+        },
+        {
+            "id": "transportation and warehousing",
+            "type": "number",
+            "desc": "Number of Persons for particular Employment Sector",
+            "category": "population",
+            "concept": "population",
+            "dataset": "7ds8-hpvz",
+            "name": "2016 Census - Population by Employment Sector ( Neighbourhood/Ward)"
+        },
+        {
+            "id": "utilities",
+            "type": "number",
+            "desc": "Number of Persons for particular Employment Sector",
+            "category": "population",
+            "concept": "population",
+            "dataset": "7ds8-hpvz",
+            "name": "2016 Census - Population by Employment Sector ( Neighbourhood/Ward)"
+        },
+        {
+            "id": "wholesale and retail trade",
+            "type": "number",
+            "desc": "Number of Persons for particular Employment Sector",
+            "category": "population",
+            "concept": "population",
+            "dataset": "7ds8-hpvz",
+            "name": "2016 Census - Population by Employment Sector ( Neighbourhood/Ward)"
+        },
+        {
+            "id": "other",
+            "type": "number",
+            "desc": "Number of Persons for particular Employment Sector",
+            "category": "population",
+            "concept": "population",
+            "dataset": "7ds8-hpvz",
+            "name": "2016 Census - Population by Employment Sector ( Neighbourhood/Ward)"
+        },
+        {
+            "id": "no response",
+            "type": "number",
+            "desc": "Number of individuals that did not provide a response to this question",
+            "category": "population",
+            "concept": "population",
+            "dataset": "7ds8-hpvz",
+            "name": "2016 Census - Population by Employment Sector ( Neighbourhood/Ward)"
+        },
+        {
+            "id": "population",
+            "type": "number",
+            "desc": "Total Number of Individuals",
+            "category": "population",
+            "concept": "population",
+            "dataset": "y8it-9743",
+            "name": "2016 Census - Population by Citizenship (Citywide)"
+        },
+        {
+            "id": "population",
+            "type": "number",
+            "desc": "Number of individuals",
+            "category": "population",
+            "concept": "population",
+            "dataset": "27yp-fugi",
+            "name": "2016 Census - Population by Mode of Transportation (Citywide)"
+        },
+        {
+            "id": "preschool",
+            "type": "number",
+            "desc": "Number of Individuals identified with this Employment Status",
+            "category": "population",
+            "concept": "population",
+            "dataset": "aaar-q4e3",
+            "name": "2014 Census - Population By Employment Status (Neighbourhood)"
+        },
+        {
+            "id": "post secondary student",
+            "type": "number",
+            "desc": "Number of Individuals identified with this Employment Status",
+            "category": "population",
+            "concept": "population",
+            "dataset": "aaar-q4e3",
+            "name": "2014 Census - Population By Employment Status (Neighbourhood)"
+        },
+        {
+            "id": "homemaker",
+            "type": "number",
+            "desc": "Number of Individuals identified with this Employment Status",
+            "category": "population",
+            "concept": "population",
+            "dataset": "aaar-q4e3",
+            "name": "2014 Census - Population By Employment Status (Neighbourhood)"
+        },
+        {
+            "id": "unemployed",
+            "type": "number",
+            "desc": "Number of Individuals identified with this Employment Status",
+            "category": "population",
+            "concept": "population",
+            "dataset": "aaar-q4e3",
+            "name": "2014 Census - Population By Employment Status (Neighbourhood)"
+        },
+        {
+            "id": "retired",
+            "type": "number",
+            "desc": "Number of Individuals identified with this Employment Status",
+            "category": "population",
+            "concept": "population",
+            "dataset": "aaar-q4e3",
+            "name": "2014 Census - Population By Employment Status (Neighbourhood)"
+        },
+        {
+            "id": "permanently unable to work",
+            "type": "number",
+            "desc": "Number of Individuals identified with this Employment Status",
+            "category": "population",
+            "concept": "population",
+            "dataset": "aaar-q4e3",
+            "name": "2014 Census - Population By Employment Status (Neighbourhood)"
+        },
+        {
+            "id": "no response",
+            "type": "number",
+            "desc": "Number of Individuals that did not provide a Response",
+            "category": "population",
+            "concept": "population",
+            "dataset": "aaar-q4e3",
+            "name": "2014 Census - Population By Employment Status (Neighbourhood)"
+        },
+        {
+            "id": "population",
+            "type": "number",
+            "desc": "Total Number of Individuals",
+            "category": "population",
+            "concept": "population",
+            "dataset": "7xen-yxhv",
+            "name": "2014 Census - Population by Citizenship (Citywide)"
+        },
+        {
+            "id": "5 years or more",
+            "type": "number",
+            "desc": "Number of respondents ",
+            "category": "population",
+            "concept": "population",
+            "dataset": "siae-h3wc",
+            "name": "2016 Census - Population by Length of Residence (Neighbourhood/Ward)"
+        },
+        {
+            "id": "no response",
+            "type": "number",
+            "desc": "Number of respondents that provided No Response",
+            "category": "population",
+            "concept": "population",
+            "dataset": "siae-h3wc",
+            "name": "2016 Census - Population by Length of Residence (Neighbourhood/Ward)"
+        },
+        {
+            "id": "english only",
+            "type": "number",
+            "desc": "Number of Households ",
+            "category": "population",
+            "concept": "population",
+            "dataset": "etyh-hnr8",
+            "name": "2014 Census - Dwelling Unit By Language (Neighbourhood)"
+        },
+        {
+            "id": "arabic",
+            "type": "number",
+            "desc": "Number of Households ",
+            "category": "population",
+            "concept": "population",
+            "dataset": "etyh-hnr8",
+            "name": "2014 Census - Dwelling Unit By Language (Neighbourhood)"
+        },
+        {
+            "id": "cantonese",
+            "type": "number",
+            "desc": "Number of Households ",
+            "category": "population",
+            "concept": "population",
+            "dataset": "etyh-hnr8",
+            "name": "2014 Census - Dwelling Unit By Language (Neighbourhood)"
+        },
+        {
+            "id": "french",
+            "type": "number",
+            "desc": "Number of Households ",
+            "category": "population",
+            "concept": "population",
+            "dataset": "etyh-hnr8",
+            "name": "2014 Census - Dwelling Unit By Language (Neighbourhood)"
+        },
+        {
+            "id": "german",
+            "type": "number",
+            "desc": NaN,
+            "category": "population",
+            "concept": "population",
+            "dataset": "etyh-hnr8",
+            "name": "2014 Census - Dwelling Unit By Language (Neighbourhood)"
+        },
+        {
+            "id": "mandarin",
+            "type": "number",
+            "desc": "Number of Households ",
+            "category": "population",
+            "concept": "population",
+            "dataset": "etyh-hnr8",
+            "name": "2014 Census - Dwelling Unit By Language (Neighbourhood)"
+        },
+        {
+            "id": "panjabi (punjabi)",
+            "type": "number",
+            "desc": "Number of Households ",
+            "category": "population",
+            "concept": "population",
+            "dataset": "etyh-hnr8",
+            "name": "2014 Census - Dwelling Unit By Language (Neighbourhood)"
+        },
+        {
+            "id": "spanish",
+            "type": "number",
+            "desc": "Number of Households ",
+            "category": "population",
+            "concept": "population",
+            "dataset": "etyh-hnr8",
+            "name": "2014 Census - Dwelling Unit By Language (Neighbourhood)"
+        },
+        {
+            "id": "tagalog (pilipino filipino)",
+            "type": "number",
+            "desc": "Number of Households ",
+            "category": "population",
+            "concept": "population",
+            "dataset": "etyh-hnr8",
+            "name": "2014 Census - Dwelling Unit By Language (Neighbourhood)"
+        },
+        {
+            "id": "ukrainian",
+            "type": "number",
+            "desc": "Number of Households ",
+            "category": "population",
+            "concept": "population",
+            "dataset": "etyh-hnr8",
+            "name": "2014 Census - Dwelling Unit By Language (Neighbourhood)"
+        },
+        {
+            "id": "other",
+            "type": "number",
+            "desc": "Number of Households ",
+            "category": "population",
+            "concept": "population",
+            "dataset": "etyh-hnr8",
+            "name": "2014 Census - Dwelling Unit By Language (Neighbourhood)"
+        },
+        {
+            "id": "no response",
+            "type": "number",
+            "desc": "Number of Households ",
+            "category": "population",
+            "concept": "population",
+            "dataset": "etyh-hnr8",
+            "name": "2014 Census - Dwelling Unit By Language (Neighbourhood)"
+        },
+        {
+            "id": "population",
+            "type": "number",
+            "desc": "Number of Individuals for a given Employment Status Type",
+            "category": "population",
+            "concept": "population",
+            "dataset": "rffx-a53i",
+            "name": "2014 Census - Population By Employment Status (Ward)"
+        },
+        {
+            "id": "population",
+            "type": "number",
+            "desc": "Number of Individuals",
+            "category": "population",
+            "concept": "population",
+            "dataset": "78ux-3dz7",
+            "name": "2014 Census - Previous Residence If Less Than One Year (Ward)"
+        },
+        {
+            "id": "population",
+            "type": "number",
+            "desc": NaN,
+            "category": "population",
+            "concept": "population",
+            "dataset": "y354-d5xg",
+            "name": "2012 Census - Population By Employment Status (Ward)"
+        },
+        {
+            "id": "population",
+            "type": "number",
+            "desc": "Number of Individuals",
+            "category": "population",
+            "concept": "population",
+            "dataset": "h7gh-6hvx",
+            "name": "2016 Census - Population by Structure Type (Citywide)"
+        },
+        {
+            "id": "population",
+            "type": "number",
+            "desc": "Number of Individuals",
+            "category": "population",
+            "concept": "population",
+            "dataset": "c8st-3nuy",
+            "name": "2014 Census - Population By Structure Type (Ward)"
+        },
+        {
+            "id": "population",
+            "type": "number",
+            "desc": "Number of Individuals",
+            "category": "population",
+            "concept": "population",
+            "dataset": "8xce-nmz6",
+            "name": "2016 Census - Population by School Residency (Ward)"
+        }
+    ],
+    "time": [
+        {
+            "id": "meeting time",
+            "type": "text",
+            "desc": "Time for start of meeting",
+            "category": "time",
+            "concept": "time",
+            "dataset": "y29c-39y9",
+            "name": "2011-2013 Council and Committee Meetings - Meeting Details"
+        },
+        {
+            "id": "time",
+            "type": "text",
+            "desc": "Time when Activity happens",
+            "category": "time",
+            "concept": "time",
+            "dataset": "tm8z-k466",
+            "name": "Recreational Facilities - Drop In Swim"
+        },
+        {
+            "id": "start time",
+            "type": "text",
+            "desc": "Time when Activity is to begin",
+            "category": "time",
+            "concept": "time",
+            "dataset": "u6tw-de8t",
+            "name": "Recreational Facility - Drop In Fitness"
+        },
+        {
+            "id": "end time",
+            "type": "text",
+            "desc": "Time when Activity is to end",
+            "category": "time",
+            "concept": "time",
+            "dataset": "u6tw-de8t",
+            "name": "Recreational Facility - Drop In Fitness"
+        }
+    ],
+    "url": [
+        {
+            "id": "route url",
+            "type": "url",
+            "desc": "URL of a web page about that particular route",
+            "category": "url",
+            "concept": "url",
+            "dataset": "d577-xky7",
+            "name": "ETS Bus Schedule GTFS Data Feed - Routes"
+        },
+        {
+            "id": "link",
+            "type": "url",
+            "desc": "Additional information one can get about this caution or closure",
+            "category": "url",
+            "concept": "url",
+            "dataset": "k4mi-dkvi",
+            "name": "River Valley - Trail Cautions and Closures"
+        },
+        {
+            "id": "website url",
+            "type": "url",
+            "desc": "URL of website housing pictures of the LID Feature.",
+            "category": "url",
+            "concept": "url",
+            "dataset": "3xir-jjpa",
+            "name": "Low Impact Development Inventory"
+        },
+        {
+            "id": "url",
+            "type": "url",
+            "desc": "Web-site location for additional information",
+            "category": "url",
+            "concept": "url",
+            "dataset": "prfy-5m97",
+            "name": "Historical Buildings"
+        },
+        {
+            "id": "website",
+            "type": "url",
+            "desc": NaN,
+            "category": "url",
+            "concept": "url",
+            "dataset": "f6w2-hzex",
+            "name": "Edmonton Catholic Schools (2016 - 2017)"
+        },
+        {
+            "id": "link",
+            "type": "url",
+            "desc": "Web Link to view to see Proclamation details",
+            "category": "url",
+            "concept": "url",
+            "dataset": "avu6-pknu",
+            "name": "City Proclamations List"
+        },
+        {
+            "id": "construction by ward",
+            "type": "url",
+            "desc": "This link goes to a page listing all the construction projects scheduled in this Ward.",
+            "category": "url",
+            "concept": "url",
+            "dataset": "zxf6-rv9a",
+            "name": "2016 Street Construction Projects"
+        },
+        {
+            "id": "additional info",
+            "type": "url",
+            "desc": "Additional information relating to this project..",
+            "category": "url",
+            "concept": "url",
+            "dataset": "zxf6-rv9a",
+            "name": "2016 Street Construction Projects"
+        },
+        {
+            "id": "image url",
+            "type": "url",
+            "desc": "The URL link to the image as found at https://archivesphotos.edmonton.ca",
+            "category": "url",
+            "concept": "url",
+            "dataset": "5ups-7xwm",
+            "name": "Historical/Archived Images"
+        },
+        {
+            "id": "tweet permalink",
+            "type": "url",
+            "desc": NaN,
+            "category": "url",
+            "concept": "url",
+            "dataset": "4fc3-4cxh",
+            "name": "Twitter Analytics Around Open Data Day 2017"
+        },
+        {
+            "id": "dataset url",
+            "type": "url",
+            "desc": "URL to the dataset",
+            "category": "url",
+            "concept": "url",
+            "dataset": "i4kt-z6xs",
+            "name": "Requests for Data"
+        },
+        {
+            "id": "additional info",
+            "type": "url",
+            "desc": "Link to Edmonton.ca website",
+            "category": "url",
+            "concept": "url",
+            "dataset": "baei-id48",
+            "name": "Community Drop-in Program - Summer 2014"
+        },
+        {
+            "id": "icon",
+            "type": "url",
+            "desc": NaN,
+            "category": "url",
+            "concept": "url",
+            "dataset": "2976-zu3f",
+            "name": "Temporary Sign Locations"
+        },
+        {
+            "id": "street view link",
+            "type": "url",
+            "desc": NaN,
+            "category": "url",
+            "concept": "url",
+            "dataset": "2976-zu3f",
+            "name": "Temporary Sign Locations"
+        },
+        {
+            "id": "aerial view link",
+            "type": "url",
+            "desc": NaN,
+            "category": "url",
+            "concept": "url",
+            "dataset": "2976-zu3f",
+            "name": "Temporary Sign Locations"
+        }
+    ],
+    "month_number": [
+        {
+            "id": "month number",
+            "type": "number",
+            "desc": "Month number of when permit was issued",
+            "category": "month_number",
+            "concept": "time",
+            "dataset": "24uj-dj8v",
+            "name": "General Building Permits"
+        },
+        {
+            "id": "month number",
+            "type": "number",
+            "desc": "Month Number",
+            "category": "month_number",
+            "concept": "time",
+            "dataset": "xgwu-c37w",
+            "name": "Bylaw Infractions"
+        },
+        {
+            "id": "month number",
+            "type": "number",
+            "desc": "The numeric Month in which the 311 ticket was created.",
+            "category": "month_number",
+            "concept": "time",
+            "dataset": "vvnz-h46c",
+            "name": "311 Requests (2014)"
+        }
+    ],
+    "gender": [
+        {
+            "id": "gender",
+            "type": "text",
+            "desc": NaN,
+            "category": "gender",
+            "concept": "sex",
+            "dataset": "9kdx-y5ve",
+            "name": "Food Council 2017 - Edmonton Insight Community"
+        },
+        {
+            "id": "gender",
+            "type": "text",
+            "desc": "Female or male",
+            "category": "gender",
+            "concept": "sex",
+            "dataset": "5zeu-wkpv",
+            "name": "Mosquitoes Trap Data"
+        },
+        {
+            "id": "gender",
+            "type": "text",
+            "desc": "\nProfiling question. Question: Your gender? || Possible Answers: Female|Male|Other|I prefer not to answer\n",
+            "category": "gender",
+            "concept": "sex",
+            "dataset": "cjcn-85t7",
+            "name": "Measuring Progress Questionnaire - Safety In The City"
+        },
+        {
+            "id": "gender",
+            "type": "text",
+            "desc": NaN,
+            "category": "gender",
+            "concept": "sex",
+            "dataset": "69f4-nnng",
+            "name": "Food Council 2016 - Edmonton Insight Community"
+        }
+    ],
+    "age": [
+        {
+            "id": "age",
+            "type": "text",
+            "desc": NaN,
+            "category": "age",
+            "concept": "age",
+            "dataset": "9kdx-y5ve",
+            "name": "Food Council 2017 - Edmonton Insight Community"
+        },
+        {
+            "id": "age",
+            "type": "text",
+            "desc": "\nProfiling question. Question: Your age? || Possible Answers: 15 - 18|18 - 24|25 - 34|35 - 44|45 - 54|55 - 64|65 years and over|Refused\n",
+            "category": "age",
+            "concept": "age",
+            "dataset": "cjcn-85t7",
+            "name": "Measuring Progress Questionnaire - Safety In The City"
+        },
+        {
+            "id": "age",
+            "type": "text",
+            "desc": NaN,
+            "category": "age",
+            "concept": "age",
+            "dataset": "69f4-nnng",
+            "name": "Food Council 2016 - Edmonton Insight Community"
+        },
+        {
+            "id": "age",
+            "type": "text",
+            "desc": "Age of residents effective April 1, 2009.",
+            "category": "age",
+            "concept": "age",
+            "dataset": "gy8c-eq6u",
+            "name": "2009 Census - Population By Single Year Of Age And Gender (Citywide)"
+        },
+        {
+            "id": "age",
+            "type": "text",
+            "desc": NaN,
+            "category": "age",
+            "concept": "age",
+            "dataset": "33jk-s9st",
+            "name": "2012 Census - Population By Single Year Of Age And Gender (Ward)"
+        },
+        {
+            "id": "age",
+            "type": "text",
+            "desc": NaN,
+            "category": "age",
+            "concept": "age",
+            "dataset": "2g3q-ffpc",
+            "name": "Climate Perceptions Baseline Survey Data, Questionnaire and Final Report"
+        },
+        {
+            "id": "age",
+            "type": "text",
+            "desc": "Age of residents effective April 1, 2009",
+            "category": "age",
+            "concept": "age",
+            "dataset": "qzrg-q4nv",
+            "name": "2009 Census - Population By Single Year Of Age And Gender (Neighbourhood)"
+        }
+    ],
+    "language": [
+        {
+            "id": "language",
+            "type": "text",
+            "desc": "\nProfiling question. Question: What is the primary language spoken in your household? || Possible Answers: English|French|Other\n",
+            "category": "language",
+            "concept": "language",
+            "dataset": "cjcn-85t7",
+            "name": "Measuring Progress Questionnaire - Safety In The City"
+        },
+        {
+            "id": "language",
+            "type": "text",
+            "desc": "Language Spoken",
+            "category": "language",
+            "concept": "language",
+            "dataset": "72zq-a43j",
+            "name": "2014 Census - Dwelling Unit By Language (Ward)"
+        }
+    ],
+    "quadrant": [
+        {
+            "id": "qdr",
+            "type": "text",
+            "desc": "\nProfiling question. Question: City Quadrant? || Possible Answers: NW|NE|SE|SW\n",
+            "category": "quadrant",
+            "concept": "area",
+            "dataset": "cjcn-85t7",
+            "name": "Measuring Progress Questionnaire - Safety In The City"
+        }
+    ],
+    "ward_number": [
+        {
+            "id": "ward",
+            "type": "number",
+            "desc": "School Ward Number",
+            "category": "ward_number",
+            "concept": "area",
+            "dataset": "f6w2-hzex",
+            "name": "Edmonton Catholic Schools (2016 - 2017)"
+        },
+        {
+            "id": "ward",
+            "type": "number",
+            "desc": "City Ward",
+            "category": "ward_number",
+            "concept": "area",
+            "dataset": "25sf-z8zd",
+            "name": "Residential Building Permits 2009-2014"
+        },
+        {
+            "id": "ward",
+            "type": "number",
+            "desc": NaN,
+            "category": "ward_number",
+            "concept": "area",
+            "dataset": "n2b5-3tn8",
+            "name": "2017 Edmonton Election - Voting Stations"
+        },
+        {
+            "id": "wardorder",
+            "type": "number",
+            "desc": NaN,
+            "category": "ward_number",
+            "concept": "area",
+            "dataset": "yznh-9n2u",
+            "name": "2010 Edmonton Election - Official Results"
+        },
+        {
+            "id": "ward",
+            "type": "number",
+            "desc": "City Ward",
+            "category": "ward_number",
+            "concept": "area",
+            "dataset": "8t7s-6vwq",
+            "name": "Residential Building Permits 2015"
+        },
+        {
+            "id": "ward",
+            "type": "text",
+            "desc": "A unique number give to a geographical area representing a electoral area",
+            "category": "ward_number",
+            "concept": "area",
+            "dataset": "vvnz-h46c",
+            "name": "311 Requests (2014)"
+        }
+    ],
+    "phone": [
+        {
+            "id": "phone number",
+            "type": "number",
+            "desc": "Phone Number for School",
+            "category": "phone",
+            "concept": "phone",
+            "dataset": "f6w2-hzex",
+            "name": "Edmonton Catholic Schools (2016 - 2017)"
+        },
+        {
+            "id": "fax number",
+            "type": "number",
+            "desc": "Fax number for school",
+            "category": "phone",
+            "concept": "phone",
+            "dataset": "f6w2-hzex",
+            "name": "Edmonton Catholic Schools (2016 - 2017)"
+        },
+        {
+            "id": "phone number",
+            "type": "text",
+            "desc": "Phone number for Construction Supervisor",
+            "category": "phone",
+            "concept": "phone",
+            "dataset": "zxf6-rv9a",
+            "name": "2016 Street Construction Projects"
+        }
+    ],
+    "email": [
+        {
+            "id": "email",
+            "type": "email",
+            "desc": "E-mail address for School",
+            "category": "email",
+            "concept": "email",
+            "dataset": "f6w2-hzex",
+            "name": "Edmonton Catholic Schools (2016 - 2017)"
+        }
+    ],
+    "district": [
+        {
+            "id": "district",
+            "type": "text",
+            "desc": NaN,
+            "category": "district",
+            "concept": "area",
+            "dataset": "b4y7-zhnz",
+            "name": "Fire Stations"
+        },
+        {
+            "id": "traffic district",
+            "type": "number",
+            "desc": "Unique Transportation Management Area as identified by Transportation Services",
+            "category": "district",
+            "concept": "area",
+            "dataset": "8t7s-6vwq",
+            "name": "Residential Building Permits 2015"
+        },
+        {
+            "id": "district",
+            "type": "text",
+            "desc": "The City District that the Temporary Sign is located in.",
+            "category": "district",
+            "concept": "area",
+            "dataset": "2976-zu3f",
+            "name": "Temporary Sign Locations"
+        }
+    ],
+    "day": [
+        {
+            "id": "day",
+            "type": "text",
+            "desc": "Day of the Week for an Activity",
+            "category": "day",
+            "concept": "time",
+            "dataset": "tm8z-k466",
+            "name": "Recreational Facilities - Drop In Swim"
+        },
+        {
+            "id": "day",
+            "type": "text",
+            "desc": "Day of Week when Activity is to take place.",
+            "category": "day",
+            "concept": "time",
+            "dataset": "u6tw-de8t",
+            "name": "Recreational Facility - Drop In Fitness"
+        }
+    ],
+    "month_name": [
+        {
+            "id": "month",
+            "type": "text",
+            "desc": "Month Name",
+            "category": "month_name",
+            "concept": "time",
+            "dataset": "xgwu-c37w",
+            "name": "Bylaw Infractions"
+        },
+        {
+            "id": "month",
+            "type": "text",
+            "desc": "The Month in which the 311 ticket was created.",
+            "category": "month_name",
+            "concept": "time",
+            "dataset": "vvnz-h46c",
+            "name": "311 Requests (2014)"
+        }
+    ]
+}

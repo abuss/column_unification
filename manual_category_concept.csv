@@ -1,0 +1,1290 @@
+id,type,desc,category,concept,dataset,name
+responsedate,calendar_date,,date,time,bqy8-r3up,Naturalization - Edmonton Insight Community
+completiondate,calendar_date,,date,time,bqy8-r3up,Naturalization - Edmonton Insight Community
+ostype,text,,,,bqy8-r3up,Naturalization - Edmonton Insight Community
+devicetype,text,,,,bqy8-r3up,Naturalization - Edmonton Insight Community
+browsertype,text,,,,bqy8-r3up,Naturalization - Edmonton Insight Community
+budget year,number,Calendar year for budget.,year,time,da9s-v9j8,Approved Operating Budget - Expenses
+fund type,text,Fund Type of budget item.,type,type,da9s-v9j8,Approved Operating Budget - Expenses
+department,text,Name of City Department or Agency responsible for budget item.,,,da9s-v9j8,Approved Operating Budget - Expenses
+branch,text,Name of branch responsible for budget item.,,,da9s-v9j8,Approved Operating Budget - Expenses
+program,text,Name of program responsible for budget item.,,,da9s-v9j8,Approved Operating Budget - Expenses
+category,text,Budget item description.,type,type,da9s-v9j8,Approved Operating Budget - Expenses
+account type,text,High-level categorization of budget item - Revenue or Expenses.,,,da9s-v9j8,Approved Operating Budget - Expenses
+budget,money,Number of dollars allocated to budget item.,,,da9s-v9j8,Approved Operating Budget - Expenses
+name,text,Name of senior centre,,name,zmac-3mxq,Seniors Centres
+address,text,Street address for senior centre,address,location,zmac-3mxq,Seniors Centres
+latitude,number,Latitude coordinate for senior centre,latitude,location,zmac-3mxq,Seniors Centres
+longitude,number,Longitude coordinate for senior centre,longitude,location,zmac-3mxq,Seniors Centres
+location,location,Geographic location of senior centre,location,location,zmac-3mxq,Seniors Centres
+forward sortation area,text,A forward sortation area (FSA) is a geographical region in which all postal codes start with the same three characters,postal_code,area,bqmh-j34s,Licensed Pets by Breed and Forward Sortation Area (FSA)
+animal type,text,Cat or dog,,type,bqmh-j34s,Licensed Pets by Breed and Forward Sortation Area (FSA)
+breed,text,"A breed is a group of domestic animals with a homogeneous appearance, behavior, and other characteristics that distinguish it from other animals of the same species, and arrived at through selective breeding.",,,bqmh-j34s,Licensed Pets by Breed and Forward Sortation Area (FSA)
+count,number,Number of animals for a certain breed at a certain Forward Sortation Area.,,,bqmh-j34s,Licensed Pets by Breed and Forward Sortation Area (FSA)
+responsedate,calendar_date,,date,time,4hht-iw97,Medically Supervised Injection Services - Edmonton Insight Community
+completiondate,calendar_date,,date,time,4hht-iw97,Medically Supervised Injection Services - Edmonton Insight Community
+ostype,text,,,,4hht-iw97,Medically Supervised Injection Services - Edmonton Insight Community
+devicetype,text,,,,4hht-iw97,Medically Supervised Injection Services - Edmonton Insight Community
+browsertype,text,,,,4hht-iw97,Medically Supervised Injection Services - Edmonton Insight Community
+ward,text,City Ward Number to which a Neighbourhood belongs to.,ward_name,area,bms6-cuv9,2012 Census - Population By Marital Status (Neighbourhood)
+neighbourhood number,number,Unique number identifier,neighbourbood_id,area,bms6-cuv9,2012 Census - Population By Marital Status (Neighbourhood)
+neighbourhood name,text,"To protect the privacy of individuals, neighbourhood data is not reported for neighbourhoods with populations between 1 and 49 residents.",neighbourbood_name,area,bms6-cuv9,2012 Census - Population By Marital Status (Neighbourhood)
+married,number,,,,bms6-cuv9,2012 Census - Population By Marital Status (Neighbourhood)
+common-law,number,,,,bms6-cuv9,2012 Census - Population By Marital Status (Neighbourhood)
+separated/divorced,number,,,,bms6-cuv9,2012 Census - Population By Marital Status (Neighbourhood)
+never married,number,,,,bms6-cuv9,2012 Census - Population By Marital Status (Neighbourhood)
+widowed,number,,,,bms6-cuv9,2012 Census - Population By Marital Status (Neighbourhood)
+no response,number,,,,bms6-cuv9,2012 Census - Population By Marital Status (Neighbourhood)
+structure type,text,,,,htu3-4pz3,2012 Census - Dwelling Units By Structure Type And Length Of Residence (Citywide)
+5 years or more,number,,,,htu3-4pz3,2012 Census - Dwelling Units By Structure Type And Length Of Residence (Citywide)
+no response,number,,,,htu3-4pz3,2012 Census - Dwelling Units By Structure Type And Length Of Residence (Citywide)
+ward,text,City Ward Number,ward_name,area,dzvs-e3up,2016 Census - Population by Length of Residence (Ward)
+population,number,Number of respondents for a particular residency length,population,population,dzvs-e3up,2016 Census - Population by Length of Residence (Ward)
+meeting id,number,Primary Key / Unique meeting identifier,,,y29c-39y9,2011-2013 Council and Committee Meetings - Meeting Details
+meeting type,text,Name of Committee or the type of Council Meeting,,,y29c-39y9,2011-2013 Council and Committee Meetings - Meeting Details
+record type,text,Indicates whether the Agenda or Minutes are available for this meeting,,,y29c-39y9,2011-2013 Council and Committee Meetings - Meeting Details
+meeting date,calendar_date,Date of meeting,date,time,y29c-39y9,2011-2013 Council and Committee Meetings - Meeting Details
+meeting time,text,Time for start of meeting,time,time,y29c-39y9,2011-2013 Council and Committee Meetings - Meeting Details
+meeting location,text,Location of Meeting,location,location,y29c-39y9,2011-2013 Council and Committee Meetings - Meeting Details
+supplier name,text,Name of supplier providing goods and services to the City.,,,y9rm-5xha,"Purchase Orders Over $10,000"
+description,text,Brief description of the goods and services being purchased by the City.,,,y9rm-5xha,"Purchase Orders Over $10,000"
+purchase order type,text,Category of Purchase Order.,,,y9rm-5xha,"Purchase Orders Over $10,000"
+dollar value category,text,Dollar range of Purchase Order.,,,y9rm-5xha,"Purchase Orders Over $10,000"
+create date,calendar_date,Date that the Purchase Order was created.,date,time,y9rm-5xha,"Purchase Orders Over $10,000"
+year,number,Year the Purchase Order was created,year,time,y9rm-5xha,"Purchase Orders Over $10,000"
+route id,text,ID that uniquely identifies a route,,,d577-xky7,ETS Bus Schedule GTFS Data Feed - Routes
+route short name,number,Short name of a route,,,d577-xky7,ETS Bus Schedule GTFS Data Feed - Routes
+route long name,text,Full name of a route. This name is generally more descriptive than the route_short_name and will often include the route's destination or stop.,,,d577-xky7,ETS Bus Schedule GTFS Data Feed - Routes
+route description,text,Description of route,,,d577-xky7,ETS Bus Schedule GTFS Data Feed - Routes
+route type,number,"Type of Transportation used on the route. 0 - Tram, Streetcar; 1 - Subway; 2- Rail; 3- Bus; etc...",,,d577-xky7,ETS Bus Schedule GTFS Data Feed - Routes
+route url,url,URL of a web page about that particular route,url,url,d577-xky7,ETS Bus Schedule GTFS Data Feed - Routes
+responsedate,calendar_date,,date,time,49fy-4pc4,Traffic Safety Culture - Edmonton Insight Community
+completiondate,calendar_date,,date,time,49fy-4pc4,Traffic Safety Culture - Edmonton Insight Community
+ostype,text,,,,49fy-4pc4,Traffic Safety Culture - Edmonton Insight Community
+devicetype,text,,,,49fy-4pc4,Traffic Safety Culture - Edmonton Insight Community
+browsertype,text,,,,49fy-4pc4,Traffic Safety Culture - Edmonton Insight Community
+population,number,,population,population,6w5t-p7n9,2012 Census - Population By Mode Of Transportation (Citywide)
+ward,text,City Ward Number,ward_name,area,i88k-yen7,2016 Census - Population by Employment Status (Neighbourhood/Ward)
+neighbourhood number,number,Unique Neighbourhood Identifier,neighbourbood_id,area,i88k-yen7,2016 Census - Population by Employment Status (Neighbourhood/Ward)
+neighbourhood name,text,Neighbourhood name,neighbourbood_name,area,i88k-yen7,2016 Census - Population by Employment Status (Neighbourhood/Ward)
+preschool,number,Number of Individuals identified with this Employment Status,,,i88k-yen7,2016 Census - Population by Employment Status (Neighbourhood/Ward)
+post secondary student,number,Number of Individuals identified with this Employment Status,,,i88k-yen7,2016 Census - Population by Employment Status (Neighbourhood/Ward)
+homemaker,number,Number of Individuals identified with this Employment Status,,,i88k-yen7,2016 Census - Population by Employment Status (Neighbourhood/Ward)
+unemployed,number,Number of Individuals identified with this Employment Status,,,i88k-yen7,2016 Census - Population by Employment Status (Neighbourhood/Ward)
+retired,number,Number of Individuals identified with this Employment Status,,,i88k-yen7,2016 Census - Population by Employment Status (Neighbourhood/Ward)
+permanently unable to work,number,Number of Individuals identified with this Employment Status,,,i88k-yen7,2016 Census - Population by Employment Status (Neighbourhood/Ward)
+no response,number,Number of individuals that did not provide a response to this question,,,i88k-yen7,2016 Census - Population by Employment Status (Neighbourhood/Ward)
+response date,calendar_date,Date/Time the respondent first opened/started the survey.,date,time,mt3b-mcig,City Communication - Edmonton Insight Community
+completion date,calendar_date,Date/Time the respondent finished the survey.,date,time,mt3b-mcig,City Communication - Edmonton Insight Community
+ostype,text,"System Captured, OS used by the respondent. Question: OS Type? - OSType Possible Answers: Mac (OS X)/Linux/Windows/iOS/Android/BlackBerry/Unknown",,,mt3b-mcig,City Communication - Edmonton Insight Community
+devicetype,text,"System Captured, Device used by the respondent. Question: Device Type? - DeviceType Possible Answers: Tablet/Desktop/Phone",,,mt3b-mcig,City Communication - Edmonton Insight Community
+browsertype,text,"System Captured, Browser used by the respondent. Question: Browser Type? - BrowserType Possible Answers: Internet Explorer/Firefox/Safari/Google Chrome/Opera/Android/BlackBerry/Unknown",,,mt3b-mcig,City Communication - Edmonton Insight Community
+ward,text,City Ward Number,ward_name,area,i8na-b4eb,2014 Census - Previous Residence If Less Than One Year (Neighbourhood)
+neighbourhood number,number,Unique Neighbourhood Identifier,neighbourbood_id,area,i8na-b4eb,2014 Census - Previous Residence If Less Than One Year (Neighbourhood)
+neighbourhood name,text,Neighbourhood Name,neighbourbood_name,area,i8na-b4eb,2014 Census - Previous Residence If Less Than One Year (Neighbourhood)
+elsewhere in edmonton,number,Number of Individuals for a Particular Location Type,population,population,i8na-b4eb,2014 Census - Previous Residence If Less Than One Year (Neighbourhood)
+elsewhere in alberta,number,Number of Individuals for a Particular Location Type,population,population,i8na-b4eb,2014 Census - Previous Residence If Less Than One Year (Neighbourhood)
+atlantic canada,number,Number of Individuals for a Particular Location Type,population,population,i8na-b4eb,2014 Census - Previous Residence If Less Than One Year (Neighbourhood)
+ontario/quebec,number,Number of Individuals for a Particular Location Type,population,population,i8na-b4eb,2014 Census - Previous Residence If Less Than One Year (Neighbourhood)
+territories/manitoba/saskatchewan,number,Number of Individuals for a Particular Location Type,population,population,i8na-b4eb,2014 Census - Previous Residence If Less Than One Year (Neighbourhood)
+british columbia,number,Number of Individuals for a Particular Location Type,population,population,i8na-b4eb,2014 Census - Previous Residence If Less Than One Year (Neighbourhood)
+outside canada,number,Number of Individuals for a Particular Location Type,population,population,i8na-b4eb,2014 Census - Previous Residence If Less Than One Year (Neighbourhood)
+no response,number,Number of Individuals that did not respond,population,population,i8na-b4eb,2014 Census - Previous Residence If Less Than One Year (Neighbourhood)
+permit date,calendar_date,The date when Building Permit has been issued.,date,time,24uj-dj8v,General Building Permits
+permit number,text,The unique City-issued permit number ,,,24uj-dj8v,General Building Permits
+year,number,Year when permit was issued.,year,time,24uj-dj8v,General Building Permits
+month number,number,Month number of when permit was issued,month_number,time,24uj-dj8v,General Building Permits
+report permit date,calendar_date,Report label,date,time,24uj-dj8v,General Building Permits
+job category,text,Type of Building Permit,,,24uj-dj8v,General Building Permits
+address,text,Address that the Building Permit was issued for,address,location,24uj-dj8v,General Building Permits
+legal description,text,Legal description for address where building permit was issued for.,,,24uj-dj8v,General Building Permits
+neighbourhood,text,City Neighbourhood name.,neighbourbood_name,area,24uj-dj8v,General Building Permits
+neighbourhood number,text,,neighbourbood_id,area,24uj-dj8v,General Building Permits
+job description,text,Description of the building permit issued.,,,24uj-dj8v,General Building Permits
+building type,text,Type of Building Structure,,,24uj-dj8v,General Building Permits
+work type,text,Type of work to be done.,,,24uj-dj8v,General Building Permits
+floor area,number,Square footage of floor area,,,24uj-dj8v,General Building Permits
+construction value,number,Estimated value of construction  work ,,,24uj-dj8v,General Building Permits
+zoning,text,Land use zone,,area,24uj-dj8v,General Building Permits
+units added,number,Change in dwelling unit,,,24uj-dj8v,General Building Permits
+latitude,number,Horizontal spatial coordinate,latitude,location,24uj-dj8v,General Building Permits
+longitude,number,Vertical spatial coordinate,longitude,location,24uj-dj8v,General Building Permits
+location,location,Spatial coordinates for address,location,location,24uj-dj8v,General Building Permits
+count,number,Used for reporting,,,24uj-dj8v,General Building Permits
+ward,text,City Ward Number,ward_name,area,qd5f-vy6n,2014 Census - Population By School Residency (Neighbourhood)
+neighbourhood number,number,Unique Neighbourhood Identifier,neighbourbood_id,area,qd5f-vy6n,2014 Census - Population By School Residency (Neighbourhood)
+neighbourhood name,text,Neighbourhood Name,neighbourbood_name,area,qd5f-vy6n,2014 Census - Population By School Residency (Neighbourhood)
+public,number,Number of Individuals Supporting School Board,population,population,qd5f-vy6n,2014 Census - Population By School Residency (Neighbourhood)
+catholic,number,Number of Individuals Supporting School Board,population,population,qd5f-vy6n,2014 Census - Population By School Residency (Neighbourhood)
+no response,number,Number of Individuals that did not Respond,population,population,qd5f-vy6n,2014 Census - Population By School Residency (Neighbourhood)
+location description,text,A description of where along the Road Name that the enforcement zone is located,,,epqc-y5cq,All Photo Enforcement Zone Centre Points
+speed limit,number,A speed limit that is being monitored and enforced (km/h),,,epqc-y5cq,All Photo Enforcement Zone Centre Points
+category,text,General classification of business,,,qhi4-bdpu,City of Edmonton - Business Licenses
+legal name,text,Legal Name for the business,,,qhi4-bdpu,City of Edmonton - Business Licenses
+trade name,text,Common Name for the business,,,qhi4-bdpu,City of Edmonton - Business Licenses
+licence number,text,Unique identifier for a business permit ,,,qhi4-bdpu,City of Edmonton - Business Licenses
+licence status,text,"Current Status of Licence - Issued, Expired",,,qhi4-bdpu,City of Edmonton - Business Licenses
+issue date,calendar_date,Date Business Licence Issued,date,time,qhi4-bdpu,City of Edmonton - Business Licenses
+expiry date,calendar_date,Date Business Licence Is to Expire,date,time,qhi4-bdpu,City of Edmonton - Business Licenses
+neighbourhood id,number,Unique number identifier for the Neighbourhood,neighbourbood_id,location,qhi4-bdpu,City of Edmonton - Business Licenses
+neighbourhood,text,The name of the Neighbourhood,neighbourbood_name,location,qhi4-bdpu,City of Edmonton - Business Licenses
+count,number,Used to create visual reports,,,qhi4-bdpu,City of Edmonton - Business Licenses
+responsedate,calendar_date,,date,time,7ph4-x5hn,Speed Smart - Edmonton Insight Community
+completiondate,calendar_date,,date,time,7ph4-x5hn,Speed Smart - Edmonton Insight Community
+speed smart edmonton.ca webpage,number,,,,7ph4-x5hn,Speed Smart - Edmonton Insight Community
+speed smart other:,number,,,,7ph4-x5hn,Speed Smart - Edmonton Insight Community
+ostype,text,,,,7ph4-x5hn,Speed Smart - Edmonton Insight Community
+devicetype,text,,,,7ph4-x5hn,Speed Smart - Edmonton Insight Community
+browsertype,text,,,,7ph4-x5hn,Speed Smart - Edmonton Insight Community
+ward,text,City Ward Number,ward_name,area,ec9y-ni5n,2014 Census - Population By Ownership And Length Of Residence (Neighbourhood)
+neighbourhood number,number,Unique Neighbourhood Number,neighbourbood_id,area,ec9y-ni5n,2014 Census - Population By Ownership And Length Of Residence (Neighbourhood)
+neighbourhood name,text,Neighbourhood Name,neighbourbood_name,area,ec9y-ni5n,2014 Census - Population By Ownership And Length Of Residence (Neighbourhood)
+ownership,text,Ownership Type,,,ec9y-ni5n,2014 Census - Population By Ownership And Length Of Residence (Neighbourhood)
+5 years or more,number,Number of Units,,,ec9y-ni5n,2014 Census - Population By Ownership And Length Of Residence (Neighbourhood)
+no response,number,Number of Units,,,ec9y-ni5n,2014 Census - Population By Ownership And Length Of Residence (Neighbourhood)
+structure type,text,Building Structure Type,,,76kk-asiv,2016 Census - Dwelling Unit by Structure Type and Ownership (Citywide)
+owned,number,Number of Dwellings that are owned,,,76kk-asiv,2016 Census - Dwelling Unit by Structure Type and Ownership (Citywide)
+rented,number,Number of Dwellings that are rented,,,76kk-asiv,2016 Census - Dwelling Unit by Structure Type and Ownership (Citywide)
+no response,number,Number of Dwellings that did not Respond,,,76kk-asiv,2016 Census - Dwelling Unit by Structure Type and Ownership (Citywide)
+facility type,text,Type of Drainage Facility - default is Inlet-Outlet,,,eu53-j7sn,Drainage - Inlets/Outlets
+type,text,Type of Inlet-Outlet - stormwater,,,eu53-j7sn,Drainage - Inlets/Outlets
+year constructed,number,Year in which the Inlet-Outlet was built,year,time,eu53-j7sn,Drainage - Inlets/Outlets
+neighbourhood id,number,Unique Neighbourhood Identification Number,neighbourbood_id,area,eu53-j7sn,Drainage - Inlets/Outlets
+neighbourhood name,text,Name of Neighbourhood Inlet-Outlet is located,neighbourbood_name,area,eu53-j7sn,Drainage - Inlets/Outlets
+ward,text,Name of Ward Inlet-Outlet s located,ward_name,area,eu53-j7sn,Drainage - Inlets/Outlets
+street / avenue,text,Name of Street / Avenue where Inlet-Outlet is located ,address,location,eu53-j7sn,Drainage - Inlets/Outlets
+latitude,number,Latitude coordinates for an Inlet-Outlet,latitude,location,eu53-j7sn,Drainage - Inlets/Outlets
+longitude,number,Longitude coordinates for a Inlet-Outlet,longitude,location,eu53-j7sn,Drainage - Inlets/Outlets
+location,location,"List of coordinates for a Inlet-Outlet Format (latitude, longitude)",location,location,eu53-j7sn,Drainage - Inlets/Outlets
+responsedate,calendar_date,"
+Date/Time the respondent first opened/started the survey.
+",date,time,6m6z-ybit,New Years Eve Downtown - Edmonton Insight Community
+completiondate,calendar_date,"
+Date/Time the respondent finished the survey.
+",date,time,6m6z-ybit,New Years Eve Downtown - Edmonton Insight Community
+ostype,text,"
+System Captured, OS used by the respondent. Question: OS Type? - OSType || Possible Answers: Mac (OS X)/Linux/Windows/iOS/Android/BlackBerry/Unknown
+",,,6m6z-ybit,New Years Eve Downtown - Edmonton Insight Community
+devicetype,text,"
+System Captured, Device used by the respondent. Question: Device Type? - DeviceType || Possible Answers: Tablet/Desktop/Phone
+",,,6m6z-ybit,New Years Eve Downtown - Edmonton Insight Community
+browsertype,text,"
+System Captured, Browser used by the respondent. Question: Browser Type? - BrowserType || Possible Answers: Internet Explorer/Firefox/Safari/Google Chrome/Opera/Android/BlackBerry/Unknown
+",,,6m6z-ybit,New Years Eve Downtown - Edmonton Insight Community
+ward,text,City Ward Number,ward_name,area,hda9-ip2g,2016 Census - Previous Residence If Less Than One Year (Neighbourhood/Ward)
+neighbourhood number,number,Unique Neighbourhood Identifier,neighbourbood_id,area,hda9-ip2g,2016 Census - Previous Residence If Less Than One Year (Neighbourhood/Ward)
+neighbourhood name,text,Neighbourhood Name,neighbourbood_name,area,hda9-ip2g,2016 Census - Previous Residence If Less Than One Year (Neighbourhood/Ward)
+elsewhere in edmonton,number,Number of Individuals for a Particular Location Type,population,population,hda9-ip2g,2016 Census - Previous Residence If Less Than One Year (Neighbourhood/Ward)
+elsewhere in alberta,number,Number of Individuals for a Particular Location Type,population,population,hda9-ip2g,2016 Census - Previous Residence If Less Than One Year (Neighbourhood/Ward)
+atlantic canada,number,Number of Individuals for a Particular Location Type,population,population,hda9-ip2g,2016 Census - Previous Residence If Less Than One Year (Neighbourhood/Ward)
+ontario/quebec,number,Number of Individuals for a Particular Location Type,population,population,hda9-ip2g,2016 Census - Previous Residence If Less Than One Year (Neighbourhood/Ward)
+territories/manitoba/saskatchewan,number,Number of Individuals for a Particular Location Type,population,population,hda9-ip2g,2016 Census - Previous Residence If Less Than One Year (Neighbourhood/Ward)
+british columbia,number,Number of Individuals for a Particular Location Type,population,population,hda9-ip2g,2016 Census - Previous Residence If Less Than One Year (Neighbourhood/Ward)
+outside canada,number,Number of Individuals for a Particular Location Type,population,population,hda9-ip2g,2016 Census - Previous Residence If Less Than One Year (Neighbourhood/Ward)
+no response,number,Number of Individuals that did not respond,population,population,hda9-ip2g,2016 Census - Previous Residence If Less Than One Year (Neighbourhood/Ward)
+dwelling status,text,Dwelling Status Type,,,bk4g-yv6v,2016 Census - Dwelling Unit Status (Citywide)
+dwellings,number,Number of Units,,,bk4g-yv6v,2016 Census - Dwelling Unit Status (Citywide)
+ward,text,,,,6x5f-8hj7,2012 Census - Dwelling Units By Structure Type And Length Of Residence (Ward)
+structure type,text,,,,6x5f-8hj7,2012 Census - Dwelling Units By Structure Type And Length Of Residence (Ward)
+5 years or more,number,,,,6x5f-8hj7,2012 Census - Dwelling Units By Structure Type And Length Of Residence (Ward)
+no response,number,,,,6x5f-8hj7,2012 Census - Dwelling Units By Structure Type And Length Of Residence (Ward)
+responsedate,calendar_date,,date,time,9kdx-y5ve,Food Council 2017 - Edmonton Insight Community
+completiondate,calendar_date,,date,time,9kdx-y5ve,Food Council 2017 - Edmonton Insight Community
+gender,text,,gender,sex,9kdx-y5ve,Food Council 2017 - Edmonton Insight Community
+age,text,,age,age,9kdx-y5ve,Food Council 2017 - Edmonton Insight Community
+education,text,,,,9kdx-y5ve,Food Council 2017 - Edmonton Insight Community
+employment status,text,,,,9kdx-y5ve,Food Council 2017 - Edmonton Insight Community
+fsa,text,,postal_code,location,9kdx-y5ve,Food Council 2017 - Edmonton Insight Community
+ostype,text,,,,9kdx-y5ve,Food Council 2017 - Edmonton Insight Community
+devicetype,text,,,,9kdx-y5ve,Food Council 2017 - Edmonton Insight Community
+browsertype,text,,,,9kdx-y5ve,Food Council 2017 - Edmonton Insight Community
+ward,text,City Ward Number,ward_name,area,7ds8-hpvz,2016 Census - Population by Employment Sector ( Neighbourhood/Ward)
+neighbourhood number,number,Unique Neighbourhood Identifier,neighbourbood_id,area,7ds8-hpvz,2016 Census - Population by Employment Sector ( Neighbourhood/Ward)
+neighbourhood name,text,Neighbourhood Name,neighbourbood_name,area,7ds8-hpvz,2016 Census - Population by Employment Sector ( Neighbourhood/Ward)
+accommodation and food services,number,Number of Persons for particular Employment Sector,population,population,7ds8-hpvz,2016 Census - Population by Employment Sector ( Neighbourhood/Ward)
+"administration, waste and remediation",number,Number of Persons for particular Employment Sector,population,population,7ds8-hpvz,2016 Census - Population by Employment Sector ( Neighbourhood/Ward)
+construction,number,Number of Persons for particular Employment Sector,population,population,7ds8-hpvz,2016 Census - Population by Employment Sector ( Neighbourhood/Ward)
+educational services,number,Number of Persons for particular Employment Sector,population,population,7ds8-hpvz,2016 Census - Population by Employment Sector ( Neighbourhood/Ward)
+manufacturing,number,Number of Persons for particular Employment Sector,population,population,7ds8-hpvz,2016 Census - Population by Employment Sector ( Neighbourhood/Ward)
+public administration,number,Number of Persons for particular Employment Sector,population,population,7ds8-hpvz,2016 Census - Population by Employment Sector ( Neighbourhood/Ward)
+transportation and warehousing,number,Number of Persons for particular Employment Sector,population,population,7ds8-hpvz,2016 Census - Population by Employment Sector ( Neighbourhood/Ward)
+utilities,number,Number of Persons for particular Employment Sector,population,population,7ds8-hpvz,2016 Census - Population by Employment Sector ( Neighbourhood/Ward)
+wholesale and retail trade,number,Number of Persons for particular Employment Sector,population,population,7ds8-hpvz,2016 Census - Population by Employment Sector ( Neighbourhood/Ward)
+other,number,Number of Persons for particular Employment Sector,population,population,7ds8-hpvz,2016 Census - Population by Employment Sector ( Neighbourhood/Ward)
+no response,number,Number of individuals that did not provide a response to this question,population,population,7ds8-hpvz,2016 Census - Population by Employment Sector ( Neighbourhood/Ward)
+responsedate,calendar_date,,date,time,5iq2-kd7q,Parking - Edmonton Insight Community
+completiondate,calendar_date,,date,time,5iq2-kd7q,Parking - Edmonton Insight Community
+ostype,text,,,,5iq2-kd7q,Parking - Edmonton Insight Community
+devicetype,text,,,,5iq2-kd7q,Parking - Edmonton Insight Community
+browsertype,text,,,,5iq2-kd7q,Parking - Edmonton Insight Community
+trap date,calendar_date,Date when the mosquito traps are collected. An empty mosquito traps are replaced for the next collection at the same time.,date,time,5zeu-wkpv,Mosquitoes Trap Data
+genus,text,Low-level taxonomic ranking for biological classification,,,5zeu-wkpv,Mosquitoes Trap Data
+species,text,Lowest taxonomic rank and having common characteristics and (usually) capable of mating with one another. ,,,5zeu-wkpv,Mosquitoes Trap Data
+type,text,Essential characteristics of the genus,,,5zeu-wkpv,Mosquitoes Trap Data
+gender,text,Female or male,gender,sex,5zeu-wkpv,Mosquitoes Trap Data
+rural north west,number,Rural northwest part of Edmonton,,,5zeu-wkpv,Mosquitoes Trap Data
+rural north east,number,Rural northeast part of Edmonton,,,5zeu-wkpv,Mosquitoes Trap Data
+rural south east,number,Rural southeast  part of Edmonton,,,5zeu-wkpv,Mosquitoes Trap Data
+river valley east,number,Eastern part of River Valley in Edmonton,,,5zeu-wkpv,Mosquitoes Trap Data
+river valley west,number,Western part of the River Valley in Edmonton,,,5zeu-wkpv,Mosquitoes Trap Data
+residential north,number,Northern residential part of Edmonton,,,5zeu-wkpv,Mosquitoes Trap Data
+rural south west,number,Rural southwest part of Edmonton,,,5zeu-wkpv,Mosquitoes Trap Data
+lagoon,number,Water-area location,,,5zeu-wkpv,Mosquitoes Trap Data
+golf course,number,Mill Woods Golf Course,,,5zeu-wkpv,Mosquitoes Trap Data
+industrial park,number,,,,5zeu-wkpv,Mosquitoes Trap Data
+residential south,number,Southern residential part of Edmonton,,,5zeu-wkpv,Mosquitoes Trap Data
+total,number,Total number of mosquitoes trapped from all locations,,,5zeu-wkpv,Mosquitoes Trap Data
+citizenship,text,Type of Citizenship,,,y8it-9743,2016 Census - Population by Citizenship (Citywide)
+population,number,Total Number of Individuals,population,population,y8it-9743,2016 Census - Population by Citizenship (Citywide)
+dwelling unit ownership,text,Ownership Type,,,dmit-4n8t,2016 Census - Dwelling Unit by Ownership (Citywide)
+dwellings,number,Number of Dwelling Units,,,dmit-4n8t,2016 Census - Dwelling Unit by Ownership (Citywide)
+mode of transportation,text,Transportation Type,,,27yp-fugi,2016 Census - Population by Mode of Transportation (Citywide)
+population,number,Number of individuals,population,population,27yp-fugi,2016 Census - Population by Mode of Transportation (Citywide)
+device op status code,number,The operational status code for the device.  1 = Out of Service 0 = In Service,,,snws-u3zx,LRT Elevator/Escalator Outages
+device op status,text,The operational status of the device,,,snws-u3zx,LRT Elevator/Escalator Outages
+device type,text,The type of device (escalator or elevator),,,snws-u3zx,LRT Elevator/Escalator Outages
+device id,number,The unique ID assigned to the device,,,snws-u3zx,LRT Elevator/Escalator Outages
+lrt station id,text,Three letter abbreviation/code assigned to the LRT station,,,snws-u3zx,LRT Elevator/Escalator Outages
+lrt station name,text,Name of the LRT station,,,snws-u3zx,LRT Elevator/Escalator Outages
+lrt route,text,The LRT line/route that the device can be found on,,,snws-u3zx,LRT Elevator/Escalator Outages
+lrt stop,text,The LRT stop that the device can be found at,,,snws-u3zx,LRT Elevator/Escalator Outages
+lrt device location,text,A brief description of where the device can be located at the LRT Stop and LRT Route,,,snws-u3zx,LRT Elevator/Escalator Outages
+since time stamp,calendar_date,The date and time of when the Device went Out of Service,date,time,snws-u3zx,LRT Elevator/Escalator Outages
+polled time stamp,calendar_date,The date and time that the Op Status for the Device was last updated.,date,time,snws-u3zx,LRT Elevator/Escalator Outages
+responsedate,calendar_date,,date,time,ebg5-nbub,Imagine Jasper Avenue - Edmonton Insight Community
+completiondate,calendar_date,,date,time,ebg5-nbub,Imagine Jasper Avenue - Edmonton Insight Community
+imaginejasperave usertypes other,number,,,,ebg5-nbub,Imagine Jasper Avenue - Edmonton Insight Community
+imaginejasper yesno,text,,,,ebg5-nbub,Imagine Jasper Avenue - Edmonton Insight Community
+ostype,text,,,,ebg5-nbub,Imagine Jasper Avenue - Edmonton Insight Community
+devicetype,text,,,,ebg5-nbub,Imagine Jasper Avenue - Edmonton Insight Community
+browsertype,text,,,,ebg5-nbub,Imagine Jasper Avenue - Edmonton Insight Community
+meeting id,number,Foreign Key Identifier - see Meeting Details dataset for the type and date of the meeting,,,smk2-dtnx,2013-2017 Council And Committee Meetings - Motions
+item id,number,Foreign Key Identifier - see Agenda Items dataset for the related agenda item,,,smk2-dtnx,2013-2017 Council And Committee Meetings - Motions
+motion id,text,Primary Key / Unique Motion Identifier. It's Hex-based ID.,,,smk2-dtnx,2013-2017 Council And Committee Meetings - Motions
+motion mover,text,Name of the committee member who introduced the motion,,,smk2-dtnx,2013-2017 Council And Committee Meetings - Motions
+motion seconder,text,A Seconder is only required for motions made at Council meetings (it is not required for Committee meetings).,,,smk2-dtnx,2013-2017 Council And Committee Meetings - Motions
+motion description,text,Text of the motion or inquiry as introduced to the committee,,,smk2-dtnx,2013-2017 Council And Committee Meetings - Motions
+motion status,text,Indicates whether the motion was 'Carried' or 'Failed'.  A status of 'None' or 'No Vote' indicates that no vote was taken on the motion or inquiry.,,,smk2-dtnx,2013-2017 Council And Committee Meetings - Motions
+facility type,text,Type of Drainage Facility - default is Pump Station,,,ryeb-sgt7,Drainage - Pump Stations
+name,text,Name of Pumping Station,,,ryeb-sgt7,Drainage - Pump Stations
+type,text,"Type of Pump Station - storm, sanitary, combined",,,ryeb-sgt7,Drainage - Pump Stations
+year constructed,number,Year in which the Pump Station was built,year,time,ryeb-sgt7,Drainage - Pump Stations
+neighbourhood id,text,Unique Neighbourhood Identification Number,neighbourbood_id,area,ryeb-sgt7,Drainage - Pump Stations
+neighbourhood name,text,Name of Neighbourhood Pump Station is located,neighbourbood_name,area,ryeb-sgt7,Drainage - Pump Stations
+ward,text,Name of Ward where a Pump Station is located,ward_name,area,ryeb-sgt7,Drainage - Pump Stations
+street / avenue,text,Name of Street / Avenue where Pump Station is located ,address,location,ryeb-sgt7,Drainage - Pump Stations
+latitude,number,Latitude coordinates for a Pump Station,latitude,location,ryeb-sgt7,Drainage - Pump Stations
+longitude,number,Longitude coordinates for a Pump Station,longitude,location,ryeb-sgt7,Drainage - Pump Stations
+location,location,"List of coordinates for a Pump Station Format (latitude, longitude)",location,location,ryeb-sgt7,Drainage - Pump Stations
+ward,text,City Ward Number,ward_name,area,aaar-q4e3,2014 Census - Population By Employment Status (Neighbourhood)
+neighbourhood number,number,Unique Neighbourhood Identifier,neighbourbood_id,area,aaar-q4e3,2014 Census - Population By Employment Status (Neighbourhood)
+neighbourhood name,text,Neighbourhood name,neighbourbood_name,area,aaar-q4e3,2014 Census - Population By Employment Status (Neighbourhood)
+preschool,number,Number of Individuals identified with this Employment Status,population,population,aaar-q4e3,2014 Census - Population By Employment Status (Neighbourhood)
+post secondary student,number,Number of Individuals identified with this Employment Status,population,population,aaar-q4e3,2014 Census - Population By Employment Status (Neighbourhood)
+homemaker,number,Number of Individuals identified with this Employment Status,population,population,aaar-q4e3,2014 Census - Population By Employment Status (Neighbourhood)
+unemployed,number,Number of Individuals identified with this Employment Status,population,population,aaar-q4e3,2014 Census - Population By Employment Status (Neighbourhood)
+retired,number,Number of Individuals identified with this Employment Status,population,population,aaar-q4e3,2014 Census - Population By Employment Status (Neighbourhood)
+permanently unable to work,number,Number of Individuals identified with this Employment Status,population,population,aaar-q4e3,2014 Census - Population By Employment Status (Neighbourhood)
+no response,number,Number of Individuals that did not provide a Response,population,population,aaar-q4e3,2014 Census - Population By Employment Status (Neighbourhood)
+name,text,Name of swimming complex,,,bc4e-qgzb,Indoor Swimming Pools
+owner,text,"Name of Organization responsible for the pool. Usually, this is the City Department, Community Services",,,bc4e-qgzb,Indoor Swimming Pools
+latitude,number,Latitude coordinate of swimming pool,latitude,location,bc4e-qgzb,Indoor Swimming Pools
+longitude,number,Longitude coordinate of swimming pool,longitude,location,bc4e-qgzb,Indoor Swimming Pools
+location,location,Geographic coordinates for swimming pool,location,location,bc4e-qgzb,Indoor Swimming Pools
+responsedate,calendar_date,,date,time,k8gt-z8tr,Fire Rescue Public Education - Edmonton Insight Community
+completiondate,calendar_date,,date,time,k8gt-z8tr,Fire Rescue Public Education - Edmonton Insight Community
+ostype,text,,,,k8gt-z8tr,Fire Rescue Public Education - Edmonton Insight Community
+devicetype,text,,,,k8gt-z8tr,Fire Rescue Public Education - Edmonton Insight Community
+browsertype,text,,,,k8gt-z8tr,Fire Rescue Public Education - Edmonton Insight Community
+expenditure,text,,,,4e5k-hg84,Mayor's Meeting Expenses (2014 - 2016)
+date,text,,date,time,4e5k-hg84,Mayor's Meeting Expenses (2014 - 2016)
+description,text,,,,4e5k-hg84,Mayor's Meeting Expenses (2014 - 2016)
+amount,money,,,,4e5k-hg84,Mayor's Meeting Expenses (2014 - 2016)
+year,number,,year,time,4e5k-hg84,Mayor's Meeting Expenses (2014 - 2016)
+id number,number,Internal  Number,,,k4mi-dkvi,River Valley - Trail Cautions and Closures
+date entered,calendar_date,Date when Caution or closure is identified,date,time,k4mi-dkvi,River Valley - Trail Cautions and Closures
+date updated,calendar_date,Date when last change is made,date,time,k4mi-dkvi,River Valley - Trail Cautions and Closures
+start date,text,Reported start date of caution or closure,date,time,k4mi-dkvi,River Valley - Trail Cautions and Closures
+end date,text,Reported finish date of caution or closure.,date,time,k4mi-dkvi,River Valley - Trail Cautions and Closures
+duration,text,Length of caution or closure,,,k4mi-dkvi,River Valley - Trail Cautions and Closures
+type of closure,text,Closure Type - Permanent or Temporary,,,k4mi-dkvi,River Valley - Trail Cautions and Closures
+activity type,text,Category of disruption.,,,k4mi-dkvi,River Valley - Trail Cautions and Closures
+infrastructure,text,Infrastructure affected by Activity,,,k4mi-dkvi,River Valley - Trail Cautions and Closures
+location name,text,General location where caution or closure is to happen.,,location,k4mi-dkvi,River Valley - Trail Cautions and Closures
+details,text,Specific information about trail cautions or closures.,,,k4mi-dkvi,River Valley - Trail Cautions and Closures
+link,url,Additional information one can get about this caution or closure,url,url,k4mi-dkvi,River Valley - Trail Cautions and Closures
+latitude,number,Latitude Coordinate for caution or closure,latitude,location,k4mi-dkvi,River Valley - Trail Cautions and Closures
+longitude,number,Longitude Coordinate for caution or closure,longitude,location,k4mi-dkvi,River Valley - Trail Cautions and Closures
+location,location,General spatial point where this caution or closure is to occur.,location,location,k4mi-dkvi,River Valley - Trail Cautions and Closures
+ward,text,,ward_name,area,24yu-behb,2012 Census - Population By Mode Of Transportation (Neighbourhood)
+neighbourhood number,number,,neighbourbood_id,area,24yu-behb,2012 Census - Population By Mode Of Transportation (Neighbourhood)
+neighbourhood name,text,,neighbourbood_name,area,24yu-behb,2012 Census - Population By Mode Of Transportation (Neighbourhood)
+car/truck/van (as driver),number,,,,24yu-behb,2012 Census - Population By Mode Of Transportation (Neighbourhood)
+car/truck/van (as passenger),number,,,,24yu-behb,2012 Census - Population By Mode Of Transportation (Neighbourhood)
+transit,number,,,,24yu-behb,2012 Census - Population By Mode Of Transportation (Neighbourhood)
+walk,number,,,,24yu-behb,2012 Census - Population By Mode Of Transportation (Neighbourhood)
+bicycle,number,,,,24yu-behb,2012 Census - Population By Mode Of Transportation (Neighbourhood)
+other,number,,,,24yu-behb,2012 Census - Population By Mode Of Transportation (Neighbourhood)
+no response,number,,,,24yu-behb,2012 Census - Population By Mode Of Transportation (Neighbourhood)
+ward,text,,ward_name,area,7tzq-etnt,2012 Census - Population By Structure Type (Ward)
+structure type,text,,,,7tzq-etnt,2012 Census - Population By Structure Type (Ward)
+number of residents,number,,,,7tzq-etnt,2012 Census - Population By Structure Type (Ward)
+responsedate,calendar_date,,date,time,augn-hcya,Downtown Pedways - Edmonton Insight Community
+completiondate,calendar_date,,date,time,augn-hcya,Downtown Pedways - Edmonton Insight Community
+ostype,text,,,,augn-hcya,Downtown Pedways - Edmonton Insight Community
+devicetype,text,,,,augn-hcya,Downtown Pedways - Edmonton Insight Community
+browsertype,text,,,,augn-hcya,Downtown Pedways - Edmonton Insight Community
+length of residence,text,,,,d8qh-bhiz,2012 Census - Population By Ownership And Length Of Residence (Citywide)
+owned,number,,,,d8qh-bhiz,2012 Census - Population By Ownership And Length Of Residence (Citywide)
+rented,number,,,,d8qh-bhiz,2012 Census - Population By Ownership And Length Of Residence (Citywide)
+no response,number,,,,d8qh-bhiz,2012 Census - Population By Ownership And Length Of Residence (Citywide)
+responsedate,calendar_date,,date,time,nyfn-ekkx,Buddy Benches - Edmonton Insight Community
+completiondate,calendar_date,,date,time,nyfn-ekkx,Buddy Benches - Edmonton Insight Community
+ostype,text,,,,nyfn-ekkx,Buddy Benches - Edmonton Insight Community
+devicetype,text,,,,nyfn-ekkx,Buddy Benches - Edmonton Insight Community
+browsertype,text,,,,nyfn-ekkx,Buddy Benches - Edmonton Insight Community
+ward,text,"Ward Reports are based on the 6-Ward system, which existed in the City of Edmonton until October, 2010.",ward_name,area,tizy-3vkk,2009 Census - Dwelling Unit By Structure Type And Occupancy (Ward)
+structure type,text,Type of building structure of each household unit.,,,tizy-3vkk,2009 Census - Dwelling Unit By Structure Type And Occupancy (Ward)
+occupied,number,"Number of household units that were occupied on April 1, 2009.",,,tizy-3vkk,2009 Census - Dwelling Unit By Structure Type And Occupancy (Ward)
+unoccupied,number,"Number of household units that were not occupied on April 1, 2009 (vacant, under construction, no longer in use).",,,tizy-3vkk,2009 Census - Dwelling Unit By Structure Type And Occupancy (Ward)
+no response,number,Number of household units where the Occupancy information was not available.,,,tizy-3vkk,2009 Census - Dwelling Unit By Structure Type And Occupancy (Ward)
+name,text,Name/location of project that has LID features,,location,3xir-jjpa,Low Impact Development Inventory
+lid feature(s),text,Low Impact Development (LID) Best Management Practices (BMP) - a total of 7 BMPs,,,3xir-jjpa,Low Impact Development Inventory
+description,text,"Status of project (constructed, started, and on-going)",,,3xir-jjpa,Low Impact Development Inventory
+website url,url,URL of website housing pictures of the LID Feature.,url,url,3xir-jjpa,Low Impact Development Inventory
+responsedate,calendar_date,,date,time,rzdi-zv3f,Insight Community Experience - Edmonton Insight Community
+completiondate,calendar_date,,date,time,rzdi-zv3f,Insight Community Experience - Edmonton Insight Community
+ostype,text,,,,rzdi-zv3f,Insight Community Experience - Edmonton Insight Community
+devicetype,text,,,,rzdi-zv3f,Insight Community Experience - Edmonton Insight Community
+browsertype,text,,,,rzdi-zv3f,Insight Community Experience - Edmonton Insight Community
+ward,text,,ward_name,area,nzvx-6q5z,2012 Census - Dwelling Units By Structure Type And Length Of Residence (Neighbourhood)
+neighbourhood number,number,,neighbourbood_id,area,nzvx-6q5z,2012 Census - Dwelling Units By Structure Type And Length Of Residence (Neighbourhood)
+neighbourhood name,text,,neighbourbood_name,area,nzvx-6q5z,2012 Census - Dwelling Units By Structure Type And Length Of Residence (Neighbourhood)
+length of residence,text,,,,nzvx-6q5z,2012 Census - Dwelling Units By Structure Type And Length Of Residence (Neighbourhood)
+single detached home,number,,,,nzvx-6q5z,2012 Census - Dwelling Units By Structure Type And Length Of Residence (Neighbourhood)
+duplex/fourplex,number,,,,nzvx-6q5z,2012 Census - Dwelling Units By Structure Type And Length Of Residence (Neighbourhood)
+row house,number,,,,nzvx-6q5z,2012 Census - Dwelling Units By Structure Type And Length Of Residence (Neighbourhood)
+manufactured/mobile home,number,,,,nzvx-6q5z,2012 Census - Dwelling Units By Structure Type And Length Of Residence (Neighbourhood)
+institution/collective residence,number,,,,nzvx-6q5z,2012 Census - Dwelling Units By Structure Type And Length Of Residence (Neighbourhood)
+hotel/motel,number,,,,nzvx-6q5z,2012 Census - Dwelling Units By Structure Type And Length Of Residence (Neighbourhood)
+rv/tent/other,number,,,,nzvx-6q5z,2012 Census - Dwelling Units By Structure Type And Length Of Residence (Neighbourhood)
+no response,number,,,,nzvx-6q5z,2012 Census - Dwelling Units By Structure Type And Length Of Residence (Neighbourhood)
+response date,calendar_date,Date/Time the respondent first opened/started the survey.,date,time,gywn-ipg9,Canada 150 - Edmonton Insight Community
+completion date,calendar_date,Date/Time the respondent finished the survey.,date,time,gywn-ipg9,Canada 150 - Edmonton Insight Community
+ostype,text,"System Captured, OS used by the respondent. Question: OS Type? - OSType Possible Answers: Mac (OS X)/Linux/Windows/iOS/Android/BlackBerry/Unknown",,,gywn-ipg9,Canada 150 - Edmonton Insight Community
+devicetype,text,"System Captured, Device used by the respondent. Question: Device Type? - DeviceType Possible Answers: Tablet/Desktop/Phone",,,gywn-ipg9,Canada 150 - Edmonton Insight Community
+browsertype,text,"System Captured, Browser used by the respondent. Question: Browser Type? - BrowserType Possible Answers: Internet Explorer/Firefox/Safari/Google Chrome/Opera/Android/BlackBerry/Unknown",,,gywn-ipg9,Canada 150 - Edmonton Insight Community
+responsedate,calendar_date,,date,time,veph-fadt,Secondary Suites - Edmonton Insight Community
+completiondate,calendar_date,,date,time,veph-fadt,Secondary Suites - Edmonton Insight Community
+ostype,text,,,,veph-fadt,Secondary Suites - Edmonton Insight Community
+devicetype,text,,,,veph-fadt,Secondary Suites - Edmonton Insight Community
+browsertype,text,,,,veph-fadt,Secondary Suites - Edmonton Insight Community
+ward,text,City Ward Number,ward_name,area,y2a7-7aha,2016 Census - Dwelling Unit Status (Neighbourhood/Ward)
+neighbourhood number,number,Unique Neighbourhood Identifier,neighbourbood_id,area,y2a7-7aha,2016 Census - Dwelling Unit Status (Neighbourhood/Ward)
+neighbourhood name,text,Neighbourhood Name,neighbourbood_name,area,y2a7-7aha,2016 Census - Dwelling Unit Status (Neighbourhood/Ward)
+occupied,number,Number of Dwelling Units Occupied,,,y2a7-7aha,2016 Census - Dwelling Unit Status (Neighbourhood/Ward)
+unoccupied,number,Number of Dwelling Units Unoccupied,,,y2a7-7aha,2016 Census - Dwelling Unit Status (Neighbourhood/Ward)
+no longer in use,number,Number of Dwelling Units No Longer In Use,,,y2a7-7aha,2016 Census - Dwelling Unit Status (Neighbourhood/Ward)
+no response,number,Number of Dwelling Units that provided No Response,,,y2a7-7aha,2016 Census - Dwelling Unit Status (Neighbourhood/Ward)
+name,text,Name of Building,,,prfy-5m97,Historical Buildings
+address,text,Street address where building or structure is located,address,location,prfy-5m97,Historical Buildings
+neighbourhood,text,Name of neighbourhood building or structure is located,neighbourbood_name,area,prfy-5m97,Historical Buildings
+url,url,Web-site location for additional information,url,url,prfy-5m97,Historical Buildings
+construction date,text,Approximate date when building or structure was built,date,time,prfy-5m97,Historical Buildings
+latitude,number,Latitude coordinate for building or structure,latitude,location,prfy-5m97,Historical Buildings
+longitude,number,Longitude coordinate for building or structure,longitude,location,prfy-5m97,Historical Buildings
+location,location,Geographic coordinates for building or structure,location,location,prfy-5m97,Historical Buildings
+code,text,An abbreviated payroll code,,,3t6v-ay56,City of Edmonton - Payroll Codes
+general description,text,Overall description of the payroll code,,,3t6v-ay56,City of Edmonton - Payroll Codes
+effu,text,Does code apply to EFFU Union - Yes or No,,,3t6v-ay56,City of Edmonton - Payroll Codes
+ibew,text,Does code apply to IBEW Union - Yes or No,,,3t6v-ay56,City of Edmonton - Payroll Codes
+management,text,Does code apply to Management Group - Yes or No,,,3t6v-ay56,City of Edmonton - Payroll Codes
+out of scope,text,Does code apply to Out of Scope Group - Yes or No,,,3t6v-ay56,City of Edmonton - Payroll Codes
+responsedate,calendar_date,,date,time,ifn7-uij5,Smart City Focus Groups - Edmonton Insight Community
+completiondate,calendar_date,,date,time,ifn7-uij5,Smart City Focus Groups - Edmonton Insight Community
+ostype,text,,,,ifn7-uij5,Smart City Focus Groups - Edmonton Insight Community
+devicetype,text,,,,ifn7-uij5,Smart City Focus Groups - Edmonton Insight Community
+browsertype,text,,,,ifn7-uij5,Smart City Focus Groups - Edmonton Insight Community
+responsedate,calendar_date,"
+Date/Time the respondent first opened/started the survey.
+",date,time,cjcn-85t7,Measuring Progress Questionnaire - Safety In The City
+completiondate,calendar_date,"
+Date/Time the respondent finished the survey.
+",date,time,cjcn-85t7,Measuring Progress Questionnaire - Safety In The City
+devicetype,text,"
+System Captured, Device used by the respondent. Question: Device Type? - DeviceType || Possible Answers: Tablet/Desktop/Phone
+",,,cjcn-85t7,Measuring Progress Questionnaire - Safety In The City
+browsertype,text,"
+System Captured, Browser used by the respondent. Question: Browser Type? - BrowserType || Possible Answers: Internet Explorer/Firefox/Safari/Google Chrome/Opera/Android/BlackBerry/Unknown
+",,,cjcn-85t7,Measuring Progress Questionnaire - Safety In The City
+number in household,number,"
+Question: How many people are there in your household?
+",,,cjcn-85t7,Measuring Progress Questionnaire - Safety In The City
+children,text,"
+Question: Children in your household? || Possible Answers: Yes|No
+",,,cjcn-85t7,Measuring Progress Questionnaire - Safety In The City
+education,text,"
+Profiling question. Question: What is the highest level of education you have achieved?? || Possible Answers: Less than high school|Graduated high school|Graduated college, technical or vocational school|Graduated university|Prefer not to answer
+",,,cjcn-85t7,Measuring Progress Questionnaire - Safety In The City
+gender,text,"
+Profiling question. Question: Your gender? || Possible Answers: Female|Male|Other|I prefer not to answer
+",gender,sex,cjcn-85t7,Measuring Progress Questionnaire - Safety In The City
+job status,text,"
+Profiling question. Question: Which of the following best describes your employment status, are you currently... || Possible Answers: Working full time|Working part time|A student|Not working outside the home|Retired|Prefer not to answer
+",,,cjcn-85t7,Measuring Progress Questionnaire - Safety In The City
+personal income,text,"
+Profiling question. Question: Which of the following best describes your total personal annual income before taxes? || Possible Answers: Less than $20,000|Between $20,000 and $29,999|Between $30,000 and $49,999|Between $50,000 and $79,999|Between $80,000 and $119,999|$120,000 or more|Prefer not to answer
+",,,cjcn-85t7,Measuring Progress Questionnaire - Safety In The City
+household income,text,"
+Profiling question. Question: Which of the following best describes your total annual household income before taxes? || Possible Answers: Less than $20,000|Between $20,000 and $29,999|Between $30,000 and $49,999|Between $50,000 and $79,999|Between $80,000 and $119,999|$120,000 or more|Prefer not to answer
+",,,cjcn-85t7,Measuring Progress Questionnaire - Safety In The City
+language,text,"
+Profiling question. Question: What is the primary language spoken in your household? || Possible Answers: English|French|Other
+",language,language,cjcn-85t7,Measuring Progress Questionnaire - Safety In The City
+age,text,"
+Profiling question. Question: Your age? || Possible Answers: 15 - 18|18 - 24|25 - 34|35 - 44|45 - 54|55 - 64|65 years and over|Refused
+",age,age,cjcn-85t7,Measuring Progress Questionnaire - Safety In The City
+coe work,text,"
+Profiling question. Question: Do you work for the City of Edmonton? || Possible Answers: Yes|No
+",,,cjcn-85t7,Measuring Progress Questionnaire - Safety In The City
+vote,text,"
+Profiling question. Question: Did you vote in the most recent municipal election for the City of Edmonton? || Possible Answers: Yes|No|I was not eligible
+",,,cjcn-85t7,Measuring Progress Questionnaire - Safety In The City
+own rent,text,"
+Profiling question. Question: Do you currently own or rent your place of residence? || Possible Answers: Own|Rent
+",,,cjcn-85t7,Measuring Progress Questionnaire - Safety In The City
+residence,text,"
+Profiling question. Question: What type of residence do you live in? || Possible Answers: House|Duplex|Four-plex|Apartment|Condo|Townhouse|Other
+",,,cjcn-85t7,Measuring Progress Questionnaire - Safety In The City
+born in canada,text,"
+Profiling question. Question: Were you? || Possible Answers: Born in Canada|Moved to Canada from somewhere else
+",,,cjcn-85t7,Measuring Progress Questionnaire - Safety In The City
+fsa,text,"
+Forward Sortation Area (first 3 characters of postal code)
+",postal_code,area,cjcn-85t7,Measuring Progress Questionnaire - Safety In The City
+qdr,text,"
+Profiling question. Question: City Quadrant? || Possible Answers: NW|NE|SE|SW
+",quadrant,area,cjcn-85t7,Measuring Progress Questionnaire - Safety In The City
+ab school number,number,Unique id number designated by the Alberta Department of Education for a particular school,,,f6w2-hzex,Edmonton Catholic Schools (2016 - 2017)
+school name,text,Name of School,,,f6w2-hzex,Edmonton Catholic Schools (2016 - 2017)
+street,text,Street address for School,address,location,f6w2-hzex,Edmonton Catholic Schools (2016 - 2017)
+postal code,text,Postal Code for School,postal_code,area,f6w2-hzex,Edmonton Catholic Schools (2016 - 2017)
+ward,number,School Ward Number,ward_number,area,f6w2-hzex,Edmonton Catholic Schools (2016 - 2017)
+phone number,number,Phone Number for School,phone,phone,f6w2-hzex,Edmonton Catholic Schools (2016 - 2017)
+fax number,number,Fax number for school,phone,phone,f6w2-hzex,Edmonton Catholic Schools (2016 - 2017)
+email,email,E-mail address for School,email,email,f6w2-hzex,Edmonton Catholic Schools (2016 - 2017)
+website,url,,url,url,f6w2-hzex,Edmonton Catholic Schools (2016 - 2017)
+grade level,text,Grade Level(s) for School,,,f6w2-hzex,Edmonton Catholic Schools (2016 - 2017)
+grades offered,text,Range of Grade years offered by the school,,,f6w2-hzex,Edmonton Catholic Schools (2016 - 2017)
+programs,text,Educational Programs offered at the School,,,f6w2-hzex,Edmonton Catholic Schools (2016 - 2017)
+latitude,number,Latitude coordinates for School,latitude,location,f6w2-hzex,Edmonton Catholic Schools (2016 - 2017)
+longitude,number,Longitude coordinates for School,longitude,location,f6w2-hzex,Edmonton Catholic Schools (2016 - 2017)
+location,location,Geographic coordinates for school,location,location,f6w2-hzex,Edmonton Catholic Schools (2016 - 2017)
+meeting id,number,Foreign Key Identifier - see Meeting Details dataset for the type and date of the meeting,,,vz4x-u2sk,2017-2021 Council And Committee Meetings - Motions
+item id,number,Foreign Key Identifier - see Agenda Items dataset for the related agenda item,,,vz4x-u2sk,2017-2021 Council And Committee Meetings - Motions
+motion id,text,Primary Key / Unique Motion Identifier. It's Hex-based ID.,,,vz4x-u2sk,2017-2021 Council And Committee Meetings - Motions
+motion mover,text,Name of the committee member who introduced the motion,,,vz4x-u2sk,2017-2021 Council And Committee Meetings - Motions
+motion seconder,text,A Seconder is only required for motions made at Council meetings (it is not required for Committee meetings).,,,vz4x-u2sk,2017-2021 Council And Committee Meetings - Motions
+motion description,text,Text of the motion or inquiry as introduced to the committee,,,vz4x-u2sk,2017-2021 Council And Committee Meetings - Motions
+motion status,text,Indicates whether the motion was 'Carried' or 'Failed'.  A status of 'None' or 'No Vote' indicates that no vote was taken on the motion or inquiry.,,,vz4x-u2sk,2017-2021 Council And Committee Meetings - Motions
+citizenship,text,Type of Citizenship,,,7xen-yxhv,2014 Census - Population by Citizenship (Citywide)
+population,number,Total Number of Individuals,population,population,7xen-yxhv,2014 Census - Population by Citizenship (Citywide)
+proclamation date,calendar_date,Date Proclamation made,date,time,avu6-pknu,City Proclamations List
+status,text,Situation of Proclamation - Complete,,,avu6-pknu,City Proclamations List
+proclamation,text,Name of Proclamation,,,avu6-pknu,City Proclamations List
+link,url,Web Link to view to see Proclamation details,url,url,avu6-pknu,City Proclamations List
+responsedate,calendar_date,,date,time,mtj3-59sb,River Crossing Heritage Interpretive Plan - Edmonton Insight Community
+completiondate,calendar_date,,date,time,mtj3-59sb,River Crossing Heritage Interpretive Plan - Edmonton Insight Community
+ostype,text,,,,mtj3-59sb,River Crossing Heritage Interpretive Plan - Edmonton Insight Community
+devicetype,text,,,,mtj3-59sb,River Crossing Heritage Interpretive Plan - Edmonton Insight Community
+browsertype,text,,,,mtj3-59sb,River Crossing Heritage Interpretive Plan - Edmonton Insight Community
+ward,text,City Ward Number,ward_name,area,siae-h3wc,2016 Census - Population by Length of Residence (Neighbourhood/Ward)
+neighbourhood number,number,Unique Neighbourhood Identifier,neighbourbood_id,area,siae-h3wc,2016 Census - Population by Length of Residence (Neighbourhood/Ward)
+neighbourhood name,text,Neighbourhood Name,neighbourbood_name,area,siae-h3wc,2016 Census - Population by Length of Residence (Neighbourhood/Ward)
+5 years or more,number,Number of respondents ,population,population,siae-h3wc,2016 Census - Population by Length of Residence (Neighbourhood/Ward)
+no response,number,Number of respondents that provided No Response,population,population,siae-h3wc,2016 Census - Population by Length of Residence (Neighbourhood/Ward)
+pay machine id,text,Internal ID Number assigned to the Pay Machine,,,6iyz-9q3c,EPark Pay Machine Locations
+latitude,number,Latitude portion of the Pay Machine Location,latitude,location,6iyz-9q3c,EPark Pay Machine Locations
+longitude,number,Longitude portion of the Pay Machine Location,longitude,location,6iyz-9q3c,EPark Pay Machine Locations
+google coordinates,text,The Google geo coordinates (since the source is a Google Map),,location,6iyz-9q3c,EPark Pay Machine Locations
+pay machine location,location,The combination of the Latitude and Longitude used for mapping purposes.,location,location,6iyz-9q3c,EPark Pay Machine Locations
+location name,text,Name of the place where the WiFi antenna is located.,,location,vbxz-36ag,Open City Wi-Fi Locations
+address,text,Physical Street address where the WiFi antenna is located.,address,location,vbxz-36ag,Open City Wi-Fi Locations
+facility type,text,Type of location where WiFi antenna is found.,,,vbxz-36ag,Open City Wi-Fi Locations
+status,text,Implementation status of the WiFi antenna at a given location.,,,vbxz-36ag,Open City Wi-Fi Locations
+wifiprovider,text,Name of an organization providing the WiFi service to the public.,,,vbxz-36ag,Open City Wi-Fi Locations
+latitude,number,Horizontal Geographic coordinate of Location,latitude,location,vbxz-36ag,Open City Wi-Fi Locations
+longitude,number,Vertical Geographic coordinate of Location,longitude,location,vbxz-36ag,Open City Wi-Fi Locations
+location,location,Spatial coordinates of Location,location,location,vbxz-36ag,Open City Wi-Fi Locations
+station name,text,,,,b4y7-zhnz,Fire Stations
+address,text,,address,location,b4y7-zhnz,Fire Stations
+district,text,,district,area,b4y7-zhnz,Fire Stations
+fire rescue ems combined,text,,,,b4y7-zhnz,Fire Stations
+latitude,number,,latitude,location,b4y7-zhnz,Fire Stations
+longitude,number,,longitude,location,b4y7-zhnz,Fire Stations
+location,location,,location,location,b4y7-zhnz,Fire Stations
+collision location name,text,Intersection name where the collisions occurred,,location,rpc2-fbcm,Top Ten Collision Locations (2016)
+number of collisions,number,Number of Collisions,,,rpc2-fbcm,Top Ten Collision Locations (2016)
+location,location,Latitude and longitude of the location,location,location,rpc2-fbcm,Top Ten Collision Locations (2016)
+maintenance area,number,Unique identifier for a particular Maintenance Area,,area,h9sn-ds8j,Residential Street Cleaning Schedule
+neighbourhood name,text,Name of Neighbourhood where street cleaning activity is going to occur,neighbourbood_name,area,h9sn-ds8j,Residential Street Cleaning Schedule
+the week of:,calendar_date,The week when street cleaning activity is scheduled in the Neighbourhood,date,time,h9sn-ds8j,Residential Street Cleaning Schedule
+earliest scheduled start date,calendar_date,,date,time,h9sn-ds8j,Residential Street Cleaning Schedule
+latest scheduled start date,calendar_date,,date,time,h9sn-ds8j,Residential Street Cleaning Schedule
+planned start date,text,,date,time,h9sn-ds8j,Residential Street Cleaning Schedule
+status,text,Status for street cleaning activity in Neighbourhood. Note: TBD means To Be Determined,,,h9sn-ds8j,Residential Street Cleaning Schedule
+location,location,"(latitude, longitude)",location,location,h9sn-ds8j,Residential Street Cleaning Schedule
+data update,calendar_date,Details of when the dataset was updated,date,time,h9sn-ds8j,Residential Street Cleaning Schedule
+responsedate,calendar_date,,date,time,25yk-jmjh,Public Engagement - Edmonton Insight Community
+completiondate,calendar_date,,date,time,25yk-jmjh,Public Engagement - Edmonton Insight Community
+ostype,text,,,,25yk-jmjh,Public Engagement - Edmonton Insight Community
+devicetype,text,,,,25yk-jmjh,Public Engagement - Edmonton Insight Community
+browsertype,text,,,,25yk-jmjh,Public Engagement - Edmonton Insight Community
+councillor,text,,,,igga-nzee,Councillors' Common Travel And Training (2014 - 2016)
+date,text,,date,time,igga-nzee,Councillors' Common Travel And Training (2014 - 2016)
+location,text,,location,location,igga-nzee,Councillors' Common Travel And Training (2014 - 2016)
+purpose,text,,,,igga-nzee,Councillors' Common Travel And Training (2014 - 2016)
+cost,money,,,,igga-nzee,Councillors' Common Travel And Training (2014 - 2016)
+year,number,,year,time,igga-nzee,Councillors' Common Travel And Training (2014 - 2016)
+ward,text,City Ward Number,ward_name,area,etyh-hnr8,2014 Census - Dwelling Unit By Language (Neighbourhood)
+neighbourhood number,number,Unique Neighbourhood Identifier,neighbourbood_id,area,etyh-hnr8,2014 Census - Dwelling Unit By Language (Neighbourhood)
+neighbourhood name,text,Neighbourhood Name,neighbourbood_name,area,etyh-hnr8,2014 Census - Dwelling Unit By Language (Neighbourhood)
+english only,number,Number of Households ,population,population,etyh-hnr8,2014 Census - Dwelling Unit By Language (Neighbourhood)
+arabic,number,Number of Households ,population,population,etyh-hnr8,2014 Census - Dwelling Unit By Language (Neighbourhood)
+cantonese,number,Number of Households ,population,population,etyh-hnr8,2014 Census - Dwelling Unit By Language (Neighbourhood)
+french,number,Number of Households ,population,population,etyh-hnr8,2014 Census - Dwelling Unit By Language (Neighbourhood)
+german,number,,population,population,etyh-hnr8,2014 Census - Dwelling Unit By Language (Neighbourhood)
+mandarin,number,Number of Households ,population,population,etyh-hnr8,2014 Census - Dwelling Unit By Language (Neighbourhood)
+panjabi (punjabi),number,Number of Households ,population,population,etyh-hnr8,2014 Census - Dwelling Unit By Language (Neighbourhood)
+spanish,number,Number of Households ,population,population,etyh-hnr8,2014 Census - Dwelling Unit By Language (Neighbourhood)
+tagalog (pilipino filipino),number,Number of Households ,population,population,etyh-hnr8,2014 Census - Dwelling Unit By Language (Neighbourhood)
+ukrainian,number,Number of Households ,population,population,etyh-hnr8,2014 Census - Dwelling Unit By Language (Neighbourhood)
+other,number,Number of Households ,population,population,etyh-hnr8,2014 Census - Dwelling Unit By Language (Neighbourhood)
+no response,number,Number of Households ,population,population,etyh-hnr8,2014 Census - Dwelling Unit By Language (Neighbourhood)
+named place,text,Place name used at a specific location within Edmonton.,,location,59sa-iw7i,Indigenous Place Names of Edmonton
+location description,text,A geographic description of the place name location.,,,59sa-iw7i,Indigenous Place Names of Edmonton
+location type,text,"The type of place feature (for instance road, neighbourhood) named.",,,59sa-iw7i,Indigenous Place Names of Edmonton
+year,number,The year that the place feature was named.,year,time,59sa-iw7i,Indigenous Place Names of Edmonton
+name origin,text,The origin and description of the place name.,,,59sa-iw7i,Indigenous Place Names of Edmonton
+latitude,number,The latitude of named place location.,latitude,location,59sa-iw7i,Indigenous Place Names of Edmonton
+longitude,number,The longitude of named place location,longitude,location,59sa-iw7i,Indigenous Place Names of Edmonton
+location,location,,location,location,59sa-iw7i,Indigenous Place Names of Edmonton
+year,number,Calendar Year,year,time,25sf-z8zd,Residential Building Permits 2009-2014
+neighbourhood,text,City of Edmonton Neighbourhood,neighbourbood_name,area,25sf-z8zd,Residential Building Permits 2009-2014
+city sector,text,General Geographic Area of City,,area,25sf-z8zd,Residential Building Permits 2009-2014
+typology,text,"General Neighbourhood classification based on the the Way We Grow, geographic location and age",,,25sf-z8zd,Residential Building Permits 2009-2014
+neighbourhood number,number,Unique Neighbourhood Identifier,neighbourbood_id,area,25sf-z8zd,Residential Building Permits 2009-2014
+ward,number,City Ward,ward_number,area,25sf-z8zd,Residential Building Permits 2009-2014
+traffic district,number,Unique Transportation Management Area as identified by Transportation Services,,area,25sf-z8zd,Residential Building Permits 2009-2014
+total construction value ($),money,Total Declared Construction Values Summed-up from Building Permits,,,25sf-z8zd,Residential Building Permits 2009-2014
+number of permits,number,All building permits issued in the neighbourhood,,,25sf-z8zd,Residential Building Permits 2009-2014
+number of additions,number,Additions to Primary Residence (does not include additions to accessory buildings),,,25sf-z8zd,Residential Building Permits 2009-2014
+interior/exterior alterations,number,"Changes to the inside or outside of an existing building. Includes foundation repairs to low-density residential buildings. Also, includes decks.",,,25sf-z8zd,Residential Building Permits 2009-2014
+accessory buildings,number,Construction or alteration of buildings that are accessory to the primary building (ex. garage),,,25sf-z8zd,Residential Building Permits 2009-2014
+hot tubs/ pools,number,"New hot tubs or pools. Also, includes man-made ponds",,,25sf-z8zd,Residential Building Permits 2009-2014
+foundation/ structure,number,Foundation construction for apartment buildings and other multi-family projects,,,25sf-z8zd,Residential Building Permits 2009-2014
+accessory buildings demolished,number,Demolition of accessory buildings (ex. garage). A demolition permit may not be issued building will be replaced.,,,25sf-z8zd,Residential Building Permits 2009-2014
+multi-family suites,number,Additional suite creation within an existing multi-family building. This does not include secondary suites.,,,25sf-z8zd,Residential Building Permits 2009-2014
+secondary suites,number,Additional suite creation within an existing single-family building. ,,,25sf-z8zd,Residential Building Permits 2009-2014
+garden suites,number,Free standing residential suite constructed as an accessory building.,,,25sf-z8zd,Residential Building Permits 2009-2014
+garage suites,number,Free standing residential suite constructed as an accessory building that also includes garage parking.,,,25sf-z8zd,Residential Building Permits 2009-2014
+new build secondary suites,number,Additional suite creation occurs as part of a new single-family building construction.,,,25sf-z8zd,Residential Building Permits 2009-2014
+single-detached,number,Single-detached house. Does not include secondary suites.,,,25sf-z8zd,Residential Building Permits 2009-2014
+duplex units,number,"A building containing only two Dwellings, with one Dwelling placed over the other. Each unit is counted individually.",,,25sf-z8zd,Residential Building Permits 2009-2014
+semi-detached units,number,"A building containing only two Dwellings, with each Dwelling placed side by side. Each unit is counted individually.",,,25sf-z8zd,Residential Building Permits 2009-2014
+row housing units,number,A building containing a row of three or more Dwellings joined in whole or in part at the side. Also includes stacked row housing. Each unit is counted individually.,,,25sf-z8zd,Residential Building Permits 2009-2014
+apartment units,number,"Multiple dwellings  contained within a building in which the Dwellings are arranged in any horizontal or vertical configuration, Each unit is counted individually.",,,25sf-z8zd,Residential Building Permits 2009-2014
+mobile home units,number,"Transportable Single Detached Housing which is suitable for permanent occupancy, designed to be transported on its own wheels.",,,25sf-z8zd,Residential Building Permits 2009-2014
+mobile units demolished,number,Mobile homes are demolished or removed from a site.,,,25sf-z8zd,Residential Building Permits 2009-2014
+secondary suites demolished,number,"Secondary Suites removed from primary residence. Note - not all removals require a permit. Therefore, some may not be tracked.",,,25sf-z8zd,Residential Building Permits 2009-2014
+single units demolished,number,Single dwelling homes are demolished.,,,25sf-z8zd,Residential Building Permits 2009-2014
+multi-family units demolished,number,"Multi dwelling homes are demolished. This includes duplexes, semi-detached homes, row housing and apartment buildings.",,,25sf-z8zd,Residential Building Permits 2009-2014
+net units,number,All new dwelling units minus all demolished dwelling units. This includes suites.,,,25sf-z8zd,Residential Building Permits 2009-2014
+meeting id,number,Primary Key / Unique meeting identifier,,,kzgq-nq8v,2017-2021 Council And Committee Meetings - Attendance
+item id,number,Foreign Key Identifier - see Agenda Items dataset for the related agenda item,,,kzgq-nq8v,2017-2021 Council And Committee Meetings - Attendance
+attendee,text,Name of Council or Committee member,,,kzgq-nq8v,2017-2021 Council And Committee Meetings - Attendance
+status,text,Indicators if Council or Committee member was present during any part of the meeting,,,kzgq-nq8v,2017-2021 Council And Committee Meetings - Attendance
+reference number,text,The unique identifier (number)  for the service request.,,,ukww-xkmj,311 Explorer
+date created,calendar_date,The date the service request was submitted.,date,time,ukww-xkmj,311 Explorer
+date closed,calendar_date,The date the service request was acted upon. The appropriate City department has investigated the concern and identified steps to resolve your request. Action for resolving the issue may be deferred as work may be dependent on priority and weather conditions or your issue has been closed due to lack of information including contact details. (311 Explorer version),date,time,ukww-xkmj,311 Explorer
+request status,text,"Status of the request. It can be either Open or Closed. Open means the service request has been received and assigned to the appropriate City area for review and action. Response times can be dependent on several factors including weather conditions, availability of resources and assessed priority of the work required. Closed means the appropriate City area has investigated your concern and has taken the necessary action to resolve your request. Please call 311 if further information is required.  (311 Open Data Activity Detail version).
+",,,ukww-xkmj,311 Explorer
+status detail,text, Certain request types may include additional details describing the progress or action associated with the request.,,,ukww-xkmj,311 Explorer
+service category,text,The type of activity or service request.,,,ukww-xkmj,311 Explorer
+service code,text,Provides a general description of the service request.,,,ukww-xkmj,311 Explorer
+business unit,text,The business area that is responsible for the service (311 Explorer version).,,,ukww-xkmj,311 Explorer
+neighbourhood,text,The City neighbourhood where the service request is located.,neighbourbood_name,area,ukww-xkmj,311 Explorer
+community league,text,The Community League associated with the location of the service. (If applicable),,,ukww-xkmj,311 Explorer
+ward,text,The City Ward associated with the location.,ward_name,area,ukww-xkmj,311 Explorer
+address,text,The location of the service request.,address,location,ukww-xkmj,311 Explorer
+lat,number,Horizontal Geographic Coordinate,latitude,location,ukww-xkmj,311 Explorer
+long,number,Vertical Geographic Coordinate,longitude,location,ukww-xkmj,311 Explorer
+location,location,Spatial coordinates for the location of the issue that has been identified.,location,location,ukww-xkmj,311 Explorer
+ticket source,text,"The channel or method in which the service request was initiated. Examples will include telephone, 311 app or email. ",,,ukww-xkmj,311 Explorer
+calendar year,number,Year when Service Ticket was created.,year,time,ukww-xkmj,311 Explorer
+count,number,Number of service requests - usually 1. To be used for reporting purposes.,,,ukww-xkmj,311 Explorer
+posse number,text,Unique Identifier generated by POSSE,,,ukww-xkmj,311 Explorer
+transit ref number,html,A ticket number from any Transit application,,,ukww-xkmj,311 Explorer
+ivara ticket num,text,,,,ukww-xkmj,311 Explorer
+ward,text,City Ward Number,ward_name,area,aaki-fhf8,2016 Census - Dwelling Unit by Structure Type and Ownership (Ward)
+structure type,text,Residential Structure Type,,,aaki-fhf8,2016 Census - Dwelling Unit by Structure Type and Ownership (Ward)
+owned,number,Number of Dwellings that are Owned,,,aaki-fhf8,2016 Census - Dwelling Unit by Structure Type and Ownership (Ward)
+rented,number,Number of Dwellings that are Rented,,,aaki-fhf8,2016 Census - Dwelling Unit by Structure Type and Ownership (Ward)
+no response,number,Number of Dwellings that did not Respond,,,aaki-fhf8,2016 Census - Dwelling Unit by Structure Type and Ownership (Ward)
+asset,text,"The City of Edmonton classifies all roadwork and improvements as assets.
+",,,zxf6-rv9a,2016 Street Construction Projects
+id,text,Internal Project Identifier,,,zxf6-rv9a,2016 Street Construction Projects
+start year,text,Proposed Implementation Year,year,time,zxf6-rv9a,2016 Street Construction Projects
+approx. start,text,Approximate start date of the project ,date,time,zxf6-rv9a,2016 Street Construction Projects
+approx. finish,text,Approximate end date of the project ,date,time,zxf6-rv9a,2016 Street Construction Projects
+project limits,text,The limits of the project in the area.,,,zxf6-rv9a,2016 Street Construction Projects
+project location,text,Project location and indicator number as found on the printed Construction On Your Streets map and Ward map section.,,location,zxf6-rv9a,2016 Street Construction Projects
+latitude,number,,latitude,location,zxf6-rv9a,2016 Street Construction Projects
+longitude,number,,longitude,location,zxf6-rv9a,2016 Street Construction Projects
+location,location,,location,location,zxf6-rv9a,2016 Street Construction Projects
+profile number,text,Internal Profile Number,,,zxf6-rv9a,2016 Street Construction Projects
+construction type,text,A description of the type of work being performed.,,,zxf6-rv9a,2016 Street Construction Projects
+construction supervisor,text,Contact person for more information.,,,zxf6-rv9a,2016 Street Construction Projects
+phone number,text,Phone number for Construction Supervisor,phone,phone,zxf6-rv9a,2016 Street Construction Projects
+ward,text,City Ward Number,ward_name,area,zxf6-rv9a,2016 Street Construction Projects
+construction by ward,url,This link goes to a page listing all the construction projects scheduled in this Ward.,url,url,zxf6-rv9a,2016 Street Construction Projects
+additional info,url,Additional information relating to this project..,url,url,zxf6-rv9a,2016 Street Construction Projects
+project status,text,Current status for a particular Construction Project,,,zxf6-rv9a,2016 Street Construction Projects
+icon,photo,,,,zxf6-rv9a,2016 Street Construction Projects
+ward,text,City Ward Number,ward_name,area,23zz-47uu,2014 Census - Dwelling Unit Status (Ward)
+dwelling status,text,Dwelling Status Type,,,23zz-47uu,2014 Census - Dwelling Unit Status (Ward)
+dwellings,number,Number of Units,,,23zz-47uu,2014 Census - Dwelling Unit Status (Ward)
+responsedate,calendar_date,,date,time,2wiz-k5z2,Your View of Edmonton - Edmonton Insight Community
+completiondate,calendar_date,,date,time,2wiz-k5z2,Your View of Edmonton - Edmonton Insight Community
+ostype,text,,,,2wiz-k5z2,Your View of Edmonton - Edmonton Insight Community
+devicetype,text,,,,2wiz-k5z2,Your View of Edmonton - Edmonton Insight Community
+browsertype,text,,,,2wiz-k5z2,Your View of Edmonton - Edmonton Insight Community
+facility name,text,Name of Recreational Facility,,,tm8z-k466,Recreational Facilities - Drop In Swim
+facility id,number,Unique Facility Identifier,,,tm8z-k466,Recreational Facilities - Drop In Swim
+booking date,text,Calendar Date for Activity,date,time,tm8z-k466,Recreational Facilities - Drop In Swim
+day,text,Day of the Week for an Activity,day,time,tm8z-k466,Recreational Facilities - Drop In Swim
+activity,text,Swimming Activity or Program to be done,,,tm8z-k466,Recreational Facilities - Drop In Swim
+time,text,Time when Activity happens,time,time,tm8z-k466,Recreational Facilities - Drop In Swim
+number of lanes,number,Number of Lanes available for Activity,,,tm8z-k466,Recreational Facilities - Drop In Swim
+site id,text,"System generated, unique identifier associated with the intersection where enforcement is being conducted.",,,7fnd-72gr,Intersection Safety Device Locations
+approach,text,The road of travel being driven on that approaches the intersection.,,,7fnd-72gr,Intersection Safety Device Locations
+cross street,text,The road being crossed at the intersection.,,,7fnd-72gr,Intersection Safety Device Locations
+travel direction,text,"The direction of travel on the Approach road, which crosses the Cross Street at the intersection.",,,7fnd-72gr,Intersection Safety Device Locations
+posted speed,text,"The speed limit of the Approach road, at the intersection of enforcement (km/h).",,,7fnd-72gr,Intersection Safety Device Locations
+name,text,Name of Facility ,,,7yt8-7467,Recreation Centres
+latitude,number,Latitude coordinate for the facility,latitude,location,7yt8-7467,Recreation Centres
+longitude,number,Longitude coordinate for the facility,longitude,location,7yt8-7467,Recreation Centres
+location,location,,location,location,7yt8-7467,Recreation Centres
+type,text,Type of recreation centre,,,7yt8-7467,Recreation Centres
+name,text,Name of ice arena,,,mnwt-r49h,Arenas
+latitude,number,Latitude coordinate for ice arena,latitude,location,mnwt-r49h,Arenas
+longitude,number,Longitude coordinate for the ice arena,longitude,location,mnwt-r49h,Arenas
+location,location,Geographic coordinates for ice arena,location,location,mnwt-r49h,Arenas
+responsedate,calendar_date,,date,time,wphc-nrc2,Transportation Safety - Edmonton Insight Community
+completiondate,calendar_date,,date,time,wphc-nrc2,Transportation Safety - Edmonton Insight Community
+ostype,text,,,,wphc-nrc2,Transportation Safety - Edmonton Insight Community
+devicetype,text,,,,wphc-nrc2,Transportation Safety - Edmonton Insight Community
+browsertype,text,,,,wphc-nrc2,Transportation Safety - Edmonton Insight Community
+city resource access,text,Method used to Access City Resources,,,u584-yp2u,2016 Census - Dwelling Unit by City Resource Access (Citywide)
+dwellings,number,Number of Units,,,u584-yp2u,2016 Census - Dwelling Unit by City Resource Access (Citywide)
+structure type,text,Residential Structure Type,,,9k3k-n9pz,2016 Census - Population by Structure Type and Length of Residence (Citywide)
+5 years or more,number,Number of Persons,,population,9k3k-n9pz,2016 Census - Population by Structure Type and Length of Residence (Citywide)
+no response,number,Number of Persons that did not provide a Response,,population,9k3k-n9pz,2016 Census - Population by Structure Type and Length of Residence (Citywide)
+ownership,text,Ownership Type,,,fnz6-5t6a,2016 Census - Population by Ownership and Length of Residence (Citywide)
+5 years or more,number,Number of Persons,,population,fnz6-5t6a,2016 Census - Population by Ownership and Length of Residence (Citywide)
+no response,number,No Response,,population,fnz6-5t6a,2016 Census - Population by Ownership and Length of Residence (Citywide)
+route id,text,ID that uniquely identifies a route,,,ctwr-tvrd,ETS Bus Schedule GTFS Data Feed - Trips
+service id,text,ID that uniquely identifies a set of dates when service is available for one or more routes.,,,ctwr-tvrd,ETS Bus Schedule GTFS Data Feed - Trips
+trip id,text,ID that identifies a trip,,,ctwr-tvrd,ETS Bus Schedule GTFS Data Feed - Trips
+trip headsign,number,Text that appears on a sign that identifies the trip's destination to passengers,,,ctwr-tvrd,ETS Bus Schedule GTFS Data Feed - Trips
+direction id,number,A binary value that indicates the direction of travel for a trip. 0 - travel in one direction; 1 - travel in opposite direction,,,ctwr-tvrd,ETS Bus Schedule GTFS Data Feed - Trips
+block id,text,"Identifies the block to which the trip belongs. A block consists of two or more sequential trips made using the same vehicle, where a passenger can transfer from one trip to the next just by staying in the vehicle.",,,ctwr-tvrd,ETS Bus Schedule GTFS Data Feed - Trips
+year,number,Calendar Year number,year,time,xgwu-c37w,Bylaw Infractions
+month number,number,Month Number,month_number,time,xgwu-c37w,Bylaw Infractions
+month,text,Month Name,month_name,time,xgwu-c37w,Bylaw Infractions
+report period,text,Month and Year when complaint was made,,time,xgwu-c37w,Bylaw Infractions
+neighbourhood,text,Neighbourhood Name where infraction occured,neighbourbood_name,area,xgwu-c37w,Bylaw Infractions
+neighbourhood id,text,Unique Identifier for Neighbourhood where infraction occured,neighbourbood_id,area,xgwu-c37w,Bylaw Infractions
+complaint,text,General classification of complaint made according to a specific by-law,,,xgwu-c37w,Bylaw Infractions
+initiated by,text,Identifies who initiated the complaint - either a Citizen or a By-law Officer,,,xgwu-c37w,Bylaw Infractions
+status,text,Current status of a complaint. It can be either Under Investigation or Resolved Complaint.,,,xgwu-c37w,Bylaw Infractions
+count,number,"Total number of Complaints based upon Report Period, Neighbourhood, Complaint and Status",,,xgwu-c37w,Bylaw Infractions
+latitude,number,Horizontal Geographic Coordinate for a Neighbourhood centroid location,latitude,location,xgwu-c37w,Bylaw Infractions
+longitude,number,Vertical Geographic Coordinate for a Neighbourhood centroid location,longitude,location,xgwu-c37w,Bylaw Infractions
+location,location,Spatial Centroid of a Neighbourhood where a by-law complaint has been reported.,location,location,xgwu-c37w,Bylaw Infractions
+ward,text,City Ward Number,ward_name,area,rffx-a53i,2014 Census - Population By Employment Status (Ward)
+employment status,text,Employment Status Type,,,rffx-a53i,2014 Census - Population By Employment Status (Ward)
+population,number,Number of Individuals for a given Employment Status Type,population,population,rffx-a53i,2014 Census - Population By Employment Status (Ward)
+department,text,City of Edmonton department,,,bvgz-epnk,2012 Monthly KM's Driven By Asset Class And Department
+period,text,Year/Month,date,time,bvgz-epnk,2012 Monthly KM's Driven By Asset Class And Department
+asset class,text,Description of the asset class - Type of Vehicle,,,bvgz-epnk,2012 Monthly KM's Driven By Asset Class And Department
+kilometers driven,number,Number of kilometers driven,,,bvgz-epnk,2012 Monthly KM's Driven By Asset Class And Department
+responsedate,calendar_date,,date,time,8r47-e8yy,Pawn Shops - Edmonton Insight Community
+completiondate,calendar_date,,date,time,8r47-e8yy,Pawn Shops - Edmonton Insight Community
+ostype,text,,,,8r47-e8yy,Pawn Shops - Edmonton Insight Community
+devicetype,text,,,,8r47-e8yy,Pawn Shops - Edmonton Insight Community
+browsertype,text,,,,8r47-e8yy,Pawn Shops - Edmonton Insight Community
+responsedate,calendar_date,,date,time,tbsz-v2rj,Cannabis - Edmonton Insight Community
+completiondate,calendar_date,,date,time,tbsz-v2rj,Cannabis - Edmonton Insight Community
+ostype,text,,,,tbsz-v2rj,Cannabis - Edmonton Insight Community
+devicetype,text,,,,tbsz-v2rj,Cannabis - Edmonton Insight Community
+browsertype,text,,,,tbsz-v2rj,Cannabis - Edmonton Insight Community
+department,text,City of Edmonton department,,,nmyd-hbqs,2014 Monthly KM's Driven By Asset Class And Department
+period,text,Year/Month,date,time,nmyd-hbqs,2014 Monthly KM's Driven By Asset Class And Department
+asset class,text,Description of the asset class - Type of Vehicle,,,nmyd-hbqs,2014 Monthly KM's Driven By Asset Class And Department
+kilometers driven,number,Number of kilometers driven,,,nmyd-hbqs,2014 Monthly KM's Driven By Asset Class And Department
+map name,text,The title given to the Google Map used to collect the data.,,,sijk-j8x8,Bike Racks and Bike Repair Stands
+type of location,text,Indicates the category of the location. Currently includes 3 values: Public bike parking - uncovered; Public bike parking - covered; and Bike repair stations.,,,sijk-j8x8,Bike Racks and Bike Repair Stands
+bike rack location description,text,"The number of parking spots provided. This field also provides a high-level landmark for the location, such as the nearest building.",,,sijk-j8x8,Bike Racks and Bike Repair Stands
+bike capacity,number,The number of bikes able to be locked up at the rack.,,,sijk-j8x8,Bike Racks and Bike Repair Stands
+additional information,text,"Additional Information is used to provide directions to the location, or other notes relevant to cyclists.",,,sijk-j8x8,Bike Racks and Bike Repair Stands
+latitude,number,The latitude of where the rack is located.,latitude,location,sijk-j8x8,Bike Racks and Bike Repair Stands
+longitude,number,The Longitude of where the rack is located.,longitude,location,sijk-j8x8,Bike Racks and Bike Repair Stands
+location,location,"The combination of latitude and longitude, used for mapping purposes.",location,location,sijk-j8x8,Bike Racks and Bike Repair Stands
+photos approved for publication?,text,"Indicates whether all the photos of a location have been approved (if required) for publication. If yes, all photos associated with the record can be presented in the data catalogue; otherwise, the photos should not be made publicly available.",,,sijk-j8x8,Bike Racks and Bike Repair Stands
+number of photos,number,A count of the number of photos available for this location. Currently 0 - 4 photos can be associated with a location.,,,sijk-j8x8,Bike Racks and Bike Repair Stands
+responsedate,calendar_date,,date,time,dnii-845h,City Pools - Edmonton Insight Community
+completiondate,calendar_date,,date,time,dnii-845h,City Pools - Edmonton Insight Community
+ostype,text,,,,dnii-845h,City Pools - Edmonton Insight Community
+devicetype,text,,,,dnii-845h,City Pools - Edmonton Insight Community
+browsertype,text,,,,dnii-845h,City Pools - Edmonton Insight Community
+ward,text,City Ward Number,ward_name,area,hd78-7y4x,2014 Census - Population By Ownership And Length Of Residence (Ward)
+ownership,text,Ownership Type,,,hd78-7y4x,2014 Census - Population By Ownership And Length Of Residence (Ward)
+5 years or more,number,Number of Units,,,hd78-7y4x,2014 Census - Population By Ownership And Length Of Residence (Ward)
+no response,number,No Response,,,hd78-7y4x,2014 Census - Population By Ownership And Length Of Residence (Ward)
+responsedate,calendar_date,,date,time,vdes-kthy,City Council Procedures - Edmonton Insight Community
+completiondate,calendar_date,,date,time,vdes-kthy,City Council Procedures - Edmonton Insight Community
+ostype,text,,,,vdes-kthy,City Council Procedures - Edmonton Insight Community
+devicetype,text,,,,vdes-kthy,City Council Procedures - Edmonton Insight Community
+browsertype,text,,,,vdes-kthy,City Council Procedures - Edmonton Insight Community
+ward,text,City Ward Number,ward_name,area,h8fx-xnfi,2014 Census - Population By Structure Type And Length Of Residence (Neighbourhood)
+neighbourhood number,number,Unique Neighbourhood Number,neighbourbood_id,area,h8fx-xnfi,2014 Census - Population By Structure Type And Length Of Residence (Neighbourhood)
+neighbourhood name,text,Neighbourhood Name,neighbourbood_name,area,h8fx-xnfi,2014 Census - Population By Structure Type And Length Of Residence (Neighbourhood)
+structure type,text,Residential Structure Type,,,h8fx-xnfi,2014 Census - Population By Structure Type And Length Of Residence (Neighbourhood)
+5 years or more,number,Number of Units,,,h8fx-xnfi,2014 Census - Population By Structure Type And Length Of Residence (Neighbourhood)
+no response,number,No Response,,,h8fx-xnfi,2014 Census - Population By Structure Type And Length Of Residence (Neighbourhood)
+ward,text,City Ward Number,ward_name,area,78ux-3dz7,2014 Census - Previous Residence If Less Than One Year (Ward)
+population,number,Number of Individuals,population,population,78ux-3dz7,2014 Census - Previous Residence If Less Than One Year (Ward)
+year,number,Year of incident.,year,time,2gxp-ymsd,2015-2016 Graffiti Audit
+neighbourhood,text,The neighbourhoods within Edmonton where the audit was conducted.,neighbourbood_name,area,2gxp-ymsd,2015-2016 Graffiti Audit
+site type,text,"The type of area within the neighbourhood where the graffiti was found. Hot spot areas were those within a top 20 neighbourhood where significant reports of graffiti vandalism were recorded in the City’s data. A “random” area, the same approximate size.",,,2gxp-ymsd,2015-2016 Graffiti Audit
+category,text,Predefined categories to describe the visual appearance of the graffiti.,,,2gxp-ymsd,2015-2016 Graffiti Audit
+target,text,The object/structure upon which the graffiti was placed.,,,2gxp-ymsd,2015-2016 Graffiti Audit
+size,text,Predetermined categories to identify the variations in the size of the graffiti.,,,2gxp-ymsd,2015-2016 Graffiti Audit
+number of tags,number,The number of tags found at the specific location where the graffiti was found.,,,2gxp-ymsd,2015-2016 Graffiti Audit
+lir value,number,"Intensity value rating for graffiti vandalism at each location. LIR rates nine characteristics (size, colour, complexity, artistic, visibility, longevity, access, surface and re-occurrence) on a scale of one to five where 1 is low and five is high.",,,2gxp-ymsd,2015-2016 Graffiti Audit
+lir group value,text,LIR Value category grouping.,,,2gxp-ymsd,2015-2016 Graffiti Audit
+latitude,number,Latitude coordinate for graffiti marking.,latitude,location,2gxp-ymsd,2015-2016 Graffiti Audit
+longitude,number,Longitude coordinate for graffiti marking.,longitude,location,2gxp-ymsd,2015-2016 Graffiti Audit
+location,location,Spatial location of graffiti markings.,location,location,2gxp-ymsd,2015-2016 Graffiti Audit
+ward,text,City Ward Number,ward_name,area,5pun-d7xy,2014 Census - Dwelling Unit Status (Neighbourhood)
+neighbourhood number,number,Unique Neighbourhood Identifier,neighbourbood_id,area,5pun-d7xy,2014 Census - Dwelling Unit Status (Neighbourhood)
+neighbourhood name,text,Neighbourhood Name,neighbourbood_name,area,5pun-d7xy,2014 Census - Dwelling Unit Status (Neighbourhood)
+occupied,number,Number of Dwelling Units,,,5pun-d7xy,2014 Census - Dwelling Unit Status (Neighbourhood)
+unoccupied,number,Number of Dwelling Units,,,5pun-d7xy,2014 Census - Dwelling Unit Status (Neighbourhood)
+no longer in use,number,Number of Dwelling Units,,,5pun-d7xy,2014 Census - Dwelling Unit Status (Neighbourhood)
+no response,number,Number of Dwelling Units,,,5pun-d7xy,2014 Census - Dwelling Unit Status (Neighbourhood)
+ward,text,City Ward Number,ward_name,area,rutt-y5cv,2016 Census - Dwelling Unit by Structure Type and Ownership (Neighbourhood/Ward)
+neighbourhood number,number,Unique Neighbourhood Identifier,neighbourbood_id,area,rutt-y5cv,2016 Census - Dwelling Unit by Structure Type and Ownership (Neighbourhood/Ward)
+neighbourhood name,text,Neighbourhood Name,neighbourbood_name,area,rutt-y5cv,2016 Census - Dwelling Unit by Structure Type and Ownership (Neighbourhood/Ward)
+structure type,text,Residential Structure Type,,,rutt-y5cv,2016 Census - Dwelling Unit by Structure Type and Ownership (Neighbourhood/Ward)
+owned,number,Number of Dwellings that are Owned,,,rutt-y5cv,2016 Census - Dwelling Unit by Structure Type and Ownership (Neighbourhood/Ward)
+rented,number,Number of Dwellings that are Rented,,,rutt-y5cv,2016 Census - Dwelling Unit by Structure Type and Ownership (Neighbourhood/Ward)
+no response,number,Number of Dwellings that did not Respond,,,rutt-y5cv,2016 Census - Dwelling Unit by Structure Type and Ownership (Neighbourhood/Ward)
+structure type,text,,,,fftr-j9wv,2012 Census - Dwelling Unit By Structure Type (Citywide)
+units,number,,,,fftr-j9wv,2012 Census - Dwelling Unit By Structure Type (Citywide)
+neighbourhood number,number,,neighbourbood_id,area,3b6m-fezs,City of Edmonton - Neighbourhoods (Centroid Point)
+neighbourhood name,text,,neighbourbood_name,area,3b6m-fezs,City of Edmonton - Neighbourhoods (Centroid Point)
+area sq km,number,,,,3b6m-fezs,City of Edmonton - Neighbourhoods (Centroid Point)
+latitude,number,,latitude,location,3b6m-fezs,City of Edmonton - Neighbourhoods (Centroid Point)
+longitude,number,,longitude,location,3b6m-fezs,City of Edmonton - Neighbourhoods (Centroid Point)
+location,location,,location,location,3b6m-fezs,City of Edmonton - Neighbourhoods (Centroid Point)
+councillor,text,,,,qprk-qd35,Councillors' Ward Expenses (2014 - 2016)
+expenditure type,text,,,,qprk-qd35,Councillors' Ward Expenses (2014 - 2016)
+expenditure detail,text,,,,qprk-qd35,Councillors' Ward Expenses (2014 - 2016)
+cost,money,,,,qprk-qd35,Councillors' Ward Expenses (2014 - 2016)
+year,number,,year,time,qprk-qd35,Councillors' Ward Expenses (2014 - 2016)
+responsedate,calendar_date,,date,time,9352-imp8,Exhibition Lands - Edmonton Insight Community
+completiondate,calendar_date,,date,time,9352-imp8,Exhibition Lands - Edmonton Insight Community
+ostype,text,,,,9352-imp8,Exhibition Lands - Edmonton Insight Community
+devicetype,text,,,,9352-imp8,Exhibition Lands - Edmonton Insight Community
+browsertype,text,,,,9352-imp8,Exhibition Lands - Edmonton Insight Community
+responsedate,calendar_date,,date,time,69f4-nnng,Food Council 2016 - Edmonton Insight Community
+completiondate,calendar_date,,date,time,69f4-nnng,Food Council 2016 - Edmonton Insight Community
+gender,text,,gender,sex,69f4-nnng,Food Council 2016 - Edmonton Insight Community
+age,text,,age,age,69f4-nnng,Food Council 2016 - Edmonton Insight Community
+education,text,,,,69f4-nnng,Food Council 2016 - Edmonton Insight Community
+employment status,text,,,,69f4-nnng,Food Council 2016 - Edmonton Insight Community
+fsa,text,,postal_code,area,69f4-nnng,Food Council 2016 - Edmonton Insight Community
+ostype,text,,,,69f4-nnng,Food Council 2016 - Edmonton Insight Community
+devicetype,text,,,,69f4-nnng,Food Council 2016 - Edmonton Insight Community
+browsertype,text,,,,69f4-nnng,Food Council 2016 - Edmonton Insight Community
+image number,text,A cataloguing number assigned to the image.  The structure is: EA (Edmonton Archives); # is the image group number; #(-#) is the specific image within the group of images.,,,5ups-7xwm,Historical/Archived Images
+fonds title,text,"(pronounced fon, it is a shortening of the French term, Fonds d'Archives)
+
+All the records that have been accumulated (made or received) by an individual or organization through normal daily activity and then put aside and saved. Because the records are a by-product of regular activities, this type of aggregation is considered to be a more organic process than the gathering of a collection and therefore is more representative of the creator.",,,5ups-7xwm,Historical/Archived Images
+image title,text,A title and/or caption assigned to the image (to better describe the image).,,,5ups-7xwm,Historical/Archived Images
+image url,url,The URL link to the image as found at https://archivesphotos.edmonton.ca,url,url,5ups-7xwm,Historical/Archived Images
+id,number,City of Edmonton Tree Identification Number,,,eecg-fc54,Trees
+neighbourhood name,text,Neighbourhood name where tree resides.,neighbourbood_name,area,eecg-fc54,Trees
+location type,text,General location where a tree is planted,,,eecg-fc54,Trees
+species botanical,text,Botanical Name of Species,,,eecg-fc54,Trees
+species common,text,Common name of Species. Cultivar indicated when known.,,,eecg-fc54,Trees
+genus,text,Genus identifier for tree,,,eecg-fc54,Trees
+species,text,Species identifier for tree,,,eecg-fc54,Trees
+cultivar,text,Cultivar name of tree if known or applicable,,,eecg-fc54,Trees
+diameter breast height,number,Diameter of trunk in centimetres. Measured at 1.2 metres from ground level.,,,eecg-fc54,Trees
+condition percent,number,Estimated condition of tree health and quality. Measured as a percentage. ,,,eecg-fc54,Trees
+planted date,text,"The date a tree was planted, if known.",date,time,eecg-fc54,Trees
+owner,text,"City owned trees have several different maintenance programs in place. ""Owners"" are indicated in this column to show that arrangement if known.",,,eecg-fc54,Trees
+latitude,number,Horizontal Geographic Coordinate,latitude,location,eecg-fc54,Trees
+longitude,number,Vertical Geographic Coordinate,longitude,location,eecg-fc54,Trees
+location,location,,location,location,eecg-fc54,Trees
+count,number,Unique count id to be used for reporting purposes,,,eecg-fc54,Trees
+ward,text,City Ward Number,ward_name,area,vu9d-aerh,2016 Census - Dwelling Unit by Structure Type and Occupancy (Neighbourhood/Ward)
+neighbourhood number,number,Unique Neighbourhood identifier,neighbourbood_id,area,vu9d-aerh,2016 Census - Dwelling Unit by Structure Type and Occupancy (Neighbourhood/Ward)
+neighbourhood name,text,Neighbourhood Name,neighbourbood_name,area,vu9d-aerh,2016 Census - Dwelling Unit by Structure Type and Occupancy (Neighbourhood/Ward)
+structure type,text,Residential Structure Type,,,vu9d-aerh,2016 Census - Dwelling Unit by Structure Type and Occupancy (Neighbourhood/Ward)
+occupied,number,Number of Units Occupied,,,vu9d-aerh,2016 Census - Dwelling Unit by Structure Type and Occupancy (Neighbourhood/Ward)
+unoccupied,number,Number of Units Not Occupied,,,vu9d-aerh,2016 Census - Dwelling Unit by Structure Type and Occupancy (Neighbourhood/Ward)
+no longer in use,number,Number of Units No Longer in Use,,,vu9d-aerh,2016 Census - Dwelling Unit by Structure Type and Occupancy (Neighbourhood/Ward)
+no response,number,Number of Units that represent as giving No Response,,,vu9d-aerh,2016 Census - Dwelling Unit by Structure Type and Occupancy (Neighbourhood/Ward)
+age,text,"Age of residents effective April 1, 2009.",age,age,gy8c-eq6u,2009 Census - Population By Single Year Of Age And Gender (Citywide)
+female,number, ,,sex,gy8c-eq6u,2009 Census - Population By Single Year Of Age And Gender (Citywide)
+male,number, ,,sex,gy8c-eq6u,2009 Census - Population By Single Year Of Age And Gender (Citywide)
+tweet permalink,url,,url,url,4fc3-4cxh,Twitter Analytics Around Open Data Day 2017
+tweet text,text,,,,4fc3-4cxh,Twitter Analytics Around Open Data Day 2017
+time,calendar_date,,date,time,4fc3-4cxh,Twitter Analytics Around Open Data Day 2017
+impressions,number,Number of times users saw the Tweet on Twitter,,,4fc3-4cxh,Twitter Analytics Around Open Data Day 2017
+engagements,number,Total number of times a uses has interacted with a Tweet.,,,4fc3-4cxh,Twitter Analytics Around Open Data Day 2017
+engagement rate,number,The number of engagements divided by the total number of impressions.,,,4fc3-4cxh,Twitter Analytics Around Open Data Day 2017
+retweets,number,,,,4fc3-4cxh,Twitter Analytics Around Open Data Day 2017
+replies,number,,,,4fc3-4cxh,Twitter Analytics Around Open Data Day 2017
+likes,number,,,,4fc3-4cxh,Twitter Analytics Around Open Data Day 2017
+user profile clicks,number,,,,4fc3-4cxh,Twitter Analytics Around Open Data Day 2017
+url clicks,number,,,,4fc3-4cxh,Twitter Analytics Around Open Data Day 2017
+hashtag clicks,number,,,,4fc3-4cxh,Twitter Analytics Around Open Data Day 2017
+detail expands,number,,,,4fc3-4cxh,Twitter Analytics Around Open Data Day 2017
+permalink clicks,number,,,,4fc3-4cxh,Twitter Analytics Around Open Data Day 2017
+app opens,number,,,,4fc3-4cxh,Twitter Analytics Around Open Data Day 2017
+app installs,number,,,,4fc3-4cxh,Twitter Analytics Around Open Data Day 2017
+follows,number,,,,4fc3-4cxh,Twitter Analytics Around Open Data Day 2017
+email tweet,number,,,,4fc3-4cxh,Twitter Analytics Around Open Data Day 2017
+dial phone,number,,,,4fc3-4cxh,Twitter Analytics Around Open Data Day 2017
+media views,number,,,,4fc3-4cxh,Twitter Analytics Around Open Data Day 2017
+media engagements,number,,,,4fc3-4cxh,Twitter Analytics Around Open Data Day 2017
+meeting  id,text,Primary Key / Unique meeting identifier,,,khtg-hjme,2011-2013 Council And Committee Meetings - Attendance
+item id,text,Foreign Key Identifier - see Agenda Items dataset for the related agenda item,,,khtg-hjme,2011-2013 Council And Committee Meetings - Attendance
+attendee,text,Name of Council or Committee member,,,khtg-hjme,2011-2013 Council And Committee Meetings - Attendance
+status,text,Indicators if Council or Committee member was present during any part of the meeting,,,khtg-hjme,2011-2013 Council And Committee Meetings - Attendance
+job title,text,The job classification according to a Collective Agreement,,,ijxg-n4re,City of Edmonton Administration - Salary Ranges by Job Title
+minimum annual salary ($),number,The minimum of the Salary Range,,,ijxg-n4re,City of Edmonton Administration - Salary Ranges by Job Title
+maximum annual salary ($),number,The maximum of the Salary Range,,,ijxg-n4re,City of Edmonton Administration - Salary Ranges by Job Title
+permanent position count,number,The number of permanent positions for the Job Title.,,,ijxg-n4re,City of Edmonton Administration - Salary Ranges by Job Title
+temporary position count,number,The number of temporary positions for the Job Title.,,,ijxg-n4re,City of Edmonton Administration - Salary Ranges by Job Title
+responsedate,calendar_date,,date,time,pwej-zwwc,Spray Parks - Insight Community
+completiondate,calendar_date,,date,time,pwej-zwwc,Spray Parks - Insight Community
+ostype,text,,,,pwej-zwwc,Spray Parks - Insight Community
+devicetype,text,,,,pwej-zwwc,Spray Parks - Insight Community
+browsertype,text,,,,pwej-zwwc,Spray Parks - Insight Community
+ward,text,City Ward Number,ward_name,area,daq3-i6ze,2016 Census - Dwelling Unit by Ownership (Ward)
+dwelling unit ownership,text,Ownership Type,,,daq3-i6ze,2016 Census - Dwelling Unit by Ownership (Ward)
+dwellings,number,Number of Dwelling Units,,,daq3-i6ze,2016 Census - Dwelling Unit by Ownership (Ward)
+year,number,Year of Collision,year,time,b8xx-awif,Top 100 Intersection Collision Locations (2012-2013)
+collision location - intersection,text,Name of Intersection,,location,b8xx-awif,Top 100 Intersection Collision Locations (2012-2013)
+collision type,text,"Type of Collision that occurred at an Intersection. The values allowed is Injury, Property Damage and Fatality.",,,b8xx-awif,Top 100 Intersection Collision Locations (2012-2013)
+collision cause,text,Reason for the Collision.,,,b8xx-awif,Top 100 Intersection Collision Locations (2012-2013)
+number of collisions,number,The total number of incidences the particular COLLISION CAUSE occurred at the given INTERSECTION for the particular YEAR.,,,b8xx-awif,Top 100 Intersection Collision Locations (2012-2013)
+latitude,number,Latitude geographic coordinate of INTERSECTION,latitude,location,b8xx-awif,Top 100 Intersection Collision Locations (2012-2013)
+longitude,number,Longitude geographic coordinate of INTERSECTION,longitude,location,b8xx-awif,Top 100 Intersection Collision Locations (2012-2013)
+location,location,Spatial geographic coordinates of INTERSECTION,location,location,b8xx-awif,Top 100 Intersection Collision Locations (2012-2013)
+ward,number,,ward_number,area,n2b5-3tn8,2017 Edmonton Election - Voting Stations
+voting station number,text,,,,n2b5-3tn8,2017 Edmonton Election - Voting Stations
+building name,text,,,,n2b5-3tn8,2017 Edmonton Election - Voting Stations
+address,text,,address,location,n2b5-3tn8,2017 Edmonton Election - Voting Stations
+longitude,number,,longitude,location,n2b5-3tn8,2017 Edmonton Election - Voting Stations
+latitude,number,,latitude,location,n2b5-3tn8,2017 Edmonton Election - Voting Stations
+location,location,,location,location,n2b5-3tn8,2017 Edmonton Election - Voting Stations
+responsedate,calendar_date,"
+Date/Time the respondent first opened/started the survey.",date,time,e6mn-r36x,Bike Safety - Edmonton Insight Community
+completiondate,calendar_date,Date/Time the respondent finished the survey.,date,time,e6mn-r36x,Bike Safety - Edmonton Insight Community
+bikesafe drive neither,number,"Respondents were asked to select all that apply. Question:  Do you ...Please select all that apply. Neither
+ || Possible Answers: Yes (1)/No (0)",,,e6mn-r36x,Bike Safety - Edmonton Insight Community
+bikesafe adaware,text,"Respondents were asked to rank the following on a scale:  Over the summer and fall, have you seen any advertising about cyclists on the road for Edmonton cyclists and motorists? || Answers:Yes,No,Don't know/Not sure",,,e6mn-r36x,Bike Safety - Edmonton Insight Community
+bikesafe ads,text,"Respondents were asked to rank the following on a scale:  Have you seen or heard any advertising (including transit advertising, road signs, social media and online advertising) related to ‘Let’s Get There Together’ over the summer and fall? || Answers:Yes,No,Don't know",,,e6mn-r36x,Bike Safety - Edmonton Insight Community
+ostype,text,"System Captured, OS used by the respondent. Question: OS Type? - OSType || Possible Answers: Mac (OS X)/Linux/Windows/iOS/Android/BlackBerry/Unknown",,,e6mn-r36x,Bike Safety - Edmonton Insight Community
+devicetype,text,"System Captured, Device used by the respondent. Question: Device Type? - DeviceType || Possible Answers: Tablet/Desktop/Phone",,,e6mn-r36x,Bike Safety - Edmonton Insight Community
+browsertype,text,"System Captured, Browser used by the respondent. Question: Browser Type? - BrowserType || Possible Answers: Internet Explorer/Firefox/Safari/Google Chrome/Opera/Android/BlackBerry/Unknown",,,e6mn-r36x,Bike Safety - Edmonton Insight Community
+ward,text,City Ward Number,ward_name,area,jqkz-za8y,2016 Census - Dwelling Unit by City Resource Access (Neighbourhood/Ward)
+neighbourhood number,number,Unique Neighbourhood Number,,,jqkz-za8y,2016 Census - Dwelling Unit by City Resource Access (Neighbourhood/Ward)
+neighbourhood name,text,Neighbourhood Name,,,jqkz-za8y,2016 Census - Dwelling Unit by City Resource Access (Neighbourhood/Ward)
+city website,number,Number of Units,,,jqkz-za8y,2016 Census - Dwelling Unit by City Resource Access (Neighbourhood/Ward)
+newspapers,number,Number of Units,,,jqkz-za8y,2016 Census - Dwelling Unit by City Resource Access (Neighbourhood/Ward)
+radio,number,Number of Units,,,jqkz-za8y,2016 Census - Dwelling Unit by City Resource Access (Neighbourhood/Ward)
+tv,number,Number of Units,,,jqkz-za8y,2016 Census - Dwelling Unit by City Resource Access (Neighbourhood/Ward)
+community newsletter,number,Number of Units,,,jqkz-za8y,2016 Census - Dwelling Unit by City Resource Access (Neighbourhood/Ward)
+social media/email,number,Number of Units,,,jqkz-za8y,2016 Census - Dwelling Unit by City Resource Access (Neighbourhood/Ward)
+in person,number,Number of Units,,,jqkz-za8y,2016 Census - Dwelling Unit by City Resource Access (Neighbourhood/Ward)
+billboards,number,Number of Units,,,jqkz-za8y,2016 Census - Dwelling Unit by City Resource Access (Neighbourhood/Ward)
+pamphlets,number,Number of Units,,,jqkz-za8y,2016 Census - Dwelling Unit by City Resource Access (Neighbourhood/Ward)
+no response,number,Number of Units,,,jqkz-za8y,2016 Census - Dwelling Unit by City Resource Access (Neighbourhood/Ward)
+parking facilities,text,,,,tsq5-xp73,Parkade And Surface Lots
+owned/leased,text,,,,tsq5-xp73,Parkade And Surface Lots
+type,text,,,,tsq5-xp73,Parkade And Surface Lots
+total stalls,number,,,,tsq5-xp73,Parkade And Surface Lots
+use,text,,,,tsq5-xp73,Parkade And Surface Lots
+billing type,text,,,,tsq5-xp73,Parkade And Surface Lots
+regular rate ($),money,,,,tsq5-xp73,Parkade And Surface Lots
+5% gst ($),money,,,,tsq5-xp73,Parkade And Surface Lots
+monthly rate ($),money,,,,tsq5-xp73,Parkade And Surface Lots
+effective year,number,,,,tsq5-xp73,Parkade And Surface Lots
+location,location,,location,location,tsq5-xp73,Parkade And Surface Lots
+ward,text,City Ward Number,,,sqn3-6cp5,2016 Census - Population by School Residency (Neighbourhood/Ward)
+neighbourhood number,number,Unique Neighbourhood Identifier,neighbourbood_id,area,sqn3-6cp5,2016 Census - Population by School Residency (Neighbourhood/Ward)
+neighbourhood name,text,Neighbourhood Name,neighbourbood_name,area,sqn3-6cp5,2016 Census - Population by School Residency (Neighbourhood/Ward)
+public,number,Number of Individuals Supporting School Board,,population,sqn3-6cp5,2016 Census - Population by School Residency (Neighbourhood/Ward)
+catholic,number,Number of Individuals Supporting School Board,,population,sqn3-6cp5,2016 Census - Population by School Residency (Neighbourhood/Ward)
+francophone,number,Number of Individuals Supporting School Board,,population,sqn3-6cp5,2016 Census - Population by School Residency (Neighbourhood/Ward)
+no response,number,Number of individuals that did not provide a response to this question,,population,sqn3-6cp5,2016 Census - Population by School Residency (Neighbourhood/Ward)
+responsedate,calendar_date,,,,t3h9-hcx4,Solar Panel Zoning - Edmonton Insight Community
+completiondate,calendar_date,,,,t3h9-hcx4,Solar Panel Zoning - Edmonton Insight Community
+ostype,text,,,,t3h9-hcx4,Solar Panel Zoning - Edmonton Insight Community
+devicetype,text,,,,t3h9-hcx4,Solar Panel Zoning - Edmonton Insight Community
+browsertype,text,,,,t3h9-hcx4,Solar Panel Zoning - Edmonton Insight Community
+responsedate,calendar_date,,,,jcyt-m93g,Secondary Suites - Edmonton Insight Community
+completiondate,calendar_date,,,,jcyt-m93g,Secondary Suites - Edmonton Insight Community
+ostype,text,,,,jcyt-m93g,Secondary Suites - Edmonton Insight Community
+devicetype,text,,,,jcyt-m93g,Secondary Suites - Edmonton Insight Community
+browsertype,text,,,,jcyt-m93g,Secondary Suites - Edmonton Insight Community
+responsedate,calendar_date,,,,i8hp-by3t,Incline to Include Store Ramps Pilot - Edmonton Insight Community
+completiondate,calendar_date,,,,i8hp-by3t,Incline to Include Store Ramps Pilot - Edmonton Insight Community
+ostype,text,,,,i8hp-by3t,Incline to Include Store Ramps Pilot - Edmonton Insight Community
+devicetype,text,,,,i8hp-by3t,Incline to Include Store Ramps Pilot - Edmonton Insight Community
+browsertype,text,,,,i8hp-by3t,Incline to Include Store Ramps Pilot - Edmonton Insight Community
+ward,text,,,,r45z-99vd,2012 Census - Population By Employment Status (Neighbourhood)
+neighbourhood number,number,,,,r45z-99vd,2012 Census - Population By Employment Status (Neighbourhood)
+neighbourhood name,text,,,,r45z-99vd,2012 Census - Population By Employment Status (Neighbourhood)
+preschool,number,,,,r45z-99vd,2012 Census - Population By Employment Status (Neighbourhood)
+post secondary student,number,,,,r45z-99vd,2012 Census - Population By Employment Status (Neighbourhood)
+homemaker,number,,,,r45z-99vd,2012 Census - Population By Employment Status (Neighbourhood)
+unemployed,number,,,,r45z-99vd,2012 Census - Population By Employment Status (Neighbourhood)
+retired,number,,,,r45z-99vd,2012 Census - Population By Employment Status (Neighbourhood)
+permanently unable to work,number,,,,r45z-99vd,2012 Census - Population By Employment Status (Neighbourhood)
+other,number,,,,r45z-99vd,2012 Census - Population By Employment Status (Neighbourhood)
+no response,number,,,,r45z-99vd,2012 Census - Population By Employment Status (Neighbourhood)
+responsedate,calendar_date,,,,h82p-4v64,Vehicle for Hire - Edmonton Insight Community
+completiondate,calendar_date,,,,h82p-4v64,Vehicle for Hire - Edmonton Insight Community
+ostype,text,,,,h82p-4v64,Vehicle for Hire - Edmonton Insight Community
+devicetype,text,,,,h82p-4v64,Vehicle for Hire - Edmonton Insight Community
+browsertype,text,,,,h82p-4v64,Vehicle for Hire - Edmonton Insight Community
+year,number,Calendar year for budget,year,time,eazf-zhey,City of Edmonton - Financial Budget (Full Time Equivalence)
+department / agencies,text,Name of City Department or Agency responsible for budget.,,,eazf-zhey,City of Edmonton - Financial Budget (Full Time Equivalence)
+branch,text,Name of Branch responsible for budget.,,,eazf-zhey,City of Edmonton - Financial Budget (Full Time Equivalence)
+status,text,Current status for a particular budget year. Only two (2) choices exist - Actual or Budget,,,eazf-zhey,City of Edmonton - Financial Budget (Full Time Equivalence)
+full-time equivalents,number,A unit of measure showing how many employees the Branch has - assuming all employees work a full-time schedule.,,,eazf-zhey,City of Edmonton - Financial Budget (Full Time Equivalence)
+name,text,Name of police station,,,e7aq-scxv,Police Stations
+address,text,Street address for police station,address,location,e7aq-scxv,Police Stations
+latitude,number,Latitude coordinate for police station,latitude,location,e7aq-scxv,Police Stations
+longitude,number,Longitude coordinate for police station,longitude,location,e7aq-scxv,Police Stations
+location,location,Geographic coordinates for police station,location,location,e7aq-scxv,Police Stations
+year,number,Calendar year for budget,year,time,qycq-4ckj,City of Edmonton - Financial Budget
+department / agencies,text,Name of City Department or Agency responsible for budget item.,,,qycq-4ckj,City of Edmonton - Financial Budget
+branch,text,Name of Branch responsible for budget item,,,qycq-4ckj,City of Edmonton - Financial Budget
+status,text,Current status for a particular budget item. Only two (2) choices exist - Actual or Budget,,,qycq-4ckj,City of Edmonton - Financial Budget
+budget category,text,High-level categorization of budget item - Revenue & Transfers or Expenditures & Transfers,,,qycq-4ckj,City of Edmonton - Financial Budget
+budget sub-category,text,Budget item description,,,qycq-4ckj,City of Edmonton - Financial Budget
+ward,text,,ward_name,area,y354-d5xg,2012 Census - Population By Employment Status (Ward)
+employment status,text,,,,y354-d5xg,2012 Census - Population By Employment Status (Ward)
+population,number,,population,population,y354-d5xg,2012 Census - Population By Employment Status (Ward)
+site number,number,"A unique identifier for a site location
+",,,b58q-nxjr,Average Annual Weekday Traffic Volumes (2009-2015)
+site name,text,Location name where a traffic volume reading was taken,,,b58q-nxjr,Average Annual Weekday Traffic Volumes (2009-2015)
+year,number,The year the traffic volumes pertain to.,year,time,b58q-nxjr,Average Annual Weekday Traffic Volumes (2009-2015)
+average daily volume,number,The actual or estimated traffic volume value at a given location for a particular year.,,,b58q-nxjr,Average Annual Weekday Traffic Volumes (2009-2015)
+latitude,number,Horizontal spatial location of Site,latitude,location,b58q-nxjr,Average Annual Weekday Traffic Volumes (2009-2015)
+longitude,number,Vertical spatial location of Site,longitude,location,b58q-nxjr,Average Annual Weekday Traffic Volumes (2009-2015)
+location,location,Spatial Location of Site,location,location,b58q-nxjr,Average Annual Weekday Traffic Volumes (2009-2015)
+responsedate,calendar_date,,,,7y7e-qpey,Edmonton Climate Change - Edmonton Insight Community
+completiondate,calendar_date,,,,7y7e-qpey,Edmonton Climate Change - Edmonton Insight Community
+ostype,text,,,,7y7e-qpey,Edmonton Climate Change - Edmonton Insight Community
+devicetype,text,,,,7y7e-qpey,Edmonton Climate Change - Edmonton Insight Community
+browsertype,text,,,,7y7e-qpey,Edmonton Climate Change - Edmonton Insight Community
+lrt stop number,number,A unique number assigned to the LRT Station/Stop.,,,j77g-ki3x,LRT Stations and Stops
+lrt stop description,text,A brief description of the LRT Station/Stop.  Generally makes reference to some landmark and/or city location.,,,j77g-ki3x,LRT Stations and Stops
+lrt travel direction,text,The travel direction that correspondes to the LRT Stop Number and latitude/longitude for the Station/Stop.,,,j77g-ki3x,LRT Stations and Stops
+latitude,number,The latitude value for the LRT Station/Stop.,,,j77g-ki3x,LRT Stations and Stops
+longitude,number,The longitude value for the LRT Station/Stop.,,,j77g-ki3x,LRT Stations and Stops
+location,location,The combining of the latitude/longitude value for mapping purposes.,,,j77g-ki3x,LRT Stations and Stops
+ward,text,City Ward Number,,,33jk-s9st,2012 Census - Population By Single Year Of Age And Gender (Ward)
+age,text,,age,age,33jk-s9st,2012 Census - Population By Single Year Of Age And Gender (Ward)
+female,number,,,population,33jk-s9st,2012 Census - Population By Single Year Of Age And Gender (Ward)
+male,number,,,population,33jk-s9st,2012 Census - Population By Single Year Of Age And Gender (Ward)
+responsedate,calendar_date,,,,73rt-tykm,Moment Of Reflection - Edmonton Insight Community
+completiondate,calendar_date,,,,73rt-tykm,Moment Of Reflection - Edmonton Insight Community
+ostype,text,,,,73rt-tykm,Moment Of Reflection - Edmonton Insight Community
+devicetype,text,,,,73rt-tykm,Moment Of Reflection - Edmonton Insight Community
+browsertype,text,,,,73rt-tykm,Moment Of Reflection - Edmonton Insight Community
+responsedate,calendar_date,,,,y875-8ukm,Recycling - Edmonton Insight Community
+completiondate,calendar_date,,,,y875-8ukm,Recycling - Edmonton Insight Community
+ostype,text,,,,y875-8ukm,Recycling - Edmonton Insight Community
+devicetype,text,,,,y875-8ukm,Recycling - Edmonton Insight Community
+browsertype,text,,,,y875-8ukm,Recycling - Edmonton Insight Community
+race id,number,Unique Identifier for Election Race,,,h9v5-2eis,2013 Edmonton Election - Results Details (by Voting Station)
+contest name,text,Name of Race,,,h9v5-2eis,2013 Edmonton Election - Results Details (by Voting Station)
+ward name,text,Name of Ward,ward_name,area,h9v5-2eis,2013 Edmonton Election - Results Details (by Voting Station)
+voting station type,text,Type of Voting Station (City Wide Voting Stations show the distribution of votes from the various City-Wide voting opportunities),,,h9v5-2eis,2013 Edmonton Election - Results Details (by Voting Station)
+voting station description,text,Voting Station Description,,,h9v5-2eis,2013 Edmonton Election - Results Details (by Voting Station)
+facility name,text,Location of Voting Station,,location,h9v5-2eis,2013 Edmonton Election - Results Details (by Voting Station)
+eligible voters,number,"Estimated number of Eligible Voters reporting to this Voting Station, based on 2012 Municipal Census (shown for Regular Voting Stations only)",,,h9v5-2eis,2013 Edmonton Election - Results Details (by Voting Station)
+acclaimed,text,A Candidate is Acclaimed if there is only one nomination for that race.,,,h9v5-2eis,2013 Edmonton Election - Results Details (by Voting Station)
+candidate last name,text,Candidate Last Name,,,h9v5-2eis,2013 Edmonton Election - Results Details (by Voting Station)
+candidate first name,text,Candidate First Name,,,h9v5-2eis,2013 Edmonton Election - Results Details (by Voting Station)
+votes received,number,Votes Received by Candidate (Under Votes are ballots counted with no selection for this race; Over Votes are ballots counted with more than the allowable  number of selections in a race - no votes are assigned to a candidate),,,h9v5-2eis,2013 Edmonton Election - Results Details (by Voting Station)
+request number,text,Request Number,,,i4kt-z6xs,Requests for Data
+request description,text,Short Description,,,i4kt-z6xs,Requests for Data
+request details,text,Details,,,i4kt-z6xs,Requests for Data
+request creation date,calendar_date,Request Creation Date,date,time,i4kt-z6xs,Requests for Data
+status,text,"Current status of the request. Click here for status explanations.
+
+https://data.edmonton.ca/stories/s/266r-inxb/",,,i4kt-z6xs,Requests for Data
+status date,calendar_date,Date/time when the current status was set,date,time,i4kt-z6xs,Requests for Data
+department,text,Which City Department is responsible for the data,,,i4kt-z6xs,Requests for Data
+dataset published date,calendar_date,What date the dataset went public,date,time,i4kt-z6xs,Requests for Data
+dataset url,url,URL to the dataset,url,url,i4kt-z6xs,Requests for Data
+responsedate,calendar_date,,,,itn2-r78n,Property Taxes - Edmonton Insight Community
+completiondate,calendar_date,,,,itn2-r78n,Property Taxes - Edmonton Insight Community
+propertyowner,text,,,,itn2-r78n,Property Taxes - Edmonton Insight Community
+typeofproperty,text,,,,itn2-r78n,Property Taxes - Edmonton Insight Community
+contactcity,text,,,,itn2-r78n,Property Taxes - Edmonton Insight Community
+experience,text,,,,itn2-r78n,Property Taxes - Edmonton Insight Community
+timely,text,,,,itn2-r78n,Property Taxes - Edmonton Insight Community
+ostype,text,,,,itn2-r78n,Property Taxes - Edmonton Insight Community
+devicetype,text,,,,itn2-r78n,Property Taxes - Edmonton Insight Community
+browsertype,text,,,,itn2-r78n,Property Taxes - Edmonton Insight Community
+meeting id,number,Primary Key / Unique meeting identifier,,,prdj-dgnz,2013-2017 Council And Committee Meetings - Attendance
+item id,number,Foreign Key Identifier - see Agenda Items dataset for the related agenda item,,,prdj-dgnz,2013-2017 Council And Committee Meetings - Attendance
+attendee,text,Name of Council or Committee member,,,prdj-dgnz,2013-2017 Council And Committee Meetings - Attendance
+status,text,Indicators if Council or Committee member was present during any part of the meeting,,,prdj-dgnz,2013-2017 Council And Committee Meetings - Attendance
+structure type,text,Type of Building Structure,,,h7gh-6hvx,2016 Census - Population by Structure Type (Citywide)
+population,number,Number of Individuals,population,population,h7gh-6hvx,2016 Census - Population by Structure Type (Citywide)
+postal,text,,postal_code,area,6asu-htha,311 Call Centre Satisfaction Survey 2014
+racenumber,number,,,,yznh-9n2u,2010 Edmonton Election - Official Results
+raceorder,number,,,,yznh-9n2u,2010 Edmonton Election - Official Results
+racename,text,,,,yznh-9n2u,2010 Edmonton Election - Official Results
+wardorder,number,,ward_number,area,yznh-9n2u,2010 Edmonton Election - Official Results
+wardname,text,,ward_name,area,yznh-9n2u,2010 Edmonton Election - Official Results
+stationname,text,,,,yznh-9n2u,2010 Edmonton Election - Official Results
+stationtypesortorder,number,,,,yznh-9n2u,2010 Edmonton Election - Official Results
+eligiblevoters,number,,,,yznh-9n2u,2010 Edmonton Election - Official Results
+acclaimed,text,,,,yznh-9n2u,2010 Edmonton Election - Official Results
+ermcandidate,number,,,,yznh-9n2u,2010 Edmonton Election - Official Results
+candidatename,text,,,,yznh-9n2u,2010 Edmonton Election - Official Results
+votesreceived,number,,,,yznh-9n2u,2010 Edmonton Election - Official Results
+responsedate,calendar_date,,,,59d8-s3sy,Amenity Areas - Edmonton Insight Community
+completiondate,calendar_date,,,,59d8-s3sy,Amenity Areas - Edmonton Insight Community
+ostype,text,,,,59d8-s3sy,Amenity Areas - Edmonton Insight Community
+devicetype,text,,,,59d8-s3sy,Amenity Areas - Edmonton Insight Community
+browsertype,text,,,,59d8-s3sy,Amenity Areas - Edmonton Insight Community
+interview start,calendar_date,,,,2g3q-ffpc,"Climate Perceptions Baseline Survey Data, Questionnaire and Final Report"
+interview end,calendar_date,,,,2g3q-ffpc,"Climate Perceptions Baseline Survey Data, Questionnaire and Final Report"
+age,text,,age,age,2g3q-ffpc,"Climate Perceptions Baseline Survey Data, Questionnaire and Final Report"
+sexe,text,,,sex,2g3q-ffpc,"Climate Perceptions Baseline Survey Data, Questionnaire and Final Report"
+row id,text,A unique ID that combines the Station Number and the time stamp of the data recording.  Done to ensure data does not get duplicated.,,,cnsu-iagr,Water Levels and Flows
+station number,text,The unique identifier for the monitoring station.,,,cnsu-iagr,Water Levels and Flows
+station description,text,The description of where the monitoring station is located.,,,cnsu-iagr,Water Levels and Flows
+latitude,number,The latitude value for the monitoring station's location.,latitude,location,cnsu-iagr,Water Levels and Flows
+longitude,number,The longitude value for the monitoring station's location.,longitude,location,cnsu-iagr,Water Levels and Flows
+station location,location,The latitude/longitude values for the monitoring station's location (used for mapping purposes).,location,location,cnsu-iagr,Water Levels and Flows
+date and time,calendar_date,The date and time of the levels and flows reading.,date,time,cnsu-iagr,Water Levels and Flows
+water level (m),number,The water level reading (in meters).  A value of -1 indicates that the monitoring station did not successfully record a reading. ,,,cnsu-iagr,Water Levels and Flows
+year,number,Calendar Year,year,time,8t7s-6vwq,Residential Building Permits 2015
+neighbourhood,text,City of Edmonton Neighbourhood,neighbourbood_name,area,8t7s-6vwq,Residential Building Permits 2015
+city sector,text,General Geographic Area of City,,area,8t7s-6vwq,Residential Building Permits 2015
+typology,text,"General Neighbourhood classification based on the the Way We Grow, geographic location and age",,,8t7s-6vwq,Residential Building Permits 2015
+neighbourhood number,number,Unique Neighbourhood Identifier,neighbourbood_id,area,8t7s-6vwq,Residential Building Permits 2015
+ward,number,City Ward,ward_number,area,8t7s-6vwq,Residential Building Permits 2015
+traffic district,number,Unique Transportation Management Area as identified by Transportation Services,district,area,8t7s-6vwq,Residential Building Permits 2015
+total construction value ($),money,Total Declared Construction Values Summed-up from Building Permits,,,8t7s-6vwq,Residential Building Permits 2015
+number of permits,number,All building permits issued in the neighbourhood,,,8t7s-6vwq,Residential Building Permits 2015
+number of additions,number,Additions to Primary Residence (does not include additions to accessory buildings),,,8t7s-6vwq,Residential Building Permits 2015
+interior/exterior alterations,number,"Changes to the inside or outside of an existing building. Includes foundation repairs to low-density residential buildings. Also, includes decks.",,,8t7s-6vwq,Residential Building Permits 2015
+accessory buildings,number,Construction or alteration of buildings that are accessory to the primary building (ex. garage),,,8t7s-6vwq,Residential Building Permits 2015
+hot tubs/ pools,number,"New hot tubs or pools. Also, includes man-made ponds",,,8t7s-6vwq,Residential Building Permits 2015
+foundation/ structure,number,Foundation construction for apartment buildings and other multi-family projects,,,8t7s-6vwq,Residential Building Permits 2015
+accessory buildings demolished,number,Demolition of accessory buildings (ex. garage). A demolition permit may not be issued building will be replaced.,,,8t7s-6vwq,Residential Building Permits 2015
+new ss suites,number,Number of New Secondary Suites,,,8t7s-6vwq,Residential Building Permits 2015
+garden suites,number,Free standing residential suite constructed as an accessory building.,,,8t7s-6vwq,Residential Building Permits 2015
+garage suites,number,Free standing residential suite constructed as an accessory building that also includes garage parking.,,,8t7s-6vwq,Residential Building Permits 2015
+single-detached,number,Single-detached house. Does not include secondary suites.,,,8t7s-6vwq,Residential Building Permits 2015
+duplex units,number,"A building containing only two Dwellings, with one Dwelling placed over the other. Each unit is counted individually.",,,8t7s-6vwq,Residential Building Permits 2015
+semi-detached units,number,"A building containing only two Dwellings, with each Dwelling placed side by side. Each unit is counted individually.",,,8t7s-6vwq,Residential Building Permits 2015
+row housing units,number,A building containing a row of three or more Dwellings joined in whole or in part at the side. Also includes stacked row housing. Each unit is counted individually.,,,8t7s-6vwq,Residential Building Permits 2015
+apartment units,number,"Multiple dwellings  contained within a building in which the Dwellings are arranged in any horizontal or vertical configuration, Each unit is counted individually.",,,8t7s-6vwq,Residential Building Permits 2015
+mobile home units,number,"Transportable Single Detached Housing which is suitable for permanent occupancy, designed to be transported on its own wheels.",,,8t7s-6vwq,Residential Building Permits 2015
+mobile units demolished,number,Mobile homes are demolished or removed from a site.,,,8t7s-6vwq,Residential Building Permits 2015
+secondary suites demolished,number,"Secondary Suites removed from primary residence. Note - not all removals require a permit. Therefore, some may not be tracked.",,,8t7s-6vwq,Residential Building Permits 2015
+single units demolished,number,Single dwelling homes are demolished.,,,8t7s-6vwq,Residential Building Permits 2015
+multi-family units demolished,number,"Multi dwelling homes are demolished. This includes duplexes, semi-detached homes, row housing and apartment buildings.",,,8t7s-6vwq,Residential Building Permits 2015
+net units,number,All new dwelling units minus all demolished dwelling units. This includes suites.,,,8t7s-6vwq,Residential Building Permits 2015
+facility type,text,,,,k33x-azs5,Drainage - Manholes
+waste water type,text,Type of Waste Water,,,k33x-azs5,Drainage - Manholes
+year constructed,number,Year when Final Approval Certificate was issued,,,k33x-azs5,Drainage - Manholes
+neighbourhood id,number,,neighbourbood_id,area,k33x-azs5,Drainage - Manholes
+neighbourhood name,text,,neighbourbood_name,area,k33x-azs5,Drainage - Manholes
+ward,text,,ward_name,area,k33x-azs5,Drainage - Manholes
+street / avenue,text,,address,location,k33x-azs5,Drainage - Manholes
+latitude,number,,latitude,location,k33x-azs5,Drainage - Manholes
+longitude,number,,longitude,location,k33x-azs5,Drainage - Manholes
+location,location,,location,location,k33x-azs5,Drainage - Manholes
+fiscal year,number,Calendar year,year,time,pdmi-3qjb,Open Data Budget - Capital (2015)
+service,text,High Level basic municipal services,,,pdmi-3qjb,Open Data Budget - Capital (2015)
+branch,text,Name of City Branch responsible for budget item,,,pdmi-3qjb,Open Data Budget - Capital (2015)
+profile id,text,The ID number for Capital Budget Profile,,,pdmi-3qjb,Open Data Budget - Capital (2015)
+profile,text,General Title Name for Profile,,,pdmi-3qjb,Open Data Budget - Capital (2015)
+fund type,text,"A high-level classification for the fund,",,,pdmi-3qjb,Open Data Budget - Capital (2015)
+fund,text,Name of the fund from where the monies are taken from,,,pdmi-3qjb,Open Data Budget - Capital (2015)
+approved,money,The amount that has been approved to be spent in a given fiscal year.,,,pdmi-3qjb,Open Data Budget - Capital (2015)
+neighbourhood,text,"In order to protect the privacy of individuals, neighbourhood data is not reported for neighbourhoods with populations between 1 and 49 residents.",neighbourbood_name,area,qzrg-q4nv,2009 Census - Population By Single Year Of Age And Gender (Neighbourhood)
+age,text,"Age of residents effective April 1, 2009",age,age,qzrg-q4nv,2009 Census - Population By Single Year Of Age And Gender (Neighbourhood)
+female,number, ,,population,qzrg-q4nv,2009 Census - Population By Single Year Of Age And Gender (Neighbourhood)
+male,number, ,,population,qzrg-q4nv,2009 Census - Population By Single Year Of Age And Gender (Neighbourhood)
+responsedate,calendar_date,,,,e8hk-t7j2,Residential Speed Limits and Community Traffic Management Planning - Survey Results
+completiondate,calendar_date,,,,e8hk-t7j2,Residential Speed Limits and Community Traffic Management Planning - Survey Results
+qa,text,,,,e8hk-t7j2,Residential Speed Limits and Community Traffic Management Planning - Survey Results
+qbi,text,,,,e8hk-t7j2,Residential Speed Limits and Community Traffic Management Planning - Survey Results
+qbii,text,,,,e8hk-t7j2,Residential Speed Limits and Community Traffic Management Planning - Survey Results
+qci,text,,,,e8hk-t7j2,Residential Speed Limits and Community Traffic Management Planning - Survey Results
+qcii,text,,,,e8hk-t7j2,Residential Speed Limits and Community Traffic Management Planning - Survey Results
+qdi,text,,,,e8hk-t7j2,Residential Speed Limits and Community Traffic Management Planning - Survey Results
+qdii,text,,,,e8hk-t7j2,Residential Speed Limits and Community Traffic Management Planning - Survey Results
+ostype,text,,,,e8hk-t7j2,Residential Speed Limits and Community Traffic Management Planning - Survey Results
+devicetype,text,,,,e8hk-t7j2,Residential Speed Limits and Community Traffic Management Planning - Survey Results
+browsertype,text,,,,e8hk-t7j2,Residential Speed Limits and Community Traffic Management Planning - Survey Results
+responsedate,calendar_date,,,,9u4w-mrqv,Gold Bar Trail Signs - Edmonton Insight Community
+completiondate,calendar_date,,,,9u4w-mrqv,Gold Bar Trail Signs - Edmonton Insight Community
+ostype,text,,,,9u4w-mrqv,Gold Bar Trail Signs - Edmonton Insight Community
+devicetype,text,,,,9u4w-mrqv,Gold Bar Trail Signs - Edmonton Insight Community
+browsertype,text,,,,9u4w-mrqv,Gold Bar Trail Signs - Edmonton Insight Community
+row id,text,System generated value for each 311 request created in the system,,,vvnz-h46c,311 Requests (2014)
+date closed,calendar_date,The date the appropriate City department has investigated the concern and identified steps to resolve your request. Action for resolving the issue may be dependent on priority and weather conditions or your issue has been closed due to lack of information including contact details.,date,time,vvnz-h46c,311 Requests (2014)
+date created,calendar_date,The date the service request ticket was created ,date,time,vvnz-h46c,311 Requests (2014)
+year,number,The Year in which the 311 ticket was created.,year,time,vvnz-h46c,311 Requests (2014)
+month number,number,The numeric Month in which the 311 ticket was created.,month_number,time,vvnz-h46c,311 Requests (2014)
+month,text,The Month in which the 311 ticket was created.,month_name,time,vvnz-h46c,311 Requests (2014)
+request status,text,"The stage at which your request is at, Open or Closed. ",,,vvnz-h46c,311 Requests (2014)
+status detail,text,Certain request types may include additional detals describing the progress or action associated with the request. The state of progress the request is at. ,,,vvnz-h46c,311 Requests (2014)
+service category,text,The type of action or service request.,,,vvnz-h46c,311 Requests (2014)
+service description,text,Provides a general description of the service request. ,,,vvnz-h46c,311 Requests (2014)
+interaction channel,text,The channel or method in which the request was initiated,,,vvnz-h46c,311 Requests (2014)
+service area,text,The business area that is responsible for the service. ,,area,vvnz-h46c,311 Requests (2014)
+referral type,text,The action associated with  how the request was handled either information provided or transferred to a business area. ,,,vvnz-h46c,311 Requests (2014)
+neighbourhood id,number,Unique number identifier given to Neighourhoods throughout Edmonton,neighbourbood_id,area,vvnz-h46c,311 Requests (2014)
+neighbourhood,text,The name given to a Neighbourhood,neighbourbood_name,area,vvnz-h46c,311 Requests (2014)
+ward,text,A unique number give to a geographical area representing a electoral area,ward_number,area,vvnz-h46c,311 Requests (2014)
+service category (service area),text,A combination of Service Category and Service Area so visualizations can be created,,,vvnz-h46c,311 Requests (2014)
+(service area) service category,text,A combination of Service Area and Service Category so visualizations can be created,,,vvnz-h46c,311 Requests (2014)
+(service area) service description,text,A combination of Service Area and Service Description so visualizations can be created,,,vvnz-h46c,311 Requests (2014)
+nbhd latitude,number,The latitude value for the centroid of the Neighbourbhood,latitude,location,vvnz-h46c,311 Requests (2014)
+nbhd longitude,number,The longitude value for the centroid of the Neighbourhood,longitude,location,vvnz-h46c,311 Requests (2014)
+nbhd location,location,The combination of latitude/longitude for the centroid of the Neighbourhood used for mapping purposes.,location,location,vvnz-h46c,311 Requests (2014)
+ward latitude,number,The latitude value for the centroid of the Ward,latitude,location,vvnz-h46c,311 Requests (2014)
+ward longitude,number,The longitude value for the centroid of the Ward,longitude,location,vvnz-h46c,311 Requests (2014)
+ward location,location,The combination of latitude/longitude for the centroid of the Ward used for mapping purposes.,location,location,vvnz-h46c,311 Requests (2014)
+count,number,A field created to do a sum function for charting purposes (Note: having this would be equivalent to doing a row count).,,,vvnz-h46c,311 Requests (2014)
+area,text,Official Service Area the drop-in playground program is offered in.,,,baei-id48,Community Drop-in Program - Summer 2014
+drop-in type / amenity,text,Name of drop-in program or type of amenity (i.e. water spray park),,,baei-id48,Community Drop-in Program - Summer 2014
+park name,text,Name of park the drop-in program is offered in.,,,baei-id48,Community Drop-in Program - Summer 2014
+address,text,Address of park the drop-in program is offered in.,address,location,baei-id48,Community Drop-in Program - Summer 2014
+dates,text,"Date or date range the drop-in program runs, or the date or date range during which the amenity is open.",,,baei-id48,Community Drop-in Program - Summer 2014
+hours,text,"The hours the drop-in program runs, or the hours of operation and / or staffed hours of the amenity.",,,baei-id48,Community Drop-in Program - Summer 2014
+additional info,url,Link to Edmonton.ca website,url,url,baei-id48,Community Drop-in Program - Summer 2014
+latitude,number,Horizontal geographic coordinate of Park,latitude,location,baei-id48,Community Drop-in Program - Summer 2014
+longitude,number,Vertical geographic coordinate of Park,longitude,location,baei-id48,Community Drop-in Program - Summer 2014
+location,location,Spatial coordinates of Park,location,location,baei-id48,Community Drop-in Program - Summer 2014
+ward,text,City Ward Number,,,c8st-3nuy,2014 Census - Population By Structure Type (Ward)
+structure type,text,Type of Residential Structure,,,c8st-3nuy,2014 Census - Population By Structure Type (Ward)
+population,number,Number of Individuals,population,population,c8st-3nuy,2014 Census - Population By Structure Type (Ward)
+responsedate,calendar_date,,,,kfnf-vqbh,Edmonton City Of Learners - Edmonton Insight Community
+completiondate,calendar_date,,,,kfnf-vqbh,Edmonton City Of Learners - Edmonton Insight Community
+ostype,text,,,,kfnf-vqbh,Edmonton City Of Learners - Edmonton Insight Community
+devicetype,text,,,,kfnf-vqbh,Edmonton City Of Learners - Edmonton Insight Community
+browsertype,text,,,,kfnf-vqbh,Edmonton City Of Learners - Edmonton Insight Community
+neighbourhood name,text,The municipal neighbourhood name where the sign is located.,neighbourbood_name,area,2976-zu3f,Temporary Sign Locations
+ward,text,The civic ward where the Temporary Sign is located.,ward_name,area,2976-zu3f,Temporary Sign Locations
+district,text,The City District that the Temporary Sign is located in.,district,area,2976-zu3f,Temporary Sign Locations
+zone,text,Zone means a specific group of listed Use Classes and Development Regulations which regulate the use and development of land within specific geographic areas of the City.,,area,2976-zu3f,Temporary Sign Locations
+applicant,text,The person or business that submitted the Development Permit application.,,,2976-zu3f,Temporary Sign Locations
+address,text,The address of the titled lot where the sign is located.,address,location,2976-zu3f,Temporary Sign Locations
+sign id,number,,,,2976-zu3f,Temporary Sign Locations
+permit number,text,This permit number is the same as the project number.,,,2976-zu3f,Temporary Sign Locations
+business advertising,text,The name of the business(es) or development advertising on the sign.,,,2976-zu3f,Temporary Sign Locations
+duration,number,The number of days the permit is valid.,,,2976-zu3f,Temporary Sign Locations
+start date,calendar_date,Development Permit start date.,date,time,2976-zu3f,Temporary Sign Locations
+expiry date,calendar_date,"Development Permit expiry date. After this date, the Development Permit is no longer valid.",date,time,2976-zu3f,Temporary Sign Locations
+flag,text,Flag - status indicator. Current - valid; Future - valid on Start Date.,,,2976-zu3f,Temporary Sign Locations
+sign latitude,number,Latitude geographic coordinate of sign,latitude,location,2976-zu3f,Temporary Sign Locations
+sign longitude,number,Longitude geographic coordinate of sign,longitude,location,2976-zu3f,Temporary Sign Locations
+location,location,Geographic coordinates of sign,location,location,2976-zu3f,Temporary Sign Locations
+icon,url,,url,url,2976-zu3f,Temporary Sign Locations
+neighbourhood id,number,,neighbourbood_id,area,2976-zu3f,Temporary Sign Locations
+street view link,url,,url,url,2976-zu3f,Temporary Sign Locations
+aerial view link,url,,url,url,2976-zu3f,Temporary Sign Locations
+ward,text,City Ward Number,,,72zq-a43j,2014 Census - Dwelling Unit By Language (Ward)
+language,text,Language Spoken,language,language,72zq-a43j,2014 Census - Dwelling Unit By Language (Ward)
+dwellings,number,Number of Households,,,72zq-a43j,2014 Census - Dwelling Unit By Language (Ward)
+ward,text,City Ward Number,,,2g4b-ti2n,2016 Census - Population by Citizenship (Neighbourhood/Ward)
+neighbourhood number,number,Unique Neighbourhood Number,,,2g4b-ti2n,2016 Census - Population by Citizenship (Neighbourhood/Ward)
+neighbourhood name,text,Neighbourhood Name,,,2g4b-ti2n,2016 Census - Population by Citizenship (Neighbourhood/Ward)
+canadian citizen,number,Number of Canadian Citizens,,population,2g4b-ti2n,2016 Census - Population by Citizenship (Neighbourhood/Ward)
+permanent resident,number,Number of Permanent Residents,,population,2g4b-ti2n,2016 Census - Population by Citizenship (Neighbourhood/Ward)
+refugee,number,Number of Refugees,,population,2g4b-ti2n,2016 Census - Population by Citizenship (Neighbourhood/Ward)
+other,number,Number of Other citizens,,population,2g4b-ti2n,2016 Census - Population by Citizenship (Neighbourhood/Ward)
+no response,number,Number of individuals that did not provide a response to this question,,population,2g4b-ti2n,2016 Census - Population by Citizenship (Neighbourhood/Ward)
+race id,number,Unique Identifier for Election Race,,,hcz8-v3q4,2017 Official Election Results (by Voting Station)
+contest name,text,Name of Race,,,hcz8-v3q4,2017 Official Election Results (by Voting Station)
+ward name,text,Name of Ward,ward_name,area,hcz8-v3q4,2017 Official Election Results (by Voting Station)
+voting station type,text,Type of Voting Station (City Wide Voting Stations show the distribution of votes from the various City-Wide voting opportunities),,,hcz8-v3q4,2017 Official Election Results (by Voting Station)
+voting station description,text,Voting Station Description,,,hcz8-v3q4,2017 Official Election Results (by Voting Station)
+facility name,text,Location of Voting Station,,,hcz8-v3q4,2017 Official Election Results (by Voting Station)
+acclaimed,text,A Candidate is Acclaimed if there is only one nomination for that race.,,,hcz8-v3q4,2017 Official Election Results (by Voting Station)
+candidate order,number,The order that the Candidate's name appeared on the voting ballot.,,,hcz8-v3q4,2017 Official Election Results (by Voting Station)
+candidate last name,text,Candidate Last Name,,,hcz8-v3q4,2017 Official Election Results (by Voting Station)
+candidate first name,text,Candidate First Name,,,hcz8-v3q4,2017 Official Election Results (by Voting Station)
+votes received,number,Votes Received by Candidate (Under Votes are ballots counted with no selection for this race; Over Votes are ballots counted with more than the allowable  number of selections in a race - no votes are assigned to a candidate),,,hcz8-v3q4,2017 Official Election Results (by Voting Station)
+ward,text,City Ward Number,,,8xce-nmz6,2016 Census - Population by School Residency (Ward)
+school residency,text,School Board,,,8xce-nmz6,2016 Census - Population by School Residency (Ward)
+population,number,Number of Individuals,population,population,8xce-nmz6,2016 Census - Population by School Residency (Ward)
+row id,text,A unique ID generated to ensure that data (enforcement sites) are not duplicated during the archiving process.,,,mbyc-ffgt,Scheduled Photo Enforcement Zones - History
+scheduled from date,calendar_date,The start date for the week of enforcement at the specified enforcement site.,date,time,mbyc-ffgt,Scheduled Photo Enforcement Zones - History
+scheduled to date,calendar_date,The end date for the week of enforcement at the specified enforcement site.,date,time,mbyc-ffgt,Scheduled Photo Enforcement Zones - History
+site id,number,A system generated number assigned to any newly created enforcement zone.,,,mbyc-ffgt,Scheduled Photo Enforcement Zones - History
+speed limit,number,A speed limit that is being monitored and enforced (km/h).,,,mbyc-ffgt,Scheduled Photo Enforcement Zones - History
+location,text,A description of where along the Road Name that the enforcement zone is located.,,,mbyc-ffgt,Scheduled Photo Enforcement Zones - History
+the geom,text,The geometry string that represents the road segment for the enforcement zone.  This string can be fed into a mapping tool (Carto as an example) and be correctly interpreted to fully map out the road segment.,,,mbyc-ffgt,Scheduled Photo Enforcement Zones - History
+facility name,text,Name of Recreational Facility,,,u6tw-de8t,Recreational Facility - Drop In Fitness
+facility id,number,Unique Facility Identifier,,,u6tw-de8t,Recreational Facility - Drop In Fitness
+booking id,number,Unique Booking Number Identifier,,,u6tw-de8t,Recreational Facility - Drop In Fitness
+activity date,text,Calendar Date for Activity,,,u6tw-de8t,Recreational Facility - Drop In Fitness
+location,text,Name of Location where Activity is to take Place,,location,u6tw-de8t,Recreational Facility - Drop In Fitness
+day,text,Day of Week when Activity is to take place.,day,time,u6tw-de8t,Recreational Facility - Drop In Fitness
+start time,text,Time when Activity is to begin,time,time,u6tw-de8t,Recreational Facility - Drop In Fitness
+end time,text,Time when Activity is to end,time,time,u6tw-de8t,Recreational Facility - Drop In Fitness
+activity,text,Name of Activity,,,u6tw-de8t,Recreational Facility - Drop In Fitness
+abbreviation,text,Unique Identifier for Activity,,,u6tw-de8t,Recreational Facility - Drop In Fitness
+ward,text,City Ward Number,,,hc9x-fhuk,2016 Census - Population by Ownership and Length of Residence (Neighbourhood/Ward)
+neighbourhood number,number,Unique Neighbourhood Number,neighbourbood_id,area,hc9x-fhuk,2016 Census - Population by Ownership and Length of Residence (Neighbourhood/Ward)
+neighbourhood name,text,Neighbourhood Name,neighbourbood_name,area,hc9x-fhuk,2016 Census - Population by Ownership and Length of Residence (Neighbourhood/Ward)
+ownership,text,Ownership Type,,,hc9x-fhuk,2016 Census - Population by Ownership and Length of Residence (Neighbourhood/Ward)
+5 years or more,number,Number of Persons,,population,hc9x-fhuk,2016 Census - Population by Ownership and Length of Residence (Neighbourhood/Ward)
+no response,number,Number of Persons that provided No Response,,population,hc9x-fhuk,2016 Census - Population by Ownership and Length of Residence (Neighbourhood/Ward)
+voting station number,text,Voting Station Number in the format of WARD-STN (e.g. 01-01 is Ward 01 - Station 01),,,dqag-kq5r,2013 Edmonton Election - Voting Stations
+building name,text,Name of the location that is hosting the Voting Station,,,dqag-kq5r,2013 Edmonton Election - Voting Stations
+address,text,Street address of the Voting Station,address,location,dqag-kq5r,2013 Edmonton Election - Voting Stations
+longitude,number,,longitude,location,dqag-kq5r,2013 Edmonton Election - Voting Stations
+latitude,number,,latitude,location,dqag-kq5r,2013 Edmonton Election - Voting Stations
+location,location,,location,location,dqag-kq5r,2013 Edmonton Election - Voting Stations
+responsedate,calendar_date,,,,unb8-wy5n,Edmonton City Charter - Edmonton Insight Community
+completiondate,calendar_date,,,,unb8-wy5n,Edmonton City Charter - Edmonton Insight Community
+ostype,text,,,,unb8-wy5n,Edmonton City Charter - Edmonton Insight Community
+devicetype,text,,,,unb8-wy5n,Edmonton City Charter - Edmonton Insight Community
+browsertype,text,,,,unb8-wy5n,Edmonton City Charter - Edmonton Insight Community
